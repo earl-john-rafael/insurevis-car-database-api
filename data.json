@@ -5,11 +5,11 @@
       "models": [
         {
           "model_name": "595",
-          "year": 2025
+          "year": 2008
         },
         {
           "model_name": "695",
-          "year": 2025
+          "year": 2010
         }
       ]
     },
@@ -18,15 +18,15 @@
       "models": [
         {
           "model_name": "M5",
-          "year": 2025
+          "year": 2022
         },
         {
           "model_name": "M9",
-          "year": 2025
+          "year": 2022
         },
         {
           "model_name": "M7",
-          "year": 2025
+          "year": 2022
         }
       ]
     },
@@ -51,7 +51,7 @@
         },
         {
           "model_name": "Giulia",
-          "year": 2025
+          "year": 2016
         },
         {
           "model_name": "4C",
@@ -165,7 +165,7 @@
         },
         {
           "model_name": "RS7",
-          "year": 2025
+          "year": 2021
         },
         {
           "model_name": "A4",
@@ -181,7 +181,7 @@
         },
         {
           "model_name": "RS6",
-          "year": 2025
+          "year": 2013
         },
         {
           "model_name": "A8 e",
@@ -197,7 +197,7 @@
         },
         {
           "model_name": "RS3",
-          "year": 2025
+          "year": 2015
         },
         {
           "model_name": "TT RS",
@@ -205,7 +205,7 @@
         },
         {
           "model_name": "Q8 e-Tron SUV",
-          "year": 2025
+          "year": 2019
         },
         {
           "model_name": "S7",
@@ -277,7 +277,7 @@
         },
         {
           "model_name": "Q6",
-          "year": 2025
+          "year": 2023
         },
         {
           "model_name": "A5",
@@ -349,7 +349,7 @@
         },
         {
           "model_name": "RS6 Avant",
-          "year": 2025
+          "year": 2013
         },
         {
           "model_name": "5000",
@@ -382,10 +382,6 @@
         {
           "model_name": "A8 L",
           "year": 2021
-        },
-        {
-          "model_name": "S e-tron GT",
-          "year": 2025
         },
         {
           "model_name": "R8",
@@ -426,23 +422,23 @@
       "models": [
         {
           "model_name": "X7 Grandeza",
-          "year": 2025
+          "year": 2024
         },
         {
           "model_name": "X55 Verve",
-          "year": 2025
+          "year": 2024
         },
         {
           "model_name": "B80 Wagon",
-          "year": 2025
+          "year": 2016
         },
         {
           "model_name": "B60 Beaumont",
-          "year": 2025
+          "year": 2022
         },
         {
           "model_name": "B30e Dune",
-          "year": 2025
+          "year": 2024
         },
         {
           "model_name": "B40 Pro Trailmaster",
@@ -450,11 +446,7 @@
         },
         {
           "model_name": "B40 Ragnar",
-          "year": 2025
-        },
-        {
-          "model_name": "B60e Beaumont",
-          "year": 2025
+          "year": 2024
         }
       ]
     },
@@ -512,7 +504,7 @@
         },
         {
           "model_name": "Pony",
-          "year": 2025
+          "year": 2023
         }
       ]
     },
@@ -585,7 +577,7 @@
         },
         {
           "model_name": "3-Series Sedan",
-          "year": 2025
+          "year": 2019
         },
         {
           "model_name": "745i",
@@ -601,7 +593,7 @@
         },
         {
           "model_name": "3-Series Touring",
-          "year": 2025
+          "year": 2019
         },
         {
           "model_name": "330xi",
@@ -757,7 +749,7 @@
         },
         {
           "model_name": "M3 Touring",
-          "year": 2025
+          "year": 2023
         },
         {
           "model_name": "740Li",
@@ -785,7 +777,7 @@
         },
         {
           "model_name": "iX1",
-          "year": 2025
+          "year": 2023
         },
         {
           "model_name": "M3",
@@ -961,11 +953,11 @@
         },
         {
           "model_name": "M235",
-          "year": 2025
+          "year": 2020
         },
         {
           "model_name": "M3 Sedan",
-          "year": 2025
+          "year": 2021
         },
         {
           "model_name": "735i",
@@ -1077,7 +1069,7 @@
         },
         {
           "model_name": "228",
-          "year": 2025
+          "year": 2020
         },
         {
           "model_name": "428i",
@@ -1089,7 +1081,7 @@
         },
         {
           "model_name": "7 Series",
-          "year": 2025
+          "year": 2023
         },
         {
           "model_name": "535i/535is",
@@ -1146,7 +1138,7 @@
       "models": [
         {
           "model_name": "Han",
-          "year": 2025
+          "year": 2020
         },
         {
           "model_name": "Seal 5 DM-i",
@@ -1166,7 +1158,7 @@
         },
         {
           "model_name": "Sealion 5",
-          "year": 2025
+          "year": 2024
         },
         {
           "model_name": "Dolphin",
@@ -1174,11 +1166,11 @@
         },
         {
           "model_name": "eMAX 9 DM-i",
-          "year": 2025
+          "year": 2024
         },
         {
           "model_name": "Shark 6 DMO",
-          "year": 2025
+          "year": 2024
         },
         {
           "model_name": "Tang EV",
@@ -1190,7 +1182,7 @@
         },
         {
           "model_name": "Seagull",
-          "year": 2025
+          "year": 2023
         },
         {
           "model_name": "e6",
@@ -1198,7 +1190,7 @@
         },
         {
           "model_name": "Tang DM-i",
-          "year": 2025
+          "year": 2022
         }
       ]
     },
@@ -1239,7 +1231,7 @@
         },
         {
           "model_name": "Nevo Lumin",
-          "year": 2025
+          "year": 2022
 
         },
         {
@@ -1253,7 +1245,7 @@
       "models": [
         {
           "model_name": "Freedom",
-          "year": 2025
+          "year": 2024
         },
         {
           "model_name": "A6",
@@ -1261,11 +1253,11 @@
         },
         {
           "model_name": "Journey MPV M60",
-          "year": 2025
+          "year": 2019
         },
         {
           "model_name": "Work Buddy",
-          "year": 2025
+          "year": 2024
         }
       ]
     },
@@ -1753,19 +1745,19 @@
       "models": [
         {
           "model_name": "E5 PH EV",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "D1",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "EC75",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Candy Mini EV",
-          "year": 0
+          "year": 2025
         }
       ]
     },
@@ -1774,11 +1766,11 @@
       "models": [
         {
           "model_name": "Mirada",
-          "year": 0
+          "year": 1983
         },
         {
           "model_name": "Raider",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "Ram Wagon",
@@ -1806,15 +1798,15 @@
         },
         {
           "model_name": "Monaco",
-          "year": 0
+          "year": 1992
         },
         {
           "model_name": "Charger",
           "year": 2006
         },
         {
-          "model_name": "ARIES",
-          "year": 0
+          "model_name": "Aries",
+          "year": 1989
         },
         {
           "model_name": "Colt",
@@ -1826,11 +1818,11 @@
         },
         {
           "model_name": "400",
-          "year": 0
+          "year": 1983
         },
         {
           "model_name": "600",
-          "year": 0
+          "year": 1984
         },
         {
           "model_name": "Journey",
@@ -1850,23 +1842,23 @@
         },
         {
           "model_name": "Mini Ram",
-          "year": 0
+          "year": 1988
         },
         {
           "model_name": "W-Series",
-          "year": 0
+          "year": 1993
         },
         {
           "model_name": "Shadow",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "Conquest",
-          "year": 0
+          "year": 1986
         },
         {
           "model_name": "D-Series",
-          "year": 0
+          "year": 1993
         },
         {
           "model_name": "Neon",
@@ -1877,12 +1869,12 @@
           "year": 1995
         },
         {
-          "model_name": "DIPLOMAT",
-          "year": 0
+          "model_name": "Diplomat",
+          "year": 1989
         },
         {
           "model_name": "Daytona",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Caravan",
@@ -1894,19 +1886,19 @@
         },
         {
           "model_name": "Dynasty",
-          "year": 0
+          "year": 1993
         },
         {
-          "model_name": "ST.REGIS",
-          "year": 0
+          "model_name": "St. Regis",
+          "year": 1981
         },
         {
-          "model_name": "LANCER",
-          "year": 0
+          "model_name": "Lancer",
+          "year": 1989
         },
         {
           "model_name": "Shelby Charger",
-          "year": 0
+          "year": 1987
         },
         {
           "model_name": "Magnum",
@@ -1929,8 +1921,8 @@
           "year": 2007
         },
         {
-          "model_name": "OMNI",
-          "year": 0
+          "model_name": "Omni",
+          "year": 1990
         },
         {
           "model_name": "Avenger",
@@ -1959,7 +1951,7 @@
       "models": [
         {
           "model_name": "Nanobox EV",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Front Drive Motor",
@@ -1967,23 +1959,23 @@
         },
         {
           "model_name": "Rich 6 EV 450",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Rich 6 EV 350",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Nammi",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "EC31",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "EV35",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Rear Drive Motor",
@@ -1991,47 +1983,47 @@
         },
         {
           "model_name": "M-HERO",
-          "year": 0
+          "year": 2025
         },
         {
-          "model_name": "RIch 7",
-          "year": 0
+          "model_name": "Rich 7",
+          "year": 2025
         },
         {
           "model_name": "EV30",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "EC36",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Forthing U-Tour",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "EV45",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Aeolus Huge",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Aeolus Mage",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "EC35",
-          "year": 0
+          "year": 2018
         },
         {
           "model_name": "Sport",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Forthing Friday",
-          "year": 0
+          "year": 2023
         }
       ]
     },
@@ -2044,11 +2036,11 @@
         },
         {
           "model_name": "Multicarry 1.0",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Loadrunner",
-          "year": 0
+          "year": 2008
         }
       ]
     },
@@ -2057,7 +2049,7 @@
       "models": [
         {
           "model_name": "3.2 Mondial",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "348 tb",
@@ -2085,7 +2077,7 @@
         },
         {
           "model_name": "308GTS",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "SF90 Stradale",
@@ -2133,15 +2125,15 @@
         },
         {
           "model_name": "308GTB Quattrovalvole",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "308 Convertible",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "Testarossa",
-          "year": 0
+          "year": 1991
         },
         {
           "model_name": "Portofino M",
@@ -2161,7 +2153,7 @@
         },
         {
           "model_name": "328 GTB",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "430 Scuderia",
@@ -2181,7 +2173,7 @@
         },
         {
           "model_name": "308GTS Quattrovalvole",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "599 GTB Fiorano",
@@ -2197,7 +2189,7 @@
         },
         {
           "model_name": "308GTBi",
-          "year": 0
+          "year": 1982
         },
         {
           "model_name": "812 Superfast",
@@ -2237,11 +2229,11 @@
         },
         {
           "model_name": "328",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "Mondial T",
-          "year": 0
+          "year": 1993
         },
         {
           "model_name": "355 GTS",
@@ -2253,11 +2245,11 @@
         },
         {
           "model_name": "348 GTS",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "328 GTS",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "Roma Spider",
@@ -2285,7 +2277,7 @@
         },
         {
           "model_name": "308GTSi",
-          "year": 0
+          "year": 1982
         },
         {
           "model_name": "599 GTO",
@@ -2301,11 +2293,11 @@
         },
         {
           "model_name": "308GTB",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "F40",
-          "year": 0
+          "year": 1992
         },
         {
           "model_name": "SF90 Spider",
@@ -2361,7 +2353,7 @@
         },
         {
           "model_name": "Mondial 8",
-          "year": 0
+          "year": 1982
         },
         {
           "model_name": "F164BCB",
@@ -2394,7 +2386,7 @@
       "models": [
         {
           "model_name": "Strada",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "500",
@@ -2406,7 +2398,7 @@
         },
         {
           "model_name": "X 1/9",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "124 Spider",
@@ -2426,7 +2418,7 @@
         },
         {
           "model_name": "Brava",
-          "year": 0
+          "year": 2001
         },
         {
           "model_name": "500e",
@@ -2434,7 +2426,7 @@
         },
         {
           "model_name": "Spider 2000",
-          "year": 0
+          "year": 1982
         }
       ]
     },
@@ -2443,7 +2435,7 @@
       "models": [
         {
           "model_name": "B7000",
-          "year": 0
+          "year": 1998
         },
         {
           "model_name": "Explorer Sport",
@@ -2479,7 +2471,7 @@
         },
         {
           "model_name": "LTD",
-          "year": 0
+          "year": 1986
         },
         {
           "model_name": "Excursion",
@@ -2495,7 +2487,7 @@
         },
         {
           "model_name": "FT8000",
-          "year": 0
+          "year": 1999
         },
         {
           "model_name": "LLA9000",
@@ -2503,7 +2495,7 @@
         },
         {
           "model_name": "C800",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "B800",
@@ -2511,7 +2503,7 @@
         },
         {
           "model_name": "LN800",
-          "year": 0
+          "year": 1998
         },
         {
           "model_name": "Thunderbird",
@@ -2519,7 +2511,7 @@
         },
         {
           "model_name": "Ranger Raptor",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "LNT9000",
@@ -2551,7 +2543,7 @@
         },
         {
           "model_name": "Territory",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "LT9513",
@@ -2567,7 +2559,7 @@
         },
         {
           "model_name": "Bronco II",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "AT9513",
@@ -2599,7 +2591,7 @@
         },
         {
           "model_name": "CT800",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "Crown Victoria",
@@ -2615,7 +2607,7 @@
         },
         {
           "model_name": "LNT800",
-          "year": 0
+          "year": 1998
         },
         {
           "model_name": "Malibu Sedan",
@@ -2651,23 +2643,19 @@
         },
         {
           "model_name": "CT8000",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "F-600",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "E-100",
-          "year": 0
+          "year": 1983
         },
         {
           "model_name": "LT8513",
           "year": 1995
-        },
-        {
-          "model_name": "Recreational Vehicle",
-          "year": 0
         },
         {
           "model_name": "L9522",
@@ -2675,7 +2663,7 @@
         },
         {
           "model_name": "C600",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "LT8000",
@@ -2703,7 +2691,7 @@
         },
         {
           "model_name": "C700",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "LT8501",
@@ -2715,27 +2703,27 @@
         },
         {
           "model_name": "CF6000",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "F8000",
-          "year": 0
+          "year": 1999
         },
         {
           "model_name": "F-100",
-          "year": 0
+          "year": 1983
         },
         {
           "model_name": "LN600",
-          "year": 0
+          "year": 1984
         },
         {
           "model_name": "LT800",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "B6000",
-          "year": 0
+          "year": 1998
         },
         {
           "model_name": "ZX2",
@@ -2747,7 +2735,7 @@
         },
         {
           "model_name": "Laser",
-          "year": 0
+          "year": 2005
         },
         {
           "model_name": "A8513",
@@ -2767,7 +2755,7 @@
         },
         {
           "model_name": "B700",
-          "year": 0
+          "year": 1998
         },
         {
           "model_name": "Escort",
@@ -2791,11 +2779,11 @@
         },
         {
           "model_name": "Fairmont",
-          "year": 0
+          "year": 1983
         },
         {
           "model_name": "CLT9000",
-          "year": 0
+          "year": 1991
         },
         {
           "model_name": "F-700",
@@ -2839,11 +2827,11 @@
         },
         {
           "model_name": "Tempo",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "F7000",
-          "year": 0
+          "year": 1987
         },
         {
           "model_name": "Contour",
@@ -2859,7 +2847,7 @@
         },
         {
           "model_name": "L800",
-          "year": 0
+          "year": 1995
         },
         {
           "model_name": "CFT8000",
@@ -2867,7 +2855,7 @@
         },
         {
           "model_name": "CL9000",
-          "year": 0
+          "year": 1991
         },
         {
           "model_name": "LT9000",
@@ -2887,7 +2875,7 @@
         },
         {
           "model_name": "C8000",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "FT900",
@@ -2903,7 +2891,7 @@
         },
         {
           "model_name": "Granada",
-          "year": 0
+          "year": 1982
         },
         {
           "model_name": "AT9522",
@@ -2915,7 +2903,7 @@
         },
         {
           "model_name": "B600",
-          "year": 0
+          "year": 1998
         },
         {
           "model_name": "P700",
@@ -2927,19 +2915,19 @@
         },
         {
           "model_name": "P600",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "C7000",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "F-590",
-          "year": 0
+          "year": 1999
         },
         {
           "model_name": "FT800",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "GT MKII",
@@ -2947,7 +2935,7 @@
         },
         {
           "model_name": "Festiva",
-          "year": 0
+          "year": 2002
         },
         {
           "model_name": "F-800",
@@ -2987,7 +2975,7 @@
         },
         {
           "model_name": "F6000",
-          "year": 0
+          "year": 1999
         },
         {
           "model_name": "Edge",
@@ -2999,7 +2987,7 @@
         },
         {
           "model_name": "LN700",
-          "year": 0
+          "year": 1995
         },
         {
           "model_name": "Focus",
@@ -3023,7 +3011,7 @@
         },
         {
           "model_name": "Everest",
-          "year": 0
+          "year": 2022
         }
       ]
     },
@@ -3032,47 +3020,47 @@
       "models": [
         {
           "model_name": "Tornado",
-          "year": 0
+          "year": 2004
         },
         {
           "model_name": "Tunland V7",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Toano",
-          "year": 0
+          "year": 2015
         },
         {
           "model_name": "Tunland V9",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Gratour",
-          "year": 0
+          "year": 2016
         },
         {
           "model_name": "Thunder",
-          "year": 0
+          "year": 2012
         },
         {
           "model_name": "Toplander",
-          "year": 0
+          "year": 2015
         },
         {
           "model_name": "Traveller",
-          "year": 0
+          "year": 2014
         },
         {
           "model_name": "Harabas TM300",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Transvan",
-          "year": 0
+          "year": 2014
         },
         {
           "model_name": "Harabas Miler",
-          "year": 0
+          "year": 2023
         }
       ]
     },
@@ -3081,27 +3069,27 @@
       "models": [
         {
           "model_name": "GS3 Emzoom",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "GS8",
-          "year": 0
+          "year": 2016
         },
         {
           "model_name": "Empow",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "M6 Pro",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "M8",
-          "year": 0
+          "year": 2017
         },
         {
           "model_name": "Emkoo",
-          "year": 0
+          "year": 2022
         }
       ]
     },
@@ -3110,11 +3098,11 @@
       "models": [
         {
           "model_name": "ES",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Y Plus",
-          "year": 0
+          "year": 2023
         }
       ]
     },
@@ -3123,15 +3111,15 @@
       "models": [
         {
           "model_name": "Gazelle Next",
-          "year": 0
+          "year": 2013
         },
         {
           "model_name": "Sadko",
-          "year": 0
+          "year": 2014
         },
         {
           "model_name": "Gazon Next",
-          "year": 0
+          "year": 2014
         }
       ]
     },
@@ -3140,23 +3128,23 @@
       "models": [
         {
           "model_name": "GX3 Pro",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Okavango",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "EX5",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Emgrand",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Coolray",
-          "year": 0
+          "year": 2019
         }
       ]
     },
@@ -3165,23 +3153,23 @@
       "models": [
         {
           "model_name": "Haval Jolion",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Cannon",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Haval H6 HEV",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Ora 3",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Tank 300",
-          "year": 0
+          "year": 2022
         }
       ]
     },
@@ -3190,15 +3178,15 @@
       "models": [
         {
           "model_name": "S7",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "7X",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "V70",
-          "year": 0
+          "year": 2018
         }
       ]
     },
@@ -3207,7 +3195,7 @@
       "models": [
         {
           "model_name": "Brio",
-          "year": 0
+          "year": 2018
         },
         {
           "model_name": "Odyssey",
@@ -3215,7 +3203,7 @@
         },
         {
           "model_name": "City",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "S2000",
@@ -3279,7 +3267,7 @@
         },
         {
           "model_name": "BR-V",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Passport",
@@ -3307,7 +3295,7 @@
         },
         {
           "model_name": "City Hatchback",
-          "year": 0
+          "year": 2020
         }
       ]
     },
@@ -3316,35 +3304,35 @@
       "models": [
         {
           "model_name": "H5",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "E-QM5 Plus",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "HQ9",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "E-H7",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "H9",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "E-HS9",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "E-HS7",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "HS3",
-          "year": 0
+          "year": 2023
         }
       ]
     },
@@ -3352,8 +3340,8 @@
       "name": "Hyundai",
       "models": [
         {
-          "model_name": "IONIQ 9",
-          "year": 0
+          "model_name": "Ioniq 9",
+          "year": 2025
         },
         {
           "model_name": "Entourage",
@@ -3373,7 +3361,7 @@
         },
         {
           "model_name": "Excel",
-          "year": 0
+          "year": 1999
         },
         {
           "model_name": "Elantra N",
@@ -3381,7 +3369,7 @@
         },
         {
           "model_name": "Ioniq 6 N",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Tiburon",
@@ -3397,11 +3385,11 @@
         },
         {
           "model_name": "Stellar",
-          "year": 0
+          "year": 1992
         },
         {
           "model_name": "Staria",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Veracruz",
@@ -3417,7 +3405,7 @@
         },
         {
           "model_name": "H-100",
-          "year": 0
+          "year": 2012
         },
         {
           "model_name": "Kona N",
@@ -3457,7 +3445,7 @@
         },
         {
           "model_name": "Pony",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "Elantra",
@@ -3493,19 +3481,19 @@
         },
         {
           "model_name": "Ioniq 9",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Stargazer",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Custin",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Creta",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "Tucson",
@@ -3538,27 +3526,27 @@
       "models": [
         {
           "model_name": "I-Mark",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "D-MAX",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "Amigo",
-          "year": 0
+          "year": 2003
         },
         {
           "model_name": "Stylus",
-          "year": 0
+          "year": 1993
         },
         {
           "model_name": "N-Series",
-          "year": 0
+          "year": 2023
         },
         {
-          "model_name": "IMPULSE",
-          "year": 0
+          "model_name": "Impulse",
+          "year": 1993
         },
         {
           "model_name": "Ascender",
@@ -3570,7 +3558,7 @@
         },
         {
           "model_name": "Trooper II",
-          "year": 0
+          "year": 2002
         },
         {
           "model_name": "Oasis",
@@ -3582,7 +3570,7 @@
         },
         {
           "model_name": "F-Series",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Axiom",
@@ -3594,15 +3582,15 @@
         },
         {
           "model_name": "Traviz",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "S-Series",
-          "year": 0
+          "year": 2015
         },
         {
           "model_name": "C-Series",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Rodeo",
@@ -3610,7 +3598,7 @@
         },
         {
           "model_name": "mu-X",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Rodeo/Amigo",
@@ -3618,7 +3606,7 @@
         },
         {
           "model_name": "E-Series",
-          "year": 0
+          "year": 2023
         }
       ]
     },
@@ -3627,11 +3615,11 @@
       "models": [
         {
           "model_name": "T9",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "Ytterby",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Cobra",
@@ -3639,23 +3627,23 @@
         },
         {
           "model_name": "T8 Pro",
-          "year": 0
+          "year": 2018
         },
         {
           "model_name": "JS6",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "JS2 Pro",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "JS4",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "JS8 Pro",
-          "year": 0
+          "year": 2024
         }
       ]
     },
@@ -3664,11 +3652,11 @@
       "models": [
         {
           "model_name": "EJ6",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "J7 SHS",
-          "year": 0
+          "year": 2024
         }
       ]
     },
@@ -3733,7 +3721,7 @@
         },
         {
           "model_name": "F-Type Coupe",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "F-TYPE",
@@ -3749,7 +3737,7 @@
         },
         {
           "model_name": "F-Type Convertible",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "XJ6",
@@ -3762,7 +3750,7 @@
       "models": [
         {
           "model_name": "Gladiator",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Grand Wagoneer L",
@@ -3778,7 +3766,7 @@
         },
         {
           "model_name": "CJ-6",
-          "year": 0
+          "year": 1981
         },
         {
           "model_name": "Commander",
@@ -3790,7 +3778,7 @@
         },
         {
           "model_name": "J-20",
-          "year": 0
+          "year": 1988
         },
         {
           "model_name": "Patriot",
@@ -3798,7 +3786,7 @@
         },
         {
           "model_name": "CJ-8 Scrambler",
-          "year": 0
+          "year": 1986
         },
         {
           "model_name": "Wagoneer S",
@@ -3810,7 +3798,7 @@
         },
         {
           "model_name": "CJ-5",
-          "year": 0
+          "year": 1983
         },
         {
           "model_name": "Grand Cherokee L",
@@ -3826,7 +3814,7 @@
         },
         {
           "model_name": "Comanche",
-          "year": 0
+          "year": 1992
         },
         {
           "model_name": "Wrangler JK",
@@ -3834,11 +3822,11 @@
         },
         {
           "model_name": "CJ-7",
-          "year": 0
+          "year": 1986
         },
         {
           "model_name": "J-10",
-          "year": 0
+          "year": 1988
         },
         {
           "model_name": "Grand Wagoneer",
@@ -3859,43 +3847,43 @@
       "models": [
         {
           "model_name": "T1 Lightning i-DM",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "X50",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Dashing",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Ice Cream",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "X70",
-          "year": 0
+          "year": 2018
         },
         {
           "model_name": "Dashing Lightning i-DM",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "T2",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "T2 Lightning i-DM",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "X70 Plus",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "X70 Lightning i-DM",
-          "year": 0
+          "year": 2024
         }
       ]
     },
@@ -3904,63 +3892,63 @@
       "models": [
         {
           "model_name": "Grand Avenue",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Transporter",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "JIM",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Touring",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "N730",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "N720",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "N710",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "N830",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "JMK6",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "Vigus",
-          "year": 0
+          "year": 2014
         },
         {
           "model_name": "N820",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "N920",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "JMH",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "N700",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "N810",
-          "year": 0
+          "year": 2020
         }
       ]
     },
@@ -3969,15 +3957,15 @@
       "models": [
         {
           "model_name": "Star Truck",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "CX70",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Honor S",
-          "year": 0
+          "year": 2012
         }
       ]
     },
@@ -3986,15 +3974,15 @@
       "models": [
         {
           "model_name": "E5",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "E-Qute 04",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "X7",
-          "year": 0
+          "year": 2022
         }
       ]
     },
@@ -4003,27 +3991,27 @@
       "models": [
         {
           "model_name": "Rodius",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Tivoli",
-          "year": 0
+          "year": 2015
         },
         {
           "model_name": "Musso",
-          "year": 0
+          "year": 2018
         },
         {
           "model_name": "Rexton",
-          "year": 0
+          "year": 2017
         },
         {
           "model_name": "Tivoli XLV",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Korando",
-          "year": 0
+          "year": 2019
         }
       ]
     },
@@ -4040,7 +4028,7 @@
         },
         {
           "model_name": "Soluto",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Sedona",
@@ -4056,7 +4044,7 @@
         },
         {
           "model_name": "K2500",
-          "year": 0
+          "year": 2018
         },
         {
           "model_name": "Spectra",
@@ -4100,7 +4088,7 @@
         },
         {
           "model_name": "Sonet",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "Soul",
@@ -4149,11 +4137,11 @@
       "models": [
         {
           "model_name": "Univan",
-          "year": 0
+          "year": 2012
         },
         {
           "model_name": "Max",
-          "year": 0
+          "year": 2013
         }
       ]
     },
@@ -4178,7 +4166,7 @@
         },
         {
           "model_name": "Aventador Roadster",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Roadster",
@@ -4251,7 +4239,7 @@
         },
         {
           "model_name": "Discovery 4",
-          "year": 0
+          "year": 2016
         },
         {
           "model_name": "Freelander",
@@ -4312,7 +4300,7 @@
         },
         {
           "model_name": "LM",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "SC",
@@ -4349,19 +4337,19 @@
       "models": [
         {
           "model_name": "L9",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Mega",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "L7",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "L6",
-          "year": 0
+          "year": 2024
         }
       ]
     },
@@ -4370,7 +4358,7 @@
       "models": [
         {
           "model_name": "620",
-          "year": 0
+          "year": 2018
         }
       ]
     },
@@ -4447,7 +4435,7 @@
         },
         {
           "model_name": "Emeya",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "MEL",
@@ -4468,27 +4456,27 @@
       "models": [
         {
           "model_name": "03+",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "05",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "08",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "06",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "01 PHEV",
-          "year": 0
+          "year": 2018
         },
         {
           "model_name": "02",
-          "year": 0
+          "year": 2018
         }
       ]
     },
@@ -4501,11 +4489,11 @@
         },
         {
           "model_name": "Xylo",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Scorpio",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Mahindra MPV",
@@ -4513,7 +4501,7 @@
         },
         {
           "model_name": "Enforcer",
-          "year": 0
+          "year": 2015
         },
         {
           "model_name": "Mahindra TR40",
@@ -4546,7 +4534,7 @@
         },
         {
           "model_name": "Biturbo",
-          "year": 0
+          "year": 1981
         },
         {
           "model_name": "Grecale",
@@ -4558,11 +4546,11 @@
         },
         {
           "model_name": "Merak",
-          "year": 0
+          "year": 1983
         },
         {
           "model_name": "430",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "GranCabrio",
@@ -4578,7 +4566,7 @@
         },
         {
           "model_name": "228",
-          "year": 0
+          "year": 1991
         },
         {
           "model_name": "Grancabrio",
@@ -4586,7 +4574,7 @@
         },
         {
           "model_name": "TC",
-          "year": 0
+          "year": 1990
         }
       ]
     },
@@ -4599,7 +4587,7 @@
         },
         {
           "model_name": "GLC",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "RX-7",
@@ -4607,7 +4595,7 @@
         },
         {
           "model_name": "CX-8",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "CX-50",
@@ -4619,7 +4607,7 @@
         },
         {
           "model_name": "323",
-          "year": 0
+          "year": 2003
         },
         {
           "model_name": "MX-30",
@@ -4643,7 +4631,7 @@
         },
         {
           "model_name": "3",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Mazda6",
@@ -4659,7 +4647,7 @@
         },
         {
           "model_name": "3 Fastback",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Mazda2",
@@ -4667,7 +4655,7 @@
         },
         {
           "model_name": "2 Hatchback",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "B-Series",
@@ -4675,11 +4663,11 @@
         },
         {
           "model_name": "MX-5 RF",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "6 Sports Wagon",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "MPV",
@@ -4691,11 +4679,11 @@
         },
         {
           "model_name": "Navajo",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "BT-50",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "626",
@@ -4707,7 +4695,7 @@
         },
         {
           "model_name": "CX-60",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "929",
@@ -4744,23 +4732,23 @@
       "models": [
         {
           "model_name": "500",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "EQS",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "GLC",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "GLS",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "350",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "CLA-Class",
@@ -4768,11 +4756,11 @@
         },
         {
           "model_name": "300",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "GLA",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Sprinter",
@@ -4780,7 +4768,7 @@
         },
         {
           "model_name": "260",
-          "year": 0
+          "year": 1997
         },
         {
           "model_name": "EQE-Class SUV",
@@ -4796,11 +4784,11 @@
         },
         {
           "model_name": "560",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "GLB",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "A-Class",
@@ -4824,7 +4812,7 @@
         },
         {
           "model_name": "190",
-          "year": 0
+          "year": 1993
         },
         {
           "model_name": "EQS-Class Sedan",
@@ -4832,23 +4820,23 @@
         },
         {
           "model_name": "400",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "600",
-          "year": 0
+          "year": 1981
         },
         {
           "model_name": "240",
-          "year": 0
+          "year": 2004
         },
         {
           "model_name": "C-Class Sedan",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "EQE",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "CL-Class",
@@ -4872,7 +4860,7 @@
         },
         {
           "model_name": "380",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "GLC-Class",
@@ -4880,7 +4868,7 @@
         },
         {
           "model_name": "V-Class",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "CLE",
@@ -4892,7 +4880,7 @@
         },
         {
           "model_name": "EQB",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "GLE-Class",
@@ -4900,7 +4888,7 @@
         },
         {
           "model_name": "Maybach S-Class",
-          "year": 0
+          "year": 2015
         },
         {
           "model_name": "SLS-Class",
@@ -4908,7 +4896,7 @@
         },
         {
           "model_name": "AMG",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "S-Class",
@@ -4924,7 +4912,7 @@
         },
         {
           "model_name": "EQA",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "SLK-Class",
@@ -4948,7 +4936,7 @@
         },
         {
           "model_name": "Maybach GLS",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Metris",
@@ -4956,7 +4944,7 @@
         },
         {
           "model_name": "280",
-          "year": 0
+          "year": 2005
         },
         {
           "model_name": "GL-Class",
@@ -4980,11 +4968,11 @@
         },
         {
           "model_name": "420",
-          "year": 0
+          "year": 2009
         },
         {
           "model_name": "GLE",
-          "year": 0
+          "year": 2023
         }
       ]
     },
@@ -4993,47 +4981,47 @@
       "models": [
         {
           "model_name": "ZS EV",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Cyberster",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "4 EV",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "ZS MCE",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Marvel R",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "GT",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "ONE",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "M9",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "5",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "ZS",
-          "year": 0
+          "year": 2017
         },
         {
           "model_name": "G50 Plus",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Miami",
@@ -5041,19 +5029,19 @@
         },
         {
           "model_name": "4 Xpower",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "TRQ L",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "3",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "ZST",
-          "year": 0
+          "year": 2020
         }
       ]
     },
@@ -5086,7 +5074,7 @@
         },
         {
           "model_name": "Aceman",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Cooper Roadster",
@@ -5107,11 +5095,11 @@
         },
         {
           "model_name": "Sigma",
-          "year": 0
+          "year": 1996
         },
         {
           "model_name": "SPX",
-          "year": 0
+          "year": 1996
         },
         {
           "model_name": "Endeavor",
@@ -5119,15 +5107,15 @@
         },
         {
           "model_name": "Xpander Cross",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Precis",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "Outlander PHEV",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "3000GT",
@@ -5135,7 +5123,7 @@
         },
         {
           "model_name": "XForce",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Mirage",
@@ -5147,15 +5135,15 @@
         },
         {
           "model_name": "Space Wagon",
-          "year": 0
+          "year": 2003
         },
         {
           "model_name": "SP",
-          "year": 0
+          "year": 1986
         },
         {
           "model_name": "Starion",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "Diamante",
@@ -5167,7 +5155,7 @@
         },
         {
           "model_name": "Mighty Max",
-          "year": 0
+          "year": 1996
         },
         {
           "model_name": "Outlander",
@@ -5195,15 +5183,15 @@
         },
         {
           "model_name": "Cordia",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "Triton",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "L300",
-          "year": 0
+          "year": 1998
         },
         {
           "model_name": "Mirage G4",
@@ -5215,7 +5203,7 @@
         },
         {
           "model_name": "Tredia",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "Lancer",
@@ -5231,15 +5219,15 @@
         },
         {
           "model_name": "Xpander",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Wagon",
-          "year": 0
+          "year": 2003
         },
         {
           "model_name": "Van",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "i-MiEV",
@@ -5268,7 +5256,7 @@
         },
         {
           "model_name": "NX",
-          "year": 0
+          "year": 1996
         },
         {
           "model_name": "Xterra",
@@ -5292,7 +5280,7 @@
         },
         {
           "model_name": "Patrol",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Cube",
@@ -5307,12 +5295,12 @@
           "year": 2009
         },
         {
-          "model_name": "PULSAR",
-          "year": 0
+          "model_name": "Pulsar",
+          "year": 2018
         },
         {
           "model_name": "Almera",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Rogue Select",
@@ -5320,7 +5308,7 @@
         },
         {
           "model_name": "Stanza",
-          "year": 0
+          "year": 1992
         },
         {
           "model_name": "Kicks Play",
@@ -5336,7 +5324,7 @@
         },
         {
           "model_name": "Micra",
-          "year": 0
+          "year": 2016
         },
         {
           "model_name": "Rogue Sport",
@@ -5344,7 +5332,7 @@
         },
         {
           "model_name": "NV350 Urvan",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "200SX",
@@ -5364,7 +5352,7 @@
         },
         {
           "model_name": "Axxess",
-          "year": 0
+          "year": 1995
         },
         {
           "model_name": "300ZX",
@@ -5380,7 +5368,7 @@
         },
         {
           "model_name": "Z",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "350Z",
@@ -5424,15 +5412,15 @@
         },
         {
           "model_name": "Terra",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Stanza Wagon",
-          "year": 0
+          "year": 1988
         },
         {
           "model_name": "Livina",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "LEAF",
@@ -5444,11 +5432,11 @@
         },
         {
           "model_name": "Van",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Navara",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "Ariya MPV",
@@ -5461,11 +5449,11 @@
       "models": [
         {
           "model_name": "E5",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "C5",
-          "year": 0
+          "year": 2022
         }
       ]
     },
@@ -5474,23 +5462,23 @@
       "models": [
         {
           "model_name": "Traveller Premium",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "504",
-          "year": 0
+          "year": 2006
         },
         {
           "model_name": "604",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "3008",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "5008",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "505",
@@ -5502,7 +5490,7 @@
         },
         {
           "model_name": "2008",
-          "year": 0
+          "year": 2023
         }
       ]
     },
@@ -5511,11 +5499,11 @@
       "models": [
         {
           "model_name": "928",
-          "year": 0
+          "year": 1995
         },
         {
           "model_name": "Macan Electric",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "718 Cayman",
@@ -5527,7 +5515,7 @@
         },
         {
           "model_name": "Cayenne Coupe",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Macan",
@@ -5535,7 +5523,7 @@
         },
         {
           "model_name": "924",
-          "year": 0
+          "year": 1988
         },
         {
           "model_name": "Cayenne",
@@ -5551,7 +5539,7 @@
         },
         {
           "model_name": "944",
-          "year": 0
+          "year": 1991
         },
         {
           "model_name": "718 Boxster",
@@ -5563,7 +5551,7 @@
         },
         {
           "model_name": "968",
-          "year": 0
+          "year": 1995
         },
         {
           "model_name": "Taycan",
@@ -5584,11 +5572,11 @@
       "models": [
         {
           "model_name": "RD6 Econ",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "RD6 EM-P",
-          "year": 0
+          "year": 2025
         }
       ]
     },
@@ -5658,11 +5646,11 @@
         },
         {
           "model_name": "Camargue",
-          "year": 0
+          "year": 1986
         },
         {
           "model_name": "Phantom Coupe",
-          "year": 0
+          "year": 2016
         },
         {
           "model_name": "Phantom",
@@ -5719,15 +5707,15 @@
         },
         {
           "model_name": "DL",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "RX",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "Brat",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "Legacy",
@@ -5743,11 +5731,11 @@
         },
         {
           "model_name": "Justy",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "GL",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "Forester",
@@ -5767,11 +5755,11 @@
         },
         {
           "model_name": "XT",
-          "year": 0
+          "year": 1991
         },
         {
           "model_name": "WRX Wagon",
-          "year": 0
+          "year": 2014
         },
         {
           "model_name": "SVX",
@@ -5779,7 +5767,7 @@
         },
         {
           "model_name": "Loyale",
-          "year": 0
+          "year": 1994
         },
         {
           "model_name": "Crosstrek",
@@ -5787,11 +5775,11 @@
         },
         {
           "model_name": "GL-10",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "Standard",
-          "year": 0
+          "year": 1989
         },
         {
           "model_name": "B9 Tribeca",
@@ -5799,7 +5787,7 @@
         },
         {
           "model_name": "GLF",
-          "year": 0
+          "year": 1984
         },
         {
           "model_name": "Outback",
@@ -5807,7 +5795,7 @@
         },
         {
           "model_name": "Evoltis",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Impreza",
@@ -5815,7 +5803,7 @@
         },
         {
           "model_name": "XT6",
-          "year": 0
+          "year": 1991
         }
       ]
     },
@@ -5824,7 +5812,7 @@
       "models": [
         {
           "model_name": "Jimny",
-          "year": 0
+          "year": 2018
         },
         {
           "model_name": "Esteem",
@@ -5856,7 +5844,7 @@
         },
         {
           "model_name": "APV",
-          "year": 0
+          "year": 2014
         },
         {
           "model_name": "X-90",
@@ -5864,19 +5852,19 @@
         },
         {
           "model_name": "Jimny 5-Door",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "S-Presso",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Fronx",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Celerio",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Vitara",
@@ -5888,11 +5876,11 @@
         },
         {
           "model_name": "Forsa",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "XL7 Hybrid Black Upgrade",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Aerio",
@@ -5900,7 +5888,7 @@
         },
         {
           "model_name": "Ertiga",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "SX4",
@@ -5912,7 +5900,7 @@
         },
         {
           "model_name": "Carry",
-          "year": 0
+          "year": 2019 
         },
         {
           "model_name": "Sidekick Sport",
@@ -5920,7 +5908,7 @@
         },
         {
           "model_name": "Dzire",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Sidekick",
@@ -5937,11 +5925,11 @@
       "models": [
         {
           "model_name": "Super Ace Mint",
-          "year": 0
+          "year": 2015
         },
         {
           "model_name": "Manza",
-          "year": 0
+          "year": 2015
         }
       ]
     },
@@ -5987,15 +5975,15 @@
         },
         {
           "model_name": "Pick-Up",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Vios",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "Land Cruiser Prado",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Scion xA",
@@ -6003,7 +5991,7 @@
         },
         {
           "model_name": "GR Yaris",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Scion tC",
@@ -6011,11 +5999,11 @@
         },
         {
           "model_name": "Alphard",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Corona",
-          "year": 0
+          "year": 2001
         },
         {
           "model_name": "RAV4 Prime (PHEV)",
@@ -6023,15 +6011,15 @@
         },
         {
           "model_name": "Tamaraw",
-          "year": 0
+          "year": 2005
         },
         {
           "model_name": "Hilux",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Van",
-          "year": 0
+          "year": 2019
         },
         {
           "model_name": "Corolla Matrix",
@@ -6039,7 +6027,7 @@
         },
         {
           "model_name": "Zenix",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Avalon",
@@ -6051,7 +6039,7 @@
         },
         {
           "model_name": "Innova",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Camry",
@@ -6063,7 +6051,7 @@
         },
         {
           "model_name": "Wigo",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Scion FR-S",
@@ -6079,11 +6067,11 @@
         },
         {
           "model_name": "Corolla Altis",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Ativ",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "Crown Signia",
@@ -6091,10 +6079,10 @@
         },
         {
           "model_name": "Hiace",
-          "year": 0
+          "year": 2019
         },
         {
-          "model_name": "COROLLA iM",
+          "model_name": "Corolla iM",
           "year": 2017
         },
         {
@@ -6123,11 +6111,11 @@
         },
         {
           "model_name": "Avanza",
-          "year": 0
+          "year": 2021
         },
         {
           "model_name": "Cressida",
-          "year": 0
+          "year": 1993
         },
         {
           "model_name": "Sequoia",
@@ -6147,7 +6135,7 @@
         },
         {
           "model_name": "Raize",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Prius Prime (PHEV)",
@@ -6171,7 +6159,7 @@
         },
         {
           "model_name": "Starlet",
-          "year": 0
+          "year": 1999
         },
         {
           "model_name": "Prius V",
@@ -6179,11 +6167,11 @@
         },
         {
           "model_name": "Rush",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Veloz",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Supra",
@@ -6207,7 +6195,7 @@
         },
         {
           "model_name": "Yaris Cross",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "MR2",
@@ -6215,7 +6203,7 @@
         },
         {
           "model_name": "Hiace Super Grandia",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "Venza",
@@ -6223,7 +6211,7 @@
         },
         {
           "model_name": "GR Supra",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "Crown",
@@ -6231,7 +6219,7 @@
         },
         {
           "model_name": "Fortuner",
-          "year": 0
+          "year": 2020
         },
         {
           "model_name": "Camry Solara",
@@ -6247,7 +6235,7 @@
         },
         {
           "model_name": "Lite Ace",
-          "year": 0
+          "year": 2022
         },
         {
           "model_name": "Paseo",
@@ -6272,15 +6260,15 @@
       "models": [
         {
           "model_name": "VF e34",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "VF 3",
-          "year": 0
+          "year": 2024
         },
         {
           "model_name": "VF 5",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "VF 6",
@@ -6317,7 +6305,7 @@
         },
         {
           "model_name": "780 Series",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "V60",
@@ -6349,7 +6337,7 @@
         },
         {
           "model_name": "760 Series",
-          "year": 0
+          "year": 1990
         },
         {
           "model_name": "S70",
@@ -6365,7 +6353,7 @@
         },
         {
           "model_name": "260 Series",
-          "year": 0
+          "year": 1985
         },
         {
           "model_name": "XC40",
@@ -6373,7 +6361,7 @@
         },
         {
           "model_name": "EX30 CC",
-          "year": 0
+          "year": 2025
         },
         {
           "model_name": "C40",
@@ -6381,7 +6369,7 @@
         },
         {
           "model_name": "240 Series",
-          "year": 0
+          "year": 1993
         },
         {
           "model_name": "C70 / C30",
@@ -6401,7 +6389,7 @@
         },
         {
           "model_name": "XC40 Recharge",
-          "year": 0
+          "year": 2023
         },
         {
           "model_name": "V40",
@@ -6425,7 +6413,7 @@
         },
         {
           "model_name": "740 Series",
-          "year": 0
+          "year": 1992
         },
         {
           "model_name": "S60",
@@ -6450,7 +6438,7 @@
       "models": [
         {
           "model_name": "Dreamer",
-          "year": 0
+          "year": 2025
         }
       ]
     }
