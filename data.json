@@ -2,1782 +2,6457 @@
   "brands": [
     {
       "name": "Abarth",
-      "models": ["595", "695"]
+      "models": [
+        {
+          "model_name": "595",
+          "year": 2025
+        },
+        {
+          "model_name": "695",
+          "year": 2025
+        }
+      ]
     },
     {
       "name": "Aito",
-      "models": ["M5", "M9", "M7"]
+      "models": [
+        {
+          "model_name": "M5",
+          "year": 2025
+        },
+        {
+          "model_name": "M9",
+          "year": 2025
+        },
+        {
+          "model_name": "M7",
+          "year": 2025
+        }
+      ]
     },
     {
       "name": "Alfa Romeo",
       "models": [
-        "8C Competizione Spider",
-        "Stelvio",
-        "164",
-        "Milano",
-        "Giulia",
-        "4C",
-        "GTV6",
-        "Tonale",
-        "Spider"
+        {
+          "model_name": "8C Competizione Spider",
+          "year": 2000
+        },
+        {
+          "model_name": "Stelvio",
+          "year": 2018
+        },
+        {
+          "model_name": "164",
+          "year": 1995
+        },
+        {
+          "model_name": "Milano",
+          "year": 2024
+        },
+        {
+          "model_name": "Giulia",
+          "year": 2025
+        },
+        {
+          "model_name": "4C",
+          "year": 2014
+        },
+        {
+          "model_name": "GTV6",
+          "year": 1980
+        },
+        {
+          "model_name": "Tonale",
+          "year": 2024
+        },
+        {
+          "model_name": "Spider",
+          "year": 1994
+        }
       ]
     },
     {
       "name": "Aston Martin",
       "models": [
-        "Lagonda",
-        "DBX",
-        "DB9",
-        "Valiant",
-        "Valour",
-        "Vanquish S",
-        "DB11 Coupe",
-        "Valhalla",
-        "V12 Vantage",
-        "V8",
-        "DB12",
-        "DB11",
-        "DB7",
-        "DBS",
-        "Virage",
-        "Vanquish",
-        "V8 Vantage",
-        "Rapide",
-        "Vantage",
-        "Vanquish Zagato"
+        {
+          "model_name": "Lagonda",
+          "year": 1990
+        },
+        {
+          "model_name": "DBX",
+          "year": 2021
+        },
+        {
+          "model_name": "DB9",
+          "year": 2005
+        },
+        {
+          "model_name": "Valiant",
+          "year": 2024
+        },
+        {
+          "model_name": "Valour",
+          "year": 2024
+        },
+        {
+          "model_name": "Vanquish S",
+          "year": 2007
+        },
+        {
+          "model_name": "DB11 Coupe",
+          "year": 2023
+        },
+        {
+          "model_name": "Valhalla",
+          "year": 2025
+        },
+        {
+          "model_name": "V12 Vantage",
+          "year": 2011
+        },
+        {
+          "model_name": "V8",
+          "year": 1989
+        },
+        {
+          "model_name": "DB12",
+          "year": 2024
+        },
+        {
+          "model_name": "DB11",
+          "year": 2017
+        },
+        {
+          "model_name": "DB7",
+          "year": 1995
+        },
+        {
+          "model_name": "DBS",
+          "year": 2009
+        },
+        {
+          "model_name": "Virage",
+          "year": 2012
+        },
+        {
+          "model_name": "Vanquish",
+          "year": 2001
+        },
+        {
+          "model_name": "V8 Vantage",
+          "year": 2009
+        },
+        {
+          "model_name": "Rapide",
+          "year": 2010
+        },
+        {
+          "model_name": "Vantage",
+          "year": 2006
+        },
+        {
+          "model_name": "Vanquish Zagato",
+          "year": 2018
+        }
       ]
     },
     {
       "name": "Audi",
       "models": [
-        "RS Q8",
-        "RS7",
-        "A4",
-        "allroad",
-        "SQ5",
-        "RS6",
-        "A8 e",
-        "S8",
-        "A7 e",
-        "RS3",
-        "TT RS",
-        "Q8 e-Tron SUV",
-        "S7",
-        "A3",
-        "200",
-        "A6",
-        "4000",
-        "Coupe",
-        "RS 3",
-        "A8",
-        "Q7",
-        "S6",
-        "S e-Tron GT",
-        "Q6 e-Tron",
-        "A6 AllRoad",
-        "TTS",
-        "e-tron",
-        "RS 7",
-        "80",
-        "e-tron GT",
-        "TT",
-        "Q6",
-        "A5",
-        "V8",
-        "AllRoad",
-        "RS e-Tron GT",
-        "Q8 e-Tron Sportback",
-        "RS 6 Avant",
-        "Q5",
-        "e-tron Sportback",
-        "A8 L e",
-        "Q8",
-        "Q3",
-        "90",
-        "A6 allroad",
-        "A7",
-        "RS 6",
-        "S3",
-        "SQ8",
-        "RS e-tron GT",
-        "100",
-        "RS6 Avant",
-        "5000",
-        "Q5 e",
-        "Cabriolet",
-        "e-Tron GT",
-        "S4",
-        "RS5",
-        "A4 allroad",
-        "A8 L",
-        "S e-tron GT",
-        "R8",
-        "Q4",
-        "RS e-Tron",
-        "S5",
-        "SQ7",
-        "RS 5",
-        "RS4",
-        "SQ6",
-        "RS 4"
+        {
+          "model_name": "RS Q8",
+          "year": 2020
+        },
+        {
+          "model_name": "RS7",
+          "year": 2025
+        },
+        {
+          "model_name": "A4",
+          "year": 1996
+        },
+        {
+          "model_name": "AllRoad",
+          "year": 2001
+        },
+        {
+          "model_name": "SQ5",
+          "year": 2014
+        },
+        {
+          "model_name": "RS6",
+          "year": 2025
+        },
+        {
+          "model_name": "A8 e",
+          "year": 2020
+        },
+        {
+          "model_name": "S8",
+          "year": 2001
+        },
+        {
+          "model_name": "A7 e",
+          "year": 2021
+        },
+        {
+          "model_name": "RS3",
+          "year": 2025
+        },
+        {
+          "model_name": "TT RS",
+          "year": 2013
+        },
+        {
+          "model_name": "Q8 e-Tron SUV",
+          "year": 2025
+        },
+        {
+          "model_name": "S7",
+          "year": 2013
+        },
+        {
+          "model_name": "A3",
+          "year": 2006
+        },
+        {
+          "model_name": "200",
+          "year": 1991
+        },
+        {
+          "model_name": "A6",
+          "year": 1995
+        },
+        {
+          "model_name": "4000",
+          "year": 1987
+        },
+        {
+          "model_name": "Coupe",
+          "year": 1987
+        },
+        {
+          "model_name": "A8",
+          "year": 1997
+        },
+        {
+          "model_name": "Q7",
+          "year": 2007
+        },
+        {
+          "model_name": "S6",
+          "year": 1995
+        },
+        {
+          "model_name": "S e-Tron GT",
+          "year": 2025
+        },
+        {
+          "model_name": "Q6 e-Tron",
+          "year": 2025
+        },
+        {
+          "model_name": "A6 AllRoad",
+          "year": 2020
+        },
+        {
+          "model_name": "TTS",
+          "year": 2009
+        },
+        {
+          "model_name": "e-tron",
+          "year": 2019
+        },
+        {
+          "model_name": "80",
+          "year": 1996
+        },
+        {
+          "model_name": "e-tron GT",
+          "year": 2022
+        },
+        {
+          "model_name": "TT",
+          "year": 2000
+        },
+        {
+          "model_name": "Q6",
+          "year": 2025
+        },
+        {
+          "model_name": "A5",
+          "year": 2008
+        },
+        {
+          "model_name": "V8",
+          "year": 1994
+        },
+        {
+          "model_name": "RS e-Tron GT",
+          "year": 2022
+        },
+        {
+          "model_name": "Q8 e-Tron Sportback",
+          "year": 2024
+        },
+        {
+          "model_name": "RS 6 Avant",
+          "year": 2021
+        },
+        {
+          "model_name": "Q5",
+          "year": 2009
+        },
+        {
+          "model_name": "e-tron Sportback",
+          "year": 2020
+        },
+        {
+          "model_name": "A8 L e",
+          "year": 2021
+        },
+        {
+          "model_name": "Q8",
+          "year": 2019
+        },
+        {
+          "model_name": "Q3",
+          "year": 2015
+        },
+        {
+          "model_name": "90",
+          "year": 1995
+        },
+        {
+          "model_name": "A6 allroad",
+          "year": 2020
+        },
+        {
+          "model_name": "A7",
+          "year": 2012
+        },
+        {
+          "model_name": "S3",
+          "year": 2015
+        },
+        {
+          "model_name": "SQ8",
+          "year": 2020
+        },
+        {
+          "model_name": "RS e-tron GT",
+          "year": 2022
+        },
+        {
+          "model_name": "100",
+          "year": 1994
+        },
+        {
+          "model_name": "RS6 Avant",
+          "year": 2025
+        },
+        {
+          "model_name": "5000",
+          "year": 1988
+        },
+        {
+          "model_name": "Q5 e",
+          "year": 2020
+        },
+        {
+          "model_name": "Cabriolet",
+          "year": 1995
+        },
+        {
+          "model_name": "e-Tron GT",
+          "year": 2022
+        },
+        {
+          "model_name": "S4",
+          "year": 2000
+        },
+        {
+          "model_name": "RS5",
+          "year": 2024
+        },
+        {
+          "model_name": "A4 allroad",
+          "year": 2013
+        },
+        {
+          "model_name": "A8 L",
+          "year": 2021
+        },
+        {
+          "model_name": "S e-tron GT",
+          "year": 2025
+        },
+        {
+          "model_name": "R8",
+          "year": 2008
+        },
+        {
+          "model_name": "Q4",
+          "year": 2022
+        },
+        {
+          "model_name": "RS e-Tron",
+          "year": 2021
+        },
+        {
+          "model_name": "S5",
+          "year": 2008
+        },
+        {
+          "model_name": "SQ7",
+          "year": 2020
+        },
+        {
+          "model_name": "RS4",
+          "year": 2024
+        },
+        {
+          "model_name": "SQ6",
+          "year": 2025
+        },
+        {
+          "model_name": "RS 4",
+          "year": 2007
+        }
       ]
     },
     {
       "name": "BAIC",
       "models": [
-        "X7 Grandeza",
-        "X55 Verve",
-        "B80 Wagon",
-        "B60 Beaumont",
-        "B30e Dune",
-        "B40 Pro Trailmaster",
-        "B40 Ragnar",
-        "B60e Beaumont"
+        {
+          "model_name": "X7 Grandeza",
+          "year": 2025
+        },
+        {
+          "model_name": "X55 Verve",
+          "year": 2025
+        },
+        {
+          "model_name": "B80 Wagon",
+          "year": 2025
+        },
+        {
+          "model_name": "B60 Beaumont",
+          "year": 2025
+        },
+        {
+          "model_name": "B30e Dune",
+          "year": 2025
+        },
+        {
+          "model_name": "B40 Pro Trailmaster",
+          "year": 2025
+        },
+        {
+          "model_name": "B40 Ragnar",
+          "year": 2025
+        },
+        {
+          "model_name": "B60e Beaumont",
+          "year": 2025
+        }
       ]
     },
     {
       "name": "Bentley",
       "models": [
-        "Continental",
-        "Brooklands",
-        "Flying Spur",
-        "Eight",
-        "Mulsanne",
-        "Bentayga",
-        "Armoured Arnage",
-        "Azure",
-        "Arnage",
-        "Turbo"
+        {
+          "model_name": "Continental",
+          "year": 1995
+        },
+        {
+          "model_name": "Brooklands",
+          "year": 1995
+        },
+        {
+          "model_name": "Flying Spur",
+          "year": 2014
+        },
+        {
+          "model_name": "Eight",
+          "year": 1992
+        },
+        {
+          "model_name": "Mulsanne",
+          "year": 2011
+        },
+        {
+          "model_name": "Bentayga",
+          "year": 2017
+        },
+        {
+          "model_name": "Armoured Arnage",
+          "year": 2004
+        },
+        {
+          "model_name": "Azure",
+          "year": 1996
+        },
+        {
+          "model_name": "Arnage",
+          "year": 1999
+        },
+        {
+          "model_name": "Turbo",
+          "year": 1995
+        }
       ]
     },
     {
       "name": "Bestune",
-      "models": ["NAT E05", "Pony"]
+      "models": [
+        {
+          "model_name": "NAT E05",
+          "year": 2021
+        },
+        {
+          "model_name": "Pony",
+          "year": 2025
+        }
+      ]
     },
     {
       "name": "BMW",
       "models": [
-        "",
-        "Z3",
-        "650xi",
-        "325/325e",
-        "530xi",
-        "340i",
-        "328iC",
-        "135i",
-        "440i",
-        "335",
-        "650i",
-        "318iS",
-        "540d",
-        "Alpina",
-        "535xi",
-        "640xi",
-        "435i",
-        "3-Series Sedan",
-        "745i",
-        "M850i",
-        "335i",
-        "3-Series Touring",
-        "330xi",
-        "328i",
-        "850Ci",
-        "540iA",
-        "M4",
-        "740i",
-        "640i",
-        "ActiveE",
-        "528e",
-        "645Ci",
-        "330Ci",
-        "530e",
-        "533i",
-        "i5",
-        "X6",
-        "325iC",
-        "M3Ci",
-        "745e",
-        "530i",
-        "M760i",
-        "328Ci",
-        "iX3",
-        "228i",
-        "840i",
-        "335d",
-        "650i, B6",
-        "750i, B7",
-        "M2",
-        "633 csi",
-        "735iL",
-        "X4",
-        "i7",
-        "540i",
-        "325xi",
-        "M6",
-        "M340i",
-        "528xi",
-        "525iA",
-        "M3 Touring",
-        "740Li",
-        "535d",
-        "650i, Alpina B6",
-        "733i",
-        "M235i",
-        "i4",
-        "iX1",
-        "M3",
-        "318iC",
-        "545i",
-        "840Ci",
-        "B7",
-        "750xi, Alpina B7",
-        "550i",
-        "X1",
-        "Z8",
-        "740iL",
-        "645i",
-        "323is",
-        "750xi",
-        "550e",
-        "750iL",
-        "430i",
-        "750Li",
-        "325ix",
-        "325i",
-        "330e",
-        "325iS",
-        "XM",
-        "524td",
-        "i8",
-        "230i",
-        "ActiveHybrid 7",
-        "850CSi",
-        "2-Series Coup\u00c3\u00a9",
-        "335is",
-        "128i",
-        "X7",
-        "318i",
-        "745Le",
-        "ActiveHybrid 3",
-        "323i",
-        "M8",
-        "Z4",
-        "530iA",
-        "750Lxi",
-        "750i",
-        "X3",
-        "M240i",
-        "iX2",
-        "M235",
-        "M3 Sedan",
-        "735i",
-        "745Li",
-        "325/325eS",
-        "525xi",
-        "M760Li",
-        "750Li, Alpina B7",
-        "750e",
-        "750i, Alpina B7",
-        "528i",
-        "328iS",
-        "M550i",
-        "320i",
-        "750Lxi, Alpina B7",
-        "535i",
-        "328xi",
-        "Alpina B8",
-        "730i",
-        "328d",
-        "X5",
-        "iX",
-        "M5",
-        "325Ci",
-        "L7",
-        "X2",
-        "i3",
-        "1M",
-        "ActiveHybrid 5",
-        "228",
-        "428i",
-        "335xi",
-        "7 Series",
-        "535i/535is",
-        "525i",
-        "323iC",
-        "330i",
-        "318ti",
-        "M440i",
-        "760Li",
-        "740e",
-        "325i/325is",
-        "850i",
-        "760i",
-        "635CSi"
+        {
+          "model_name": "Z3",
+          "year": 1996
+        },
+        {
+          "model_name": "650xi",
+          "year": 2012
+        },
+        {
+          "model_name": "325/325e",
+          "year": 1988
+        },
+        {
+          "model_name": "530xi",
+          "year": 2006
+        },
+        {
+          "model_name": "340i",
+          "year": 2016
+        },
+        {
+          "model_name": "328iC",
+          "year": 1996
+        },
+        {
+          "model_name": "135i",
+          "year": 2008
+        },
+        {
+          "model_name": "440i",
+          "year": 2017
+        },
+        {
+          "model_name": "335",
+          "year": 2014
+        },
+        {
+          "model_name": "650i",
+          "year": 2006
+        },
+        {
+          "model_name": "318iS",
+          "year": 1995
+        },
+        {
+          "model_name": "540d",
+          "year": 2018
+        },
+        {
+          "model_name": "Alpina",
+          "year": 2003
+        },
+        {
+          "model_name": "535xi",
+          "year": 2008
+        },
+        {
+          "model_name": "640xi",
+          "year": 2018
+        },
+        {
+          "model_name": "435i",
+          "year": 2014
+        },
+        {
+          "model_name": "3-Series Sedan",
+          "year": 2025
+        },
+        {
+          "model_name": "745i",
+          "year": 2002
+        },
+        {
+          "model_name": "M850i",
+          "year": 2020
+        },
+        {
+          "model_name": "335i",
+          "year": 2007
+        },
+        {
+          "model_name": "3-Series Touring",
+          "year": 2025
+        },
+        {
+          "model_name": "330xi",
+          "year": 2002
+        },
+        {
+          "model_name": "328i",
+          "year": 1996
+        },
+        {
+          "model_name": "850Ci",
+          "year": 1995
+        },
+        {
+          "model_name": "540iA",
+          "year": 2003
+        },
+        {
+          "model_name": "M4",
+          "year": 2015
+        },
+        {
+          "model_name": "740i",
+          "year": 1995
+        },
+        {
+          "model_name": "640i",
+          "year": 2012
+        },
+        {
+          "model_name": "ActiveE",
+          "year": 2012
+        },
+        {
+          "model_name": "528e",
+          "year": 1988
+        },
+        {
+          "model_name": "645Ci",
+          "year": 2004
+        },
+        {
+          "model_name": "330Ci",
+          "year": 2001
+        },
+        {
+          "model_name": "530e",
+          "year": 2018
+        },
+        {
+          "model_name": "533i",
+          "year": 1984
+        },
+        {
+          "model_name": "i5",
+          "year": 2024
+        },
+        {
+          "model_name": "X6",
+          "year": 2008
+        },
+        {
+          "model_name": "325iC",
+          "year": 1995
+        },
+        {
+          "model_name": "M3Ci",
+          "year": 2001
+        },
+        {
+          "model_name": "745e",
+          "year": 2020
+        },
+        {
+          "model_name": "530i",
+          "year": 1995
+        },
+        {
+          "model_name": "M760i",
+          "year": 2017
+        },
+        {
+          "model_name": "328Ci",
+          "year": 1999
+        },
+        {
+          "model_name": "iX3",
+          "year": 2024
+        },
+        {
+          "model_name": "228i",
+          "year": 2014
+        },
+        {
+          "model_name": "840i",
+          "year": 2020
+        },
+        {
+          "model_name": "335d",
+          "year": 2009
+        },
+        {
+          "model_name": "650i, B6",
+          "year": 2017
+        },
+        {
+          "model_name": "750i, B7",
+          "year": 2017
+        },
+        {
+          "model_name": "M2",
+          "year": 2016
+        },
+        {
+          "model_name": "633 CSI",
+          "year": 1984
+        },
+        {
+          "model_name": "735iL",
+          "year": 1998
+        },
+        {
+          "model_name": "X4",
+          "year": 2015
+        },
+        {
+          "model_name": "i7",
+          "year": 2023
+        },
+        {
+          "model_name": "540i",
+          "year": 1995
+        },
+        {
+          "model_name": "325xi",
+          "year": 2002
+        },
+        {
+          "model_name": "M6",
+          "year": 2006
+        },
+        {
+          "model_name": "M340i",
+          "year": 2020
+        },
+        {
+          "model_name": "528xi",
+          "year": 2008
+        },
+        {
+          "model_name": "525iA",
+          "year": 2003
+        },
+        {
+          "model_name": "M3 Touring",
+          "year": 2025
+        },
+        {
+          "model_name": "740Li",
+          "year": 2011
+        },
+        {
+          "model_name": "535d",
+          "year": 2014
+        },
+        {
+          "model_name": "650i, Alpina B6",
+          "year": 2015
+        },
+        {
+          "model_name": "733i",
+          "year": 1984
+        },
+        {
+          "model_name": "M235i",
+          "year": 2014
+        },
+        {
+          "model_name": "i4",
+          "year": 2022
+        },
+        {
+          "model_name": "iX1",
+          "year": 2025
+        },
+        {
+          "model_name": "M3",
+          "year": 1995
+        },
+        {
+          "model_name": "318iC",
+          "year": 1995
+        },
+        {
+          "model_name": "545i",
+          "year": 2004
+        },
+        {
+          "model_name": "840Ci",
+          "year": 1995
+        },
+        {
+          "model_name": "B7",
+          "year": 2019
+        },
+        {
+          "model_name": "750xi, Alpina B7",
+          "year": 2012
+        },
+        {
+          "model_name": "550i",
+          "year": 2006
+        },
+        {
+          "model_name": "X1",
+          "year": 2012
+        },
+        {
+          "model_name": "Z8",
+          "year": 2001
+        },
+        {
+          "model_name": "740iL",
+          "year": 1995
+        },
+        {
+          "model_name": "645i",
+          "year": 2004
+        },
+        {
+          "model_name": "323is",
+          "year": 1998
+        },
+        {
+          "model_name": "750xi",
+          "year": 2010
+        },
+        {
+          "model_name": "550e",
+          "year": 2025
+        },
+        {
+          "model_name": "750iL",
+          "year": 1995
+        },
+        {
+          "model_name": "430i",
+          "year": 2017
+        },
+        {
+          "model_name": "750Li",
+          "year": 2000
+        },
+        {
+          "model_name": "325ix",
+          "year": 1991
+        },
+        {
+          "model_name": "325i",
+          "year": 1995
+        },
+        {
+          "model_name": "330e",
+          "year": 2016
+        },
+        {
+          "model_name": "325iS",
+          "year": 1995
+        },
+        {
+          "model_name": "XM",
+          "year": 2023
+        },
+        {
+          "model_name": "524td",
+          "year": 1988
+        },
+        {
+          "model_name": "i8",
+          "year": 2014
+        },
+        {
+          "model_name": "230i",
+          "year": 2017
+        },
+        {
+          "model_name": "ActiveHybrid 7",
+          "year": 2014
+        },
+        {
+          "model_name": "850CSi",
+          "year": 1995
+        },
+        {
+          "model_name": "2-Series Coupé",
+          "year": 2021
+        },
+        {
+          "model_name": "335is",
+          "year": 2011
+        },
+        {
+          "model_name": "128i",
+          "year": 2008
+        },
+        {
+          "model_name": "X7",
+          "year": 2019
+        },
+        {
+          "model_name": "318i",
+          "year": 1995
+        },
+        {
+          "model_name": "745Le",
+          "year": 2022
+        },
+        {
+          "model_name": "ActiveHybrid 3",
+          "year": 2014
+        },
+        {
+          "model_name": "323i",
+          "year": 1999
+        },
+        {
+          "model_name": "M8",
+          "year": 2020
+        },
+        {
+          "model_name": "Z4",
+          "year": 2003
+        },
+        {
+          "model_name": "530iA",
+          "year": 2003
+        },
+        {
+          "model_name": "750Lxi",
+          "year": 2010
+        },
+        {
+          "model_name": "750i",
+          "year": 2001
+        },
+        {
+          "model_name": "X3",
+          "year": 2004
+        },
+        {
+          "model_name": "M240i",
+          "year": 2017
+        },
+        {
+          "model_name": "iX2",
+          "year": 2024
+        },
+        {
+          "model_name": "M235",
+          "year": 2025
+        },
+        {
+          "model_name": "M3 Sedan",
+          "year": 2025
+        },
+        {
+          "model_name": "735i",
+          "year": 2001
+        },
+        {
+          "model_name": "745Li",
+          "year": 2002
+        },
+        {
+          "model_name": "325/325eS",
+          "year": 1988
+        },
+        {
+          "model_name": "525xi",
+          "year": 2006
+        },
+        {
+          "model_name": "M760Li",
+          "year": 2022
+        },
+        {
+          "model_name": "750Li, Alpina B7",
+          "year": 2012
+        },
+        {
+          "model_name": "750e",
+          "year": 2024
+        },
+        {
+          "model_name": "750i, Alpina B7",
+          "year": 2012
+        },
+        {
+          "model_name": "528i",
+          "year": 1997
+        },
+        {
+          "model_name": "328iS",
+          "year": 1996
+        },
+        {
+          "model_name": "M550i",
+          "year": 2018
+        },
+        {
+          "model_name": "320i",
+          "year": 2013
+        },
+        {
+          "model_name": "750Lxi, Alpina B7",
+          "year": 2012
+        },
+        {
+          "model_name": "535i",
+          "year": 2008
+        },
+        {
+          "model_name": "328xi",
+          "year": 2007
+        },
+        {
+          "model_name": "Alpina B8",
+          "year": 2022
+        },
+        {
+          "model_name": "730i",
+          "year": 2022
+        },
+        {
+          "model_name": "328d",
+          "year": 2014
+        },
+        {
+          "model_name": "X5",
+          "year": 2000
+        },
+        {
+          "model_name": "iX",
+          "year": 2022
+        },
+        {
+          "model_name": "M5",
+          "year": 2000
+        },
+        {
+          "model_name": "325Ci",
+          "year": 2000
+        },
+        {
+          "model_name": "L7",
+          "year": 2001
+        },
+        {
+          "model_name": "X2",
+          "year": 2018
+        },
+        {
+          "model_name": "i3",
+          "year": 2014
+        },
+        {
+          "model_name": "1M",
+          "year": 2011
+        },
+        {
+          "model_name": "ActiveHybrid 5",
+          "year": 2012
+        },
+        {
+          "model_name": "228",
+          "year": 2025
+        },
+        {
+          "model_name": "428i",
+          "year": 2014
+        },
+        {
+          "model_name": "335xi",
+          "year": 2007
+        },
+        {
+          "model_name": "7 Series",
+          "year": 2025
+        },
+        {
+          "model_name": "535i/535is",
+          "year": 2017
+        },
+        {
+          "model_name": "525i",
+          "year": 1995
+        },
+        {
+          "model_name": "323iC",
+          "year": 1998
+        },
+        {
+          "model_name": "330i",
+          "year": 2001
+        },
+        {
+          "model_name": "318ti",
+          "year": 1995
+        },
+        {
+          "model_name": "M440i",
+          "year": 2021
+        },
+        {
+          "model_name": "760Li",
+          "year": 2003
+        },
+        {
+          "model_name": "740e",
+          "year": 2017
+        },
+        {
+          "model_name": "325i/325is",
+          "year": 2012
+        },
+        {
+          "model_name": "850i",
+          "year": 2019
+        },
+        {
+          "model_name": "760i",
+          "year": 2005
+        },
+        {
+          "model_name": "635CSi",
+          "year": 1989
+        }
       ]
     },
     {
       "name": "BYD",
       "models": [
-        "Han",
-        "Seal 5 DM-i",
-        "Sealion 6 DM-i",
-        "eMAX 7",
-        "Atto 3",
-        "Sealion 5",
-        "Dolphin",
-        "eMAX 9 DM-i",
-        "Shark 6 DMO",
-        "Tang EV",
-        "Seal",
-        "Seagull",
-        "e6",
-        "Tang DM-i"
+        {
+          "model_name": "Han",
+          "year": 2025
+        },
+        {
+          "model_name": "Seal 5 DM-i",
+          "year": 2025
+        },
+        {
+          "model_name": "Sealion 6 DM-i",
+          "year": 2024
+        },
+        {
+          "model_name": "eMAX 7",
+          "year": 2025
+        },
+        {
+          "model_name": "Atto 3",
+          "year": 2022
+        },
+        {
+          "model_name": "Sealion 5",
+          "year": 2025
+        },
+        {
+          "model_name": "Dolphin",
+          "year": 2023
+        },
+        {
+          "model_name": "eMAX 9 DM-i",
+          "year": 2025
+        },
+        {
+          "model_name": "Shark 6 DMO",
+          "year": 2025
+        },
+        {
+          "model_name": "Tang EV",
+          "year": 2023
+        },
+        {
+          "model_name": "Seal",
+          "year": 2022
+        },
+        {
+          "model_name": "Seagull",
+          "year": 2025
+        },
+        {
+          "model_name": "e6",
+          "year": 2011
+        },
+        {
+          "model_name": "Tang DM-i",
+          "year": 2025
+        }
       ]
     },
     {
       "name": "Changan",
       "models": [
-        "Uni-T",
-        "CS35 Plus",
-        "Nevo Q05",
-        "Uni-K",
-        "CS15",
-        "Nevo Hunter K50",
-        "Alsvin",
-        "X7 Plus",
-        "Nevo Lumin",
-        "CS55 Plus"
+        {
+          "model_name": "Uni-T",
+          "year": 2022
+        },
+        {
+          "model_name": "CS35 Plus",
+          "year": 2022
+        },
+        {
+          "model_name": "Nevo Q05",
+          "year": 2024
+        },
+        {
+          "model_name": "Uni-K",
+          "year": 2022
+        },
+        {
+          "model_name": "CS15",
+          "year": 2024
+        },
+        {
+          "model_name": "Nevo Hunter K50",
+          "year": 2024
+        },
+        {
+          "model_name": "Alsvin",
+          "year": 2020
+        },
+        {
+          "model_name": "X7 Plus",
+          "year": 2023
+        },
+        {
+          "model_name": "Nevo Lumin",
+          "year": 2025
+
+        },
+        {
+          "model_name": "CS55 Plus",
+          "year": 2022
+        }
       ]
     },
     {
       "name": "Changhe",
-      "models": ["Freedom", "A6", "Journey MPV M60", "Work Buddy"]
+      "models": [
+        {
+          "model_name": "Freedom",
+          "year": 2025
+        },
+        {
+          "model_name": "A6",
+          "year": 2024
+        },
+        {
+          "model_name": "Journey MPV M60",
+          "year": 2025
+        },
+        {
+          "model_name": "Work Buddy",
+          "year": 2025
+        }
+      ]
     },
     {
       "name": "Chery",
       "models": [
-        "Tiggo 7 Pro",
-        "Tiggo Grand Tour",
-        "Tiggo Cross",
-        "Tiggo 8 Pro",
-        "Tiggo ReV",
-        "Tiggo Touring"
+        {
+          "model_name": "Tiggo 7 Pro",
+          "year": 2024
+        },
+        {
+          "model_name": "Tiggo Grand Tour",
+          "year": 2025
+        },
+        {
+          "model_name": "Tiggo Cross",
+          "year": 2025
+        },
+        {
+          "model_name": "Tiggo 8 Pro",
+          "year": 2024
+        },
+        {
+          "model_name": "Tiggo ReV",
+          "year": 2025
+        },
+        {
+          "model_name": "Tiggo Touring",
+          "year": 2021
+        }
       ]
     },
     {
       "name": "Chevrolet",
       "models": [
-        "Camaro",
-        "Celebrity",
-        "HHR",
-        "Traverse",
-        "S-10 Pickup",
-        "Geo Spectrum",
-        "P - Series",
-        "Silverado",
-        "Geo Prizm",
-        "Bolt EUV",
-        "Captiva Sport",
-        "Sonic",
-        "Bolt",
-        "Spark",
-        "Alero",
-        "Impala",
-        "Astro Van",
-        "SS",
-        "Lumina APV",
-        "Corvette",
-        "Optra",
-        "Monte Carlo",
-        "Aveo",
-        "GMT-400",
-        "Tracker",
-        "Hearse/Limo Commercial Chassis",
-        "Equinox",
-        "Trax",
-        "Venture",
-        "Nova",
-        "Corsica",
-        "Epica",
-        "Matiz",
-        "Bolt EV",
-        "Captiva",
-        "Cavalier",
-        "Citation",
-        "Lumina",
-        "3 ton",
-        "Hearse/Limo",
-        "Onix",
-        "Kalos",
-        "Tahoe",
-        "Trailblazer",
-        "Blazer",
-        "Cruze Limited",
-        "Malibu Limited",
-        "Groove",
-        "Avalanche",
-        "Malibu",
-        "Caprice Police Vehicle",
-        "U100",
-        "Suburban HD",
-        "G-Series",
-        "Suburban",
-        "Orlando",
-        "Cruze",
-        "Geo Sprint",
-        "Corvette Stingray",
-        "Express",
-        "Volt",
-        "Malibu Classic",
-        "Traverse Limited",
-        "R Conventional",
-        "Uplander",
-        "Chevette",
-        "V Conventional",
-        "Metro",
-        "Caprice",
-        "Cobalt",
-        "Beretta",
-        "Impala Limited"
+        {
+          "model_name": "Camaro",
+          "year": 1995
+        },
+        {
+          "model_name": "Celebrity",
+          "year": 1990
+        },
+        {
+          "model_name": "HHR",
+          "year": 2006
+        },
+        {
+          "model_name": "Traverse",
+          "year": 2009
+        },
+        {
+          "model_name": "S-10 Pickup",
+          "year": 2001
+        },
+        {
+          "model_name": "Geo Spectrum",
+          "year": 1991
+        },
+        {
+          "model_name": "P-Series",
+          "year": 1998
+        },
+        {
+          "model_name": "Silverado",
+          "year": 2001
+        },
+        {
+          "model_name": "Geo Prizm",
+          "year": 1998
+        },
+        {
+          "model_name": "Bolt EUV",
+          "year": 2022
+        },
+        {
+          "model_name": "Captiva Sport",
+          "year": 2010
+        },
+        {
+          "model_name": "Sonic",
+          "year": 2012
+        },
+        {
+          "model_name": "Bolt",
+          "year": 2023
+        },
+        {
+          "model_name": "Spark",
+          "year": 2008
+        },
+        {
+          "model_name": "Alero",
+          "year": 1999
+        },
+        {
+          "model_name": "Impala",
+          "year": 2000
+        },
+        {
+          "model_name": "Astro Van",
+          "year": 1995
+        },
+        {
+          "model_name": "SS",
+          "year": 2014
+        },
+        {
+          "model_name": "Lumina APV",
+          "year": 1995
+        },
+        {
+          "model_name": "Corvette",
+          "year": 1995
+        },
+        {
+          "model_name": "Optra",
+          "year": 2004
+        },
+        {
+          "model_name": "Monte Carlo",
+          "year": 1995
+        },
+        {
+          "model_name": "Aveo",
+          "year": 2004
+        },
+        {
+          "model_name": "GMT-400",
+          "year": 2000
+        },
+        {
+          "model_name": "Tracker",
+          "year": 1995
+        },
+        {
+          "model_name": "Hearse/Limo Commercial Chassis",
+          "year": 2011
+        },
+        {
+          "model_name": "Equinox",
+          "year": 2005
+        },
+        {
+          "model_name": "Trax",
+          "year": 2013
+        },
+        {
+          "model_name": "Venture",
+          "year": 1997
+        },
+        {
+          "model_name": "Nova",
+          "year": 1988
+        },
+        {
+          "model_name": "Corsica",
+          "year": 1995
+        },
+        {
+          "model_name": "Epica",
+          "year": 2004
+        },
+        {
+          "model_name": "Matiz",
+          "year": 2004
+        },
+        {
+          "model_name": "Bolt EV",
+          "year": 2017
+        },
+        {
+          "model_name": "Captiva",
+          "year": 2025
+        },
+        {
+          "model_name": "Cavalier",
+          "year": 1995
+        },
+        {
+          "model_name": "Citation",
+          "year": 1985
+        },
+        {
+          "model_name": "Lumina",
+          "year": 1995
+        },
+        {
+          "model_name": "3 ton",
+          "year": 2001
+        },
+        {
+          "model_name": "Hearse/Limo",
+          "year": 1995
+        },
+        {
+          "model_name": "Onix",
+          "year": 2021
+        },
+        {
+          "model_name": "Kalos",
+          "year": 2008
+        },
+        {
+          "model_name": "Tahoe",
+          "year": 1995
+        },
+        {
+          "model_name": "Trailblazer",
+          "year": 2002
+        },
+        {
+          "model_name": "Blazer",
+          "year": 1995
+        },
+        {
+          "model_name": "Cruze Limited",
+          "year": 2016
+        },
+        {
+          "model_name": "Malibu Limited",
+          "year": 2016
+        },
+        {
+          "model_name": "Groove",
+          "year": 2025
+        },
+        {
+          "model_name": "Avalanche",
+          "year": 2002
+        },
+        {
+          "model_name": "Malibu",
+          "year": 1997
+        },
+        {
+          "model_name": "Caprice Police Vehicle",
+          "year": 2011
+        },
+        {
+          "model_name": "U100",
+          "year": 2004
+        },
+        {
+          "model_name": "Suburban HD",
+          "year": 2024
+        },
+        {
+          "model_name": "G-Series",
+          "year": 1995
+        },
+        {
+          "model_name": "Suburban",
+          "year": 1995
+        },
+        {
+          "model_name": "Orlando",
+          "year": 2009
+        },
+        {
+          "model_name": "Cruze",
+          "year": 2010
+        },
+        {
+          "model_name": "Geo Sprint",
+          "year": 1988
+        },
+        {
+          "model_name": "Corvette Stingray",
+          "year": 2025
+        },
+        {
+          "model_name": "Express",
+          "year": 1997
+        },
+        {
+          "model_name": "Volt",
+          "year": 2011
+        },
+        {
+          "model_name": "Malibu Classic",
+          "year": 2004
+        },
+        {
+          "model_name": "Traverse Limited",
+          "year": 2024
+        },
+        {
+          "model_name": "R Conventional",
+          "year": 1991
+        },
+        {
+          "model_name": "Uplander",
+          "year": 2005
+        },
+        {
+          "model_name": "Chevette",
+          "year": 1987
+        },
+        {
+          "model_name": "V Conventional",
+          "year": 1991
+        },
+        {
+          "model_name": "Metro",
+          "year": 1998
+        },
+        {
+          "model_name": "Caprice",
+          "year": 1995
+        },
+        {
+          "model_name": "Cobalt",
+          "year": 2005
+        },
+        {
+          "model_name": "Beretta",
+          "year": 1995
+        },
+        {
+          "model_name": "Impala Limited",
+          "year": 2014
+        }
       ]
     },
     {
       "name": "Chrysler",
       "models": [
-        "300C",
-        "Aspen",
-        "PT Cruiser",
-        "Concorde/LHS",
-        "300",
-        "Cirrus",
-        "200",
-        "SALON",
-        "Prowler",
-        "NEWPORT",
-        "Grand Caravan",
-        "Sebring",
-        "Viper",
-        "Shadow",
-        "Conquest",
-        "Crossfire",
-        "Neon",
-        "Caravan",
-        "Daytona",
-        "EXECUTIVE",
-        "Pacifica",
-        "Dynasty",
-        "Concorde",
-        "LASER",
-        "Grand Voyager",
-        "LHS",
-        "TC",
-        "Cordoba",
-        "FIFTH AVENUE",
-        "Intrepid",
-        "LeBaron",
-        "Vision",
-        "New Yorker",
-        "E-CLASS",
-        "Voyager",
-        "Town and Country",
-        "Imperial",
-        "Stratus"
+        {
+          "model_name": "300C",
+          "year": 2005
+        },
+        {
+          "model_name": "Aspen",
+          "year": 2007
+        },
+        {
+          "model_name": "PT Cruiser",
+          "year": 1995
+        },
+        {
+          "model_name": "Concorde/LHS",
+          "year": 1995
+        },
+        {
+          "model_name": "300",
+          "year": 1999
+        },
+        {
+          "model_name": "Cirrus",
+          "year": 1995
+        },
+        {
+          "model_name": "200",
+          "year": 2011
+        },
+        {
+          "model_name": "Salon",
+          "year": 1993
+        },
+        {
+          "model_name": "Prowler",
+          "year": 2001
+        },
+        {
+          "model_name": "Newport",
+          "year": 1981
+        },
+        {
+          "model_name": "Grand Caravan",
+          "year": 2021
+        },
+        {
+          "model_name": "Sebring",
+          "year": 1995
+        },
+        {
+          "model_name": "Viper",
+          "year": 1995
+        },
+        {
+          "model_name": "Shadow",
+          "year": 1994
+        },
+        {
+          "model_name": "Conquest",
+          "year": 1989
+        },
+        {
+          "model_name": "Crossfire",
+          "year": 2004
+        },
+        {
+          "model_name": "Neon",
+          "year": 1995
+        },
+        {
+          "model_name": "Caravan",
+          "year": 2003
+        },
+        {
+          "model_name": "Daytona",
+          "year": 1993
+        },
+        {
+          "model_name": "Executive",
+          "year": 1996
+        },
+        {
+          "model_name": "Pacifica",
+          "year": 2004
+        },
+        {
+          "model_name": "Dynasty",
+          "year": 1993
+        },
+        {
+          "model_name": "Concorde",
+          "year": 1995
+        },
+        {
+          "model_name": "Laser",
+          "year": 1986
+        },
+        {
+          "model_name": "Grand Voyager",
+          "year": 2000
+        },
+        {
+          "model_name": "LHS",
+          "year": 1995
+        },
+        {
+          "model_name": "TC",
+          "year": 1991
+        },
+        {
+          "model_name": "Cordoba",
+          "year": 1983
+        },
+        {
+          "model_name": "Fifth Avenue",
+          "year": 1993
+        },
+        {
+          "model_name": "Intrepid",
+          "year": 1995
+        },
+        {
+          "model_name": "LeBaron",
+          "year": 1995
+        },
+        {
+          "model_name": "Vision",
+          "year": 1995
+        },
+        {
+          "model_name": "New Yorker",
+          "year": 1995
+        },
+        {
+          "model_name": "E-Class",
+          "year": 1984
+        },
+        {
+          "model_name": "Voyager",
+          "year": 1995
+        },
+        {
+          "model_name": "Town and Country",
+          "year": 1995
+        },
+        {
+          "model_name": "Imperial",
+          "year": 1993
+        },
+        {
+          "model_name": "Stratus",
+          "year": 1995
+        }
       ]
     },
     {
       "name": "DFSK",
-      "models": ["E5 PHEV", "D1", "EC75", "Candy Mini EV"]
+      "models": [
+        {
+          "model_name": "E5 PH EV",
+          "year": 0
+        },
+        {
+          "model_name": "D1",
+          "year": 0
+        },
+        {
+          "model_name": "EC75",
+          "year": 0
+        },
+        {
+          "model_name": "Candy Mini EV",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Dodge",
       "models": [
-        "Mirada",
-        "Raider",
-        "Ram Wagon",
-        "Durango",
-        "Dakota",
-        "Ram Van",
-        "Sprinter",
-        "Ramcharger",
-        "Monaco",
-        "Charger",
-        "ARIES",
-        "Colt",
-        "Ram",
-        "400",
-        "600",
-        "Journey",
-        "Caravan/Grand Caravan",
-        "Grand Caravan",
-        "Viper",
-        "Mini Ram",
-        "W-Series",
-        "Shadow",
-        "Conquest",
-        "D-Series",
-        "Neon",
-        "Spirit",
-        "DIPLOMAT",
-        "Daytona",
-        "Caravan",
-        "Hornet",
-        "Dynasty",
-        "ST.REGIS",
-        "LANCER",
-        "Shelby Charger",
-        "Magnum",
-        "Dart",
-        "Intrepid",
-        "Caliber",
-        "Nitro",
-        "OMNI",
-        "Avenger",
-        "Ram Chassis Cab",
-        "Challenger",
-        "Stratus",
-        "Stealth"
+        {
+          "model_name": "Mirada",
+          "year": 0
+        },
+        {
+          "model_name": "Raider",
+          "year": 0
+        },
+        {
+          "model_name": "Ram Wagon",
+          "year": 1995
+        },
+        {
+          "model_name": "Durango",
+          "year": 1995
+        },
+        {
+          "model_name": "Dakota",
+          "year": 1995
+        },
+        {
+          "model_name": "Ram Van",
+          "year": 1995
+        },
+        {
+          "model_name": "Sprinter",
+          "year": 2003
+        },
+        {
+          "model_name": "Ramcharger",
+          "year": 1996
+        },
+        {
+          "model_name": "Monaco",
+          "year": 0
+        },
+        {
+          "model_name": "Charger",
+          "year": 2006
+        },
+        {
+          "model_name": "ARIES",
+          "year": 0
+        },
+        {
+          "model_name": "Colt",
+          "year": 1995
+        },
+        {
+          "model_name": "Ram",
+          "year": 1995
+        },
+        {
+          "model_name": "400",
+          "year": 0
+        },
+        {
+          "model_name": "600",
+          "year": 0
+        },
+        {
+          "model_name": "Journey",
+          "year": 2009
+        },
+        {
+          "model_name": "Caravan/Grand Caravan",
+          "year": 1995
+        },
+        {
+          "model_name": "Grand Caravan",
+          "year": 2002
+        },
+        {
+          "model_name": "Viper",
+          "year": 1995
+        },
+        {
+          "model_name": "Mini Ram",
+          "year": 0
+        },
+        {
+          "model_name": "W-Series",
+          "year": 0
+        },
+        {
+          "model_name": "Shadow",
+          "year": 0
+        },
+        {
+          "model_name": "Conquest",
+          "year": 0
+        },
+        {
+          "model_name": "D-Series",
+          "year": 0
+        },
+        {
+          "model_name": "Neon",
+          "year": 1995
+        },
+        {
+          "model_name": "Spirit",
+          "year": 1995
+        },
+        {
+          "model_name": "DIPLOMAT",
+          "year": 0
+        },
+        {
+          "model_name": "Daytona",
+          "year": 0
+        },
+        {
+          "model_name": "Caravan",
+          "year": 1995
+        },
+        {
+          "model_name": "Hornet",
+          "year": 2023
+        },
+        {
+          "model_name": "Dynasty",
+          "year": 0
+        },
+        {
+          "model_name": "ST.REGIS",
+          "year": 0
+        },
+        {
+          "model_name": "LANCER",
+          "year": 0
+        },
+        {
+          "model_name": "Shelby Charger",
+          "year": 0
+        },
+        {
+          "model_name": "Magnum",
+          "year": 2005
+        },
+        {
+          "model_name": "Dart",
+          "year": 2013
+        },
+        {
+          "model_name": "Intrepid",
+          "year": 1995
+        },
+        {
+          "model_name": "Caliber",
+          "year": 2006
+        },
+        {
+          "model_name": "Nitro",
+          "year": 2007
+        },
+        {
+          "model_name": "OMNI",
+          "year": 0
+        },
+        {
+          "model_name": "Avenger",
+          "year": 1995
+        },
+        {
+          "model_name": "Ram Chassis Cab",
+          "year": 2012
+        },
+        {
+          "model_name": "Challenger",
+          "year": 2008
+        },
+        {
+          "model_name": "Stratus",
+          "year": 1995
+        },
+        {
+          "model_name": "Stealth",
+          "year": 1995
+        }
       ]
     },
     {
       "name": "Dongfeng",
       "models": [
-        "Nanobox EV",
-        "Front drive motor",
-        "Rich 6 EV 450",
-        "Rich 6 EV 350",
-        "Nammi",
-        "EC31",
-        "EV35",
-        "Rear drive motor",
-        "M-HERO",
-        "RIch 7",
-        "EV30",
-        "EC36",
-        "Forthing U-Tour",
-        "EV45",
-        "Aeolus Huge",
-        "Aeolus Mage",
-        "EC35",
-        "Sport ",
-        "Forthing Friday"
+        {
+          "model_name": "Nanobox EV",
+          "year": 0
+        },
+        {
+          "model_name": "Front Drive Motor",
+          "year": 2020
+        },
+        {
+          "model_name": "Rich 6 EV 450",
+          "year": 0
+        },
+        {
+          "model_name": "Rich 6 EV 350",
+          "year": 0
+        },
+        {
+          "model_name": "Nammi",
+          "year": 0
+        },
+        {
+          "model_name": "EC31",
+          "year": 0
+        },
+        {
+          "model_name": "EV35",
+          "year": 0
+        },
+        {
+          "model_name": "Rear Drive Motor",
+          "year": 2020
+        },
+        {
+          "model_name": "M-HERO",
+          "year": 0
+        },
+        {
+          "model_name": "RIch 7",
+          "year": 0
+        },
+        {
+          "model_name": "EV30",
+          "year": 0
+        },
+        {
+          "model_name": "EC36",
+          "year": 0
+        },
+        {
+          "model_name": "Forthing U-Tour",
+          "year": 0
+        },
+        {
+          "model_name": "EV45",
+          "year": 0
+        },
+        {
+          "model_name": "Aeolus Huge",
+          "year": 0
+        },
+        {
+          "model_name": "Aeolus Mage",
+          "year": 0
+        },
+        {
+          "model_name": "EC35",
+          "year": 0
+        },
+        {
+          "model_name": "Sport",
+          "year": 0
+        },
+        {
+          "model_name": "Forthing Friday",
+          "year": 0
+        }
       ]
     },
     {
       "name": "FAW",
-      "models": ["Faw Jianxing Happy Messenger", "Multicarry 1.0", "Loadrunner"]
+      "models": [
+        {
+          "model_name": "Faw Jianxing Happy Messenger",
+          "year": 2005
+        },
+        {
+          "model_name": "Multicarry 1.0",
+          "year": 0
+        },
+        {
+          "model_name": "Loadrunner",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Ferrari",
       "models": [
-        "3.2 Mondial",
-        "348 tb",
-        "458 Speciale Spider",
-        "348 Spider",
-        "GTC4Lusso",
-        "SF90 XX Spider",
-        "Challenge Stradale",
-        "308GTS",
-        "SF90 Stradale",
-        "F12 tdf (Tour de France)",
-        "F12 Berlinetta",
-        "488 Spider",
-        "458 Speciale",
-        "355 Berlinetta",
-        "FF",
-        "812 Competizione",
-        "296 GTS",
-        "360 Modena",
-        "Enzo",
-        "308GTB Quattrovalvole",
-        "308 Convertible",
-        "Testarossa",
-        "Portofino M",
-        "458 Spider",
-        "488 Pista",
-        "F355",
-        "328 GTB",
-        "430 Scuderia",
-        "456 MGTA",
-        "Monza SP1/SP2",
-        "430 Scuderia Spider",
-        "308GTS Quattrovalvole",
-        "599 GTB Fiorano",
-        "355 Spider",
-        "Roma",
-        "308GTBi",
-        "812 Superfast",
-        "F430 Coupe",
-        "812 Competizione A",
-        "296 GTB",
-        "488 GTB",
-        "360 Spider",
-        "12Cilindri Spider",
-        "612 Scaglietti",
-        "575 M Maranello",
-        "328",
-        "Mondial T",
-        "355 GTS",
-        "F50",
-        "348 ts",
-        "328 GTS",
-        "Roma Spider",
-        "Daytona SP3",
-        "F12 Special Series",
-        "F8 Spider",
-        "Purosangue",
-        "456 MGT",
-        "308GTSi",
-        "599 GTO",
-        "12Cilindri",
-        "550 Maranello",
-        "308GTB",
-        "F40",
-        "SF90 Spider",
-        "F60 America",
-        "California",
-        "Portofino",
-        "488 Pista Spider",
-        "456 GT",
-        "599 GTB",
-        "458 Italia",
-        "California T",
-        "SF90 XX Stradale",
-        "La Ferrari",
-        "F430",
-        "488 GTS",
-        "Mondial 8",
-        "F164BCB",
-        "F8 Tributo",
-        "F430 Spider",
-        "812 GTS",
-        "512 TR",
-        "550 Barchetta"
+        {
+          "model_name": "3.2 Mondial",
+          "year": 0
+        },
+        {
+          "model_name": "348 tb",
+          "year": 1995
+        },
+        {
+          "model_name": "458 Speciale Spider",
+          "year": 2010
+        },
+        {
+          "model_name": "348 Spider",
+          "year": 1995
+        },
+        {
+          "model_name": "GTC4Lusso",
+          "year": 2017
+        },
+        {
+          "model_name": "SF90 XX Spider",
+          "year": 2024
+        },
+        {
+          "model_name": "Challenge Stradale",
+          "year": 2004
+        },
+        {
+          "model_name": "308GTS",
+          "year": 0
+        },
+        {
+          "model_name": "SF90 Stradale",
+          "year": 2021
+        },
+        {
+          "model_name": "F12 tdf (Tour de France)",
+          "year": 2017
+        },
+        {
+          "model_name": "F12 Berlinetta",
+          "year": 2010
+        },
+        {
+          "model_name": "488 Spider",
+          "year": 2017
+        },
+        {
+          "model_name": "458 Speciale",
+          "year": 2010
+        },
+        {
+          "model_name": "355 Berlinetta",
+          "year": 1995
+        },
+        {
+          "model_name": "FF",
+          "year": 2010
+        },
+        {
+          "model_name": "812 Competizione",
+          "year": 2022
+        },
+        {
+          "model_name": "296 GTS",
+          "year": 2023
+        },
+        {
+          "model_name": "360 Modena",
+          "year": 2000
+        },
+        {
+          "model_name": "Enzo",
+          "year": 2003
+        },
+        {
+          "model_name": "308GTB Quattrovalvole",
+          "year": 0
+        },
+        {
+          "model_name": "308 Convertible",
+          "year": 0
+        },
+        {
+          "model_name": "Testarossa",
+          "year": 0
+        },
+        {
+          "model_name": "Portofino M",
+          "year": 2022
+        },
+        {
+          "model_name": "458 Spider",
+          "year": 2010
+        },
+        {
+          "model_name": "488 Pista",
+          "year": 2017
+        },
+        {
+          "model_name": "F355",
+          "year": 1996
+        },
+        {
+          "model_name": "328 GTB",
+          "year": 0
+        },
+        {
+          "model_name": "430 Scuderia",
+          "year": 2007
+        },
+        {
+          "model_name": "456 MGTA",
+          "year": 2000
+        },
+        {
+          "model_name": "Monza SP1/SP2",
+          "year": 2023
+        },
+        {
+          "model_name": "430 Scuderia Spider",
+          "year": 2008
+        },
+        {
+          "model_name": "308GTS Quattrovalvole",
+          "year": 0
+        },
+        {
+          "model_name": "599 GTB Fiorano",
+          "year": 2007
+        },
+        {
+          "model_name": "355 Spider",
+          "year": 1995
+        },
+        {
+          "model_name": "Roma",
+          "year": 2021
+        },
+        {
+          "model_name": "308GTBi",
+          "year": 0
+        },
+        {
+          "model_name": "812 Superfast",
+          "year": 2017
+        },
+        {
+          "model_name": "F430 Coupe",
+          "year": 2006
+        },
+        {
+          "model_name": "812 Competizione A",
+          "year": 2023
+        },
+        {
+          "model_name": "296 GTB",
+          "year": 2022
+        },
+        {
+          "model_name": "488 GTB",
+          "year": 2016
+        },
+        {
+          "model_name": "360 Spider",
+          "year": 2000
+        },
+        {
+          "model_name": "12Cilindri Spider",
+          "year": 2025
+        },
+        {
+          "model_name": "612 Scaglietti",
+          "year": 2005
+        },
+        {
+          "model_name": "575 M Maranello",
+          "year": 2002
+        },
+        {
+          "model_name": "328",
+          "year": 0
+        },
+        {
+          "model_name": "Mondial T",
+          "year": 0
+        },
+        {
+          "model_name": "355 GTS",
+          "year": 1995
+        },
+        {
+          "model_name": "F50",
+          "year": 1996
+        },
+        {
+          "model_name": "348 GTS",
+          "year": 0
+        },
+        {
+          "model_name": "328 GTS",
+          "year": 0
+        },
+        {
+          "model_name": "Roma Spider",
+          "year": 2024
+        },
+        {
+          "model_name": "Daytona SP3",
+          "year": 2023
+        },
+        {
+          "model_name": "F12 Special Series",
+          "year": 2016
+        },
+        {
+          "model_name": "F8 Spider",
+          "year": 2020
+        },
+        {
+          "model_name": "Purosangue",
+          "year": 2023
+        },
+        {
+          "model_name": "456 MGT",
+          "year": 2000
+        },
+        {
+          "model_name": "308GTSi",
+          "year": 0
+        },
+        {
+          "model_name": "599 GTO",
+          "year": 2010
+        },
+        {
+          "model_name": "12Cilindri",
+          "year": 2025
+        },
+        {
+          "model_name": "550 Maranello",
+          "year": 1997
+        },
+        {
+          "model_name": "308GTB",
+          "year": 0
+        },
+        {
+          "model_name": "F40",
+          "year": 0
+        },
+        {
+          "model_name": "SF90 Spider",
+          "year": 2022
+        },
+        {
+          "model_name": "F60 America",
+          "year": 2016
+        },
+        {
+          "model_name": "California",
+          "year": 2010
+        },
+        {
+          "model_name": "Portofino",
+          "year": 2019
+        },
+        {
+          "model_name": "488 Pista Spider",
+          "year": 2020
+        },
+        {
+          "model_name": "456 GT",
+          "year": 1995
+        },
+        {
+          "model_name": "599 GTB",
+          "year": 2006
+        },
+        {
+          "model_name": "458 Italia",
+          "year": 2010
+        },
+        {
+          "model_name": "California T",
+          "year": 2010
+        },
+        {
+          "model_name": "SF90 XX Stradale",
+          "year": 2024
+        },
+        {
+          "model_name": "La Ferrari",
+          "year": 2010
+        },
+        {
+          "model_name": "F430",
+          "year": 2008
+        },
+        {
+          "model_name": "488 GTS",
+          "year": 2016
+        },
+        {
+          "model_name": "Mondial 8",
+          "year": 0
+        },
+        {
+          "model_name": "F164BCB",
+          "year": 2021
+        },
+        {
+          "model_name": "F8 Tributo",
+          "year": 2020
+        },
+        {
+          "model_name": "F430 Spider",
+          "year": 2006
+        },
+        {
+          "model_name": "812 GTS",
+          "year": 2021
+        },
+        {
+          "model_name": "512 TR",
+          "year": 1995
+        },
+        {
+          "model_name": "550 Barchetta",
+          "year": 2001
+        }
       ]
     },
     {
       "name": "Fiat",
       "models": [
-        "Strada",
-        "500",
-        "500X",
-        "X 1/9",
-        "124 Spider",
-        "500L",
-        "Ducato",
-        "Freemont",
-        "Brava",
-        "500e",
-        "Spider 2000"
+        {
+          "model_name": "Strada",
+          "year": 0
+        },
+        {
+          "model_name": "500",
+          "year": 2012
+        },
+        {
+          "model_name": "500X",
+          "year": 2016
+        },
+        {
+          "model_name": "X 1/9",
+          "year": 0
+        },
+        {
+          "model_name": "124 Spider",
+          "year": 2017
+        },
+        {
+          "model_name": "500L",
+          "year": 2014
+        },
+        {
+          "model_name": "Ducato",
+          "year": 2019
+        },
+        {
+          "model_name": "Freemont",
+          "year": 2011
+        },
+        {
+          "model_name": "Brava",
+          "year": 0
+        },
+        {
+          "model_name": "500e",
+          "year": 2024
+        },
+        {
+          "model_name": "Spider 2000",
+          "year": 0
+        }
       ]
     },
     {
       "name": "Ford",
       "models": [
-        "B7000",
-        "Explorer Sport",
-        "Freestar",
-        "Bronco",
-        "LN7000",
-        "Five Hundred",
-        "F-250",
-        "'34",
-        "E-550",
-        "LTD",
-        "Excursion",
-        "Probe",
-        "Aspire",
-        "FT8000",
-        "LLA9000",
-        "C800",
-        "B800",
-        "LN800",
-        "Thunderbird",
-        "Ranger Raptor",
-        "LNT9000",
-        "Mustang GTD",
-        "LLS9000",
-        "Transit",
-        "Bronco Sport",
-        "LN8000",
-        "LS8000",
-        "Territory",
-        "LT9513",
-        "A9513",
-        "L9501",
-        "Bronco II",
-        "AT9513",
-        "Aerostar",
-        "LNT8000",
-        "Escape",
-        "L8501",
-        "LS9000",
-        "LTS9000",
-        "CT800",
-        "Crown Victoria",
-        "C-Max",
-        "Fusion",
-        "LNT800",
-        "Malibu Sedan",
-        "Windstar",
-        "F-550",
-        "LT9501",
-        "E-350",
-        "Motorhome Chassis",
-        "E-250",
-        "L8000",
-        "CT8000",
-        "F-600",
-        "E-100",
-        "LT8513",
-        "Recreational Vehicle",
-        "L9522",
-        "C600",
-        "LT8000",
-        "F-350",
-        "F-150",
-        "CF8000",
-        "LL9000",
-        "LTS8000",
-        "C700",
-        "LT8501",
-        "Expedition",
-        "CF6000",
-        "F8000",
-        "F-100",
-        "LN600",
-        "LT800",
-        "B6000",
-        "ZX2",
-        "Classic Sedan",
-        "Laser",
-        "A8513",
-        "LT9511",
-        "F-Super Duty",
-        "LT8511",
-        "B700",
-        "Escort",
-        "L8513",
-        "Taurus",
-        "LTLA9000",
-        "Taurus X",
-        "Fairmont",
-        "CLT9000",
-        "F-700",
-        "LT9522",
-        "CF7000",
-        "Cordova Sedan",
-        "E-150",
-        "Flex",
-        "P800",
-        "Fiesta",
-        "E-450",
-        "L9511",
-        "Tempo",
-        "F7000",
-        "Contour",
-        "LA8000",
-        "LN9000",
-        "L800",
-        "CFT8000",
-        "CL9000",
-        "LT9000",
-        "LTA9000",
-        "AT8513",
-        "Mustang",
-        "C8000",
-        "FT900",
-        "LA9000",
-        "Expedition EL",
-        "Granada",
-        "AT9522",
-        "Explorer Sport Trac",
-        "B600",
-        "P700",
-        "Freestyle",
-        "P600",
-        "C7000",
-        "F-590",
-        "FT800",
-        "GT MKII",
-        "Festiva",
-        "F-800",
-        "A9522",
-        "L9000",
-        "L8511",
-        "Ranger",
-        "LTLS9000",
-        "Explorer",
-        "Ecosport",
-        "LTL9000",
-        "F6000",
-        "Edge",
-        "GT",
-        "LN700",
-        "Focus",
-        "Expedition MAX",
-        "Mustang Mach-E",
-        "F-450",
-        "L9513",
-        "Everest"
+        {
+          "model_name": "B7000",
+          "year": 0
+        },
+        {
+          "model_name": "Explorer Sport",
+          "year": 2003
+        },
+        {
+          "model_name": "Freestar",
+          "year": 2004
+        },
+        {
+          "model_name": "Bronco",
+          "year": 1995
+        },
+        {
+          "model_name": "LN7000",
+          "year": 1995
+        },
+        {
+          "model_name": "Five Hundred",
+          "year": 2005
+        },
+        {
+          "model_name": "F-250",
+          "year": 1995
+        },
+        {
+          "model_name": "'34",
+          "year": 1995
+        },
+        {
+          "model_name": "E-550",
+          "year": 2003
+        },
+        {
+          "model_name": "LTD",
+          "year": 0
+        },
+        {
+          "model_name": "Excursion",
+          "year": 2000
+        },
+        {
+          "model_name": "Probe",
+          "year": 1995
+        },
+        {
+          "model_name": "Aspire",
+          "year": 1995
+        },
+        {
+          "model_name": "FT8000",
+          "year": 0
+        },
+        {
+          "model_name": "LLA9000",
+          "year": 1995
+        },
+        {
+          "model_name": "C800",
+          "year": 0
+        },
+        {
+          "model_name": "B800",
+          "year": 1995
+        },
+        {
+          "model_name": "LN800",
+          "year": 0
+        },
+        {
+          "model_name": "Thunderbird",
+          "year": 1995
+        },
+        {
+          "model_name": "Ranger Raptor",
+          "year": 0
+        },
+        {
+          "model_name": "LNT9000",
+          "year": 1995
+        },
+        {
+          "model_name": "Mustang GTD",
+          "year": 2025
+        },
+        {
+          "model_name": "LLS9000",
+          "year": 1995
+        },
+        {
+          "model_name": "Transit",
+          "year": 2015
+        },
+        {
+          "model_name": "Bronco Sport",
+          "year": 2021
+        },
+        {
+          "model_name": "LN8000",
+          "year": 1995
+        },
+        {
+          "model_name": "LS8000",
+          "year": 1995
+        },
+        {
+          "model_name": "Territory",
+          "year": 0
+        },
+        {
+          "model_name": "LT9513",
+          "year": 1995
+        },
+        {
+          "model_name": "A9513",
+          "year": 1995
+        },
+        {
+          "model_name": "L9501",
+          "year": 1997
+        },
+        {
+          "model_name": "Bronco II",
+          "year": 0
+        },
+        {
+          "model_name": "AT9513",
+          "year": 1995
+        },
+        {
+          "model_name": "Aerostar",
+          "year": 1995
+        },
+        {
+          "model_name": "LNT8000",
+          "year": 1995
+        },
+        {
+          "model_name": "Escape",
+          "year": 2001
+        },
+        {
+          "model_name": "L8501",
+          "year": 1997
+        },
+        {
+          "model_name": "LS9000",
+          "year": 1995
+        },
+        {
+          "model_name": "LTS9000",
+          "year": 1995
+        },
+        {
+          "model_name": "CT800",
+          "year": 0
+        },
+        {
+          "model_name": "Crown Victoria",
+          "year": 1995
+        },
+        {
+          "model_name": "C-Max",
+          "year": 2013
+        },
+        {
+          "model_name": "Fusion",
+          "year": 2006
+        },
+        {
+          "model_name": "LNT800",
+          "year": 0
+        },
+        {
+          "model_name": "Malibu Sedan",
+          "year": 2017
+        },
+        {
+          "model_name": "Windstar",
+          "year": 1995
+        },
+        {
+          "model_name": "F-550",
+          "year": 1999
+        },
+        {
+          "model_name": "LT9501",
+          "year": 1995
+        },
+        {
+          "model_name": "E-350",
+          "year": 1995
+        },
+        {
+          "model_name": "Motorhome Chassis",
+          "year": 1999
+        },
+        {
+          "model_name": "E-250",
+          "year": 1995
+        },
+        {
+          "model_name": "L8000",
+          "year": 1995
+        },
+        {
+          "model_name": "CT8000",
+          "year": 0
+        },
+        {
+          "model_name": "F-600",
+          "year": 0
+        },
+        {
+          "model_name": "E-100",
+          "year": 0
+        },
+        {
+          "model_name": "LT8513",
+          "year": 1995
+        },
+        {
+          "model_name": "Recreational Vehicle",
+          "year": 0
+        },
+        {
+          "model_name": "L9522",
+          "year": 1998
+        },
+        {
+          "model_name": "C600",
+          "year": 0
+        },
+        {
+          "model_name": "LT8000",
+          "year": 1995
+        },
+        {
+          "model_name": "F-350",
+          "year": 1995
+        },
+        {
+          "model_name": "F-150",
+          "year": 1995
+        },
+        {
+          "model_name": "CF8000",
+          "year": 1995
+        },
+        {
+          "model_name": "LL9000",
+          "year": 1995
+        },
+        {
+          "model_name": "LTS8000",
+          "year": 1995
+        },
+        {
+          "model_name": "C700",
+          "year": 0
+        },
+        {
+          "model_name": "LT8501",
+          "year": 1995
+        },
+        {
+          "model_name": "Expedition",
+          "year": 1997
+        },
+        {
+          "model_name": "CF6000",
+          "year": 0
+        },
+        {
+          "model_name": "F8000",
+          "year": 0
+        },
+        {
+          "model_name": "F-100",
+          "year": 0
+        },
+        {
+          "model_name": "LN600",
+          "year": 0
+        },
+        {
+          "model_name": "LT800",
+          "year": 0
+        },
+        {
+          "model_name": "B6000",
+          "year": 0
+        },
+        {
+          "model_name": "ZX2",
+          "year": 1999
+        },
+        {
+          "model_name": "Classic Sedan",
+          "year": 2017
+        },
+        {
+          "model_name": "Laser",
+          "year": 0
+        },
+        {
+          "model_name": "A8513",
+          "year": 1995
+        },
+        {
+          "model_name": "LT9511",
+          "year": 1998
+        },
+        {
+          "model_name": "F-Super Duty",
+          "year": 1995
+        },
+        {
+          "model_name": "LT8511",
+          "year": 1998
+        },
+        {
+          "model_name": "B700",
+          "year": 0
+        },
+        {
+          "model_name": "Escort",
+          "year": 1995
+        },
+        {
+          "model_name": "L8513",
+          "year": 1995
+        },
+        {
+          "model_name": "Taurus",
+          "year": 1995
+        },
+        {
+          "model_name": "LTLA9000",
+          "year": 1995
+        },
+        {
+          "model_name": "Taurus X",
+          "year": 2008
+        },
+        {
+          "model_name": "Fairmont",
+          "year": 0
+        },
+        {
+          "model_name": "CLT9000",
+          "year": 0
+        },
+        {
+          "model_name": "F-700",
+          "year": 1995
+        },
+        {
+          "model_name": "LT9522",
+          "year": 1995
+        },
+        {
+          "model_name": "CF7000",
+          "year": 1995
+        },
+        {
+          "model_name": "Cordova Sedan",
+          "year": 2017
+        },
+        {
+          "model_name": "E-150",
+          "year": 1995
+        },
+        {
+          "model_name": "Flex",
+          "year": 2009
+        },
+        {
+          "model_name": "P800",
+          "year": 1995
+        },
+        {
+          "model_name": "Fiesta",
+          "year": 2011
+        },
+        {
+          "model_name": "E-450",
+          "year": 1995
+        },
+        {
+          "model_name": "L9511",
+          "year": 1998
+        },
+        {
+          "model_name": "Tempo",
+          "year": 0
+        },
+        {
+          "model_name": "F7000",
+          "year": 0
+        },
+        {
+          "model_name": "Contour",
+          "year": 1995
+        },
+        {
+          "model_name": "LA8000",
+          "year": 1995
+        },
+        {
+          "model_name": "LN9000",
+          "year": 1995
+        },
+        {
+          "model_name": "L800",
+          "year": 0
+        },
+        {
+          "model_name": "CFT8000",
+          "year": 1995
+        },
+        {
+          "model_name": "CL9000",
+          "year": 0
+        },
+        {
+          "model_name": "LT9000",
+          "year": 1995
+        },
+        {
+          "model_name": "LTA9000",
+          "year": 1995
+        },
+        {
+          "model_name": "AT8513",
+          "year": 1995
+        },
+        {
+          "model_name": "Mustang",
+          "year": 1995
+        },
+        {
+          "model_name": "C8000",
+          "year": 0
+        },
+        {
+          "model_name": "FT900",
+          "year": 1995
+        },
+        {
+          "model_name": "LA9000",
+          "year": 1995
+        },
+        {
+          "model_name": "Expedition EL",
+          "year": 2017
+        },
+        {
+          "model_name": "Granada",
+          "year": 0
+        },
+        {
+          "model_name": "AT9522",
+          "year": 1995
+        },
+        {
+          "model_name": "Explorer Sport Trac",
+          "year": 2001
+        },
+        {
+          "model_name": "B600",
+          "year": 0
+        },
+        {
+          "model_name": "P700",
+          "year": 1995
+        },
+        {
+          "model_name": "Freestyle",
+          "year": 2005
+        },
+        {
+          "model_name": "P600",
+          "year": 0
+        },
+        {
+          "model_name": "C7000",
+          "year": 0
+        },
+        {
+          "model_name": "F-590",
+          "year": 0
+        },
+        {
+          "model_name": "FT800",
+          "year": 0
+        },
+        {
+          "model_name": "GT MKII",
+          "year": 2023
+        },
+        {
+          "model_name": "Festiva",
+          "year": 0
+        },
+        {
+          "model_name": "F-800",
+          "year": 1995
+        },
+        {
+          "model_name": "A9522",
+          "year": 1995
+        },
+        {
+          "model_name": "L9000",
+          "year": 1995
+        },
+        {
+          "model_name": "L8511",
+          "year": 1998
+        },
+        {
+          "model_name": "Ranger",
+          "year": 1995
+        },
+        {
+          "model_name": "LTLS9000",
+          "year": 1995
+        },
+        {
+          "model_name": "Explorer",
+          "year": 1995
+        },
+        {
+          "model_name": "Ecosport",
+          "year": 2018
+        },
+        {
+          "model_name": "LTL9000",
+          "year": 1995
+        },
+        {
+          "model_name": "F6000",
+          "year": 0
+        },
+        {
+          "model_name": "Edge",
+          "year": 2007
+        },
+        {
+          "model_name": "GT",
+          "year": 2004
+        },
+        {
+          "model_name": "LN700",
+          "year": 0
+        },
+        {
+          "model_name": "Focus",
+          "year": 2000
+        },
+        {
+          "model_name": "Expedition MAX",
+          "year": 2007
+        },
+        {
+          "model_name": "Mustang Mach-E",
+          "year": 2021
+        },
+        {
+          "model_name": "F-450",
+          "year": 1999
+        },
+        {
+          "model_name": "L9513",
+          "year": 1995
+        },
+        {
+          "model_name": "Everest",
+          "year": 0
+        }
       ]
     },
     {
       "name": "Foton",
       "models": [
-        "Tornado",
-        "Tunland V7",
-        "Toano",
-        "Tunland V9",
-        "Gratour",
-        "Thunder",
-        "Toplander",
-        "Traveller",
-        "Harabas TM300",
-        "Transvan",
-        "Harabas Miler"
+        {
+          "model_name": "Tornado",
+          "year": 0
+        },
+        {
+          "model_name": "Tunland V7",
+          "year": 0
+        },
+        {
+          "model_name": "Toano",
+          "year": 0
+        },
+        {
+          "model_name": "Tunland V9",
+          "year": 0
+        },
+        {
+          "model_name": "Gratour",
+          "year": 0
+        },
+        {
+          "model_name": "Thunder",
+          "year": 0
+        },
+        {
+          "model_name": "Toplander",
+          "year": 0
+        },
+        {
+          "model_name": "Traveller",
+          "year": 0
+        },
+        {
+          "model_name": "Harabas TM300",
+          "year": 0
+        },
+        {
+          "model_name": "Transvan",
+          "year": 0
+        },
+        {
+          "model_name": "Harabas Miler",
+          "year": 0
+        }
       ]
     },
     {
       "name": "GAC",
-      "models": ["GS3 Emzoom", "GS8", "Empow", "M6 Pro", "M8", "Emkoo"]
+      "models": [
+        {
+          "model_name": "GS3 Emzoom",
+          "year": 0
+        },
+        {
+          "model_name": "GS8",
+          "year": 0
+        },
+        {
+          "model_name": "Empow",
+          "year": 0
+        },
+        {
+          "model_name": "M6 Pro",
+          "year": 0
+        },
+        {
+          "model_name": "M8",
+          "year": 0
+        },
+        {
+          "model_name": "Emkoo",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "GAC AION",
-      "models": ["ES", "Y Plus"]
+      "models": [
+        {
+          "model_name": "ES",
+          "year": 0
+        },
+        {
+          "model_name": "Y Plus",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "GAZ",
-      "models": ["Gazelle Next", "Sadko", "Gazon Next"]
+      "models": [
+        {
+          "model_name": "Gazelle Next",
+          "year": 0
+        },
+        {
+          "model_name": "Sadko",
+          "year": 0
+        },
+        {
+          "model_name": "Gazon Next",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Geely",
-      "models": ["GX3 Pro", "Okavango", "EX5", "Emgrand", "Coolray"]
+      "models": [
+        {
+          "model_name": "GX3 Pro",
+          "year": 0
+        },
+        {
+          "model_name": "Okavango",
+          "year": 0
+        },
+        {
+          "model_name": "EX5",
+          "year": 0
+        },
+        {
+          "model_name": "Emgrand",
+          "year": 0
+        },
+        {
+          "model_name": "Coolray",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "GWM",
-      "models": ["Haval Jolion", "Cannon", "Haval H6 HEV", "Ora 3", "Tank 300"]
+      "models": [
+        {
+          "model_name": "Haval Jolion",
+          "year": 0
+        },
+        {
+          "model_name": "Cannon",
+          "year": 0
+        },
+        {
+          "model_name": "Haval H6 HEV",
+          "year": 0
+        },
+        {
+          "model_name": "Ora 3",
+          "year": 0
+        },
+        {
+          "model_name": "Tank 300",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Haima",
-      "models": ["S7", "7X", "V70"]
+      "models": [
+        {
+          "model_name": "S7",
+          "year": 0
+        },
+        {
+          "model_name": "7X",
+          "year": 0
+        },
+        {
+          "model_name": "V70",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Honda",
       "models": [
-        "Brio",
-        "Odyssey",
-        "City",
-        "S2000",
-        "Clarity",
-        "Civic",
-        "EV Plus",
-        "CR-Z",
-        "Prelude",
-        "HR-V",
-        "CR-V",
-        "Prologue",
-        "Civic Type R",
-        "Pilot",
-        "Accord Crosstour",
-        "Fit",
-        "del Sol",
-        "Element",
-        "BR-V",
-        "Passport",
-        "Crosstour",
-        "Insight",
-        "Civic Si",
-        "Accord",
-        "FCX Clarity",
-        "City Hatchback"
+        {
+          "model_name": "Brio",
+          "year": 0
+        },
+        {
+          "model_name": "Odyssey",
+          "year": 1995
+        },
+        {
+          "model_name": "City",
+          "year": 0
+        },
+        {
+          "model_name": "S2000",
+          "year": 2000
+        },
+        {
+          "model_name": "Clarity",
+          "year": 2017
+        },
+        {
+          "model_name": "Civic",
+          "year": 1995
+        },
+        {
+          "model_name": "EV Plus",
+          "year": 1997
+        },
+        {
+          "model_name": "CR-Z",
+          "year": 2011
+        },
+        {
+          "model_name": "Prelude",
+          "year": 1995
+        },
+        {
+          "model_name": "HR-V",
+          "year": 2016
+        },
+        {
+          "model_name": "CR-V",
+          "year": 1997
+        },
+        {
+          "model_name": "Prologue",
+          "year": 2024
+        },
+        {
+          "model_name": "Civic Type R",
+          "year": 2017
+        },
+        {
+          "model_name": "Pilot",
+          "year": 2003
+        },
+        {
+          "model_name": "Accord Crosstour",
+          "year": 2010
+        },
+        {
+          "model_name": "Fit",
+          "year": 2007
+        },
+        {
+          "model_name": "del Sol",
+          "year": 1995
+        },
+        {
+          "model_name": "Element",
+          "year": 2003
+        },
+        {
+          "model_name": "BR-V",
+          "year": 0
+        },
+        {
+          "model_name": "Passport",
+          "year": 1995
+        },
+        {
+          "model_name": "Crosstour",
+          "year": 2012
+        },
+        {
+          "model_name": "Insight",
+          "year": 2000
+        },
+        {
+          "model_name": "Civic Si",
+          "year": 2022
+        },
+        {
+          "model_name": "Accord",
+          "year": 1995
+        },
+        {
+          "model_name": "FCX Clarity",
+          "year": 2004
+        },
+        {
+          "model_name": "City Hatchback",
+          "year": 0
+        }
       ]
     },
     {
       "name": "Hongqi",
       "models": [
-        "H5",
-        "E-QM5 Plus",
-        "HQ9",
-        "E-H7",
-        "H9",
-        "E-HS9",
-        "E-HS7",
-        "HS3"
+        {
+          "model_name": "H5",
+          "year": 0
+        },
+        {
+          "model_name": "E-QM5 Plus",
+          "year": 0
+        },
+        {
+          "model_name": "HQ9",
+          "year": 0
+        },
+        {
+          "model_name": "E-H7",
+          "year": 0
+        },
+        {
+          "model_name": "H9",
+          "year": 0
+        },
+        {
+          "model_name": "E-HS9",
+          "year": 0
+        },
+        {
+          "model_name": "E-HS7",
+          "year": 0
+        },
+        {
+          "model_name": "HS3",
+          "year": 0
+        }
       ]
     },
     {
       "name": "Hyundai",
       "models": [
-        "IONIQ 9",
-        "Entourage",
-        "Elantra Touring",
-        "Palisade",
-        "Veloster",
-        "Excel",
-        "Elantra N",
-        "Ioniq 6 N",
-        "Tiburon",
-        "XG300",
-        "IONIQ 5 N",
-        "Stellar",
-        "Staria",
-        "Veracruz",
-        "Santa Fe Sport",
-        "Ioniq 5",
-        "H-100",
-        "Kona N",
-        "Accent",
-        "Kona",
-        "Genesis Coupe",
-        "XG350",
-        "Ioniq",
-        "IONIQ 6",
-        "Sonata",
-        "Santa Fe",
-        "Pony",
-        "Elantra",
-        "Elantra GT",
-        "Azera",
-        "IONIQ 5",
-        "Nexo",
-        "Ioniq 5 N",
-        "Equus",
-        "Genesis",
-        "Ioniq 9",
-        "Stargazer",
-        "Custin",
-        "Creta",
-        "Tucson",
-        "Venue",
-        "Santa Fe XL",
-        "Veloster N",
-        "Scoupe",
-        "Ioniq 6"
+        {
+          "model_name": "IONIQ 9",
+          "year": 0
+        },
+        {
+          "model_name": "Entourage",
+          "year": 2006
+        },
+        {
+          "model_name": "Elantra Touring",
+          "year": 2010
+        },
+        {
+          "model_name": "Palisade",
+          "year": 2020
+        },
+        {
+          "model_name": "Veloster",
+          "year": 2012
+        },
+        {
+          "model_name": "Excel",
+          "year": 0
+        },
+        {
+          "model_name": "Elantra N",
+          "year": 2022
+        },
+        {
+          "model_name": "Ioniq 6 N",
+          "year": 0
+        },
+        {
+          "model_name": "Tiburon",
+          "year": 1997
+        },
+        {
+          "model_name": "XG300",
+          "year": 2001
+        },
+        {
+          "model_name": "IONIQ 5 N",
+          "year": 2025
+        },
+        {
+          "model_name": "Stellar",
+          "year": 0
+        },
+        {
+          "model_name": "Staria",
+          "year": 0
+        },
+        {
+          "model_name": "Veracruz",
+          "year": 2007
+        },
+        {
+          "model_name": "Santa Fe Sport",
+          "year": 2013
+        },
+        {
+          "model_name": "Ioniq 5",
+          "year": 2022
+        },
+        {
+          "model_name": "H-100",
+          "year": 0
+        },
+        {
+          "model_name": "Kona N",
+          "year": 2022
+        },
+        {
+          "model_name": "Accent",
+          "year": 1995
+        },
+        {
+          "model_name": "Kona",
+          "year": 2018
+        },
+        {
+          "model_name": "Genesis Coupe",
+          "year": 2010
+        },
+        {
+          "model_name": "XG350",
+          "year": 2002
+        },
+        {
+          "model_name": "Ioniq",
+          "year": 2017
+        },
+        {
+          "model_name": "IONIQ 6",
+          "year": 2023
+        },
+        {
+          "model_name": "Sonata",
+          "year": 1995
+        },
+        {
+          "model_name": "Santa Fe",
+          "year": 2001
+        },
+        {
+          "model_name": "Pony",
+          "year": 0
+        },
+        {
+          "model_name": "Elantra",
+          "year": 1995
+        },
+        {
+          "model_name": "Elantra GT",
+          "year": 2017
+        },
+        {
+          "model_name": "Azera",
+          "year": 2006
+        },
+        {
+          "model_name": "IONIQ 5",
+          "year": 2022
+        },
+        {
+          "model_name": "Nexo",
+          "year": 2019
+        },
+        {
+          "model_name": "Ioniq 5 N",
+          "year": 2025
+        },
+        {
+          "model_name": "Equus",
+          "year": 2011
+        },
+        {
+          "model_name": "Genesis",
+          "year": 2009
+        },
+        {
+          "model_name": "Ioniq 9",
+          "year": 0
+        },
+        {
+          "model_name": "Stargazer",
+          "year": 0
+        },
+        {
+          "model_name": "Custin",
+          "year": 0
+        },
+        {
+          "model_name": "Creta",
+          "year": 0
+        },
+        {
+          "model_name": "Tucson",
+          "year": 2005
+        },
+        {
+          "model_name": "Venue",
+          "year": 2020
+        },
+        {
+          "model_name": "Santa Fe XL",
+          "year": 2019
+        },
+        {
+          "model_name": "Veloster N",
+          "year": 2019
+        },
+        {
+          "model_name": "Scoupe",
+          "year": 1995
+        },
+        {
+          "model_name": "Ioniq 6",
+          "year": 2023
+        }
       ]
     },
     {
       "name": "Isuzu",
       "models": [
-        "I-Mark",
-        "D-MAX",
-        "Amigo",
-        "Stylus",
-        "N-Series",
-        "IMPULSE",
-        "Ascender",
-        "Trooper",
-        "Trooper II",
-        "Oasis",
-        "Pickup",
-        "F-Series",
-        "Axiom",
-        "VehiCross",
-        "Traviz",
-        "S-Series",
-        "C-Series",
-        "Rodeo",
-        "mu-X",
-        "Rodeo/Amigo",
-        "E-Series"
+        {
+          "model_name": "I-Mark",
+          "year": 0
+        },
+        {
+          "model_name": "D-MAX",
+          "year": 0
+        },
+        {
+          "model_name": "Amigo",
+          "year": 0
+        },
+        {
+          "model_name": "Stylus",
+          "year": 0
+        },
+        {
+          "model_name": "N-Series",
+          "year": 0
+        },
+        {
+          "model_name": "IMPULSE",
+          "year": 0
+        },
+        {
+          "model_name": "Ascender",
+          "year": 2003
+        },
+        {
+          "model_name": "Trooper",
+          "year": 1995
+        },
+        {
+          "model_name": "Trooper II",
+          "year": 0
+        },
+        {
+          "model_name": "Oasis",
+          "year": 1996
+        },
+        {
+          "model_name": "Pickup",
+          "year": 1995
+        },
+        {
+          "model_name": "F-Series",
+          "year": 0
+        },
+        {
+          "model_name": "Axiom",
+          "year": 2002
+        },
+        {
+          "model_name": "VehiCross",
+          "year": 1999
+        },
+        {
+          "model_name": "Traviz",
+          "year": 0
+        },
+        {
+          "model_name": "S-Series",
+          "year": 0
+        },
+        {
+          "model_name": "C-Series",
+          "year": 0
+        },
+        {
+          "model_name": "Rodeo",
+          "year": 1995
+        },
+        {
+          "model_name": "mu-X",
+          "year": 0
+        },
+        {
+          "model_name": "Rodeo/Amigo",
+          "year": 1998
+        },
+        {
+          "model_name": "E-Series",
+          "year": 0
+        }
       ]
     },
     {
       "name": "JAC",
       "models": [
-        "T9",
-        "Ytterby",
-        "Cobra",
-        "T8 Pro",
-        "JS6",
-        "JS2 Pro",
-        "JS4",
-        "JS8 Pro"
+        {
+          "model_name": "T9",
+          "year": 0
+        },
+        {
+          "model_name": "Ytterby",
+          "year": 0
+        },
+        {
+          "model_name": "Cobra",
+          "year": 1995
+        },
+        {
+          "model_name": "T8 Pro",
+          "year": 0
+        },
+        {
+          "model_name": "JS6",
+          "year": 0
+        },
+        {
+          "model_name": "JS2 Pro",
+          "year": 0
+        },
+        {
+          "model_name": "JS4",
+          "year": 0
+        },
+        {
+          "model_name": "JS8 Pro",
+          "year": 0
+        }
       ]
     },
     {
       "name": "Jaecoo",
-      "models": ["EJ6", "J7 SHS"]
+      "models": [
+        {
+          "model_name": "EJ6",
+          "year": 0
+        },
+        {
+          "model_name": "J7 SHS",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Jaguar",
       "models": [
-        "XJ8",
-        "XJS",
-        "XK8",
-        "XJ12",
-        "XE",
-        "E-PACE",
-        "XF",
-        "XJR",
-        "X-Type",
-        "F-PACE",
-        "S-Type",
-        "XJ",
-        "F-Pace",
-        "I-PACE",
-        "F-Type Coupe",
-        "F-TYPE",
-        "XK",
-        "Vanden Plas",
-        "F-Type Convertible",
-        "XJ6"
+        {
+          "model_name": "XJ8",
+          "year": 1998
+        },
+        {
+          "model_name": "XJS",
+          "year": 1995
+        },
+        {
+          "model_name": "XK8",
+          "year": 1997
+        },
+        {
+          "model_name": "XJ12",
+          "year": 1995
+        },
+        {
+          "model_name": "XE",
+          "year": 2017
+        },
+        {
+          "model_name": "E-PACE",
+          "year": 2018
+        },
+        {
+          "model_name": "XF",
+          "year": 2009
+        },
+        {
+          "model_name": "XJR",
+          "year": 1995
+        },
+        {
+          "model_name": "X-Type",
+          "year": 2002
+        },
+        {
+          "model_name": "F-PACE",
+          "year": 2017
+        },
+        {
+          "model_name": "S-Type",
+          "year": 2000
+        },
+        {
+          "model_name": "XJ",
+          "year": 2002
+        },
+        {
+          "model_name": "F-Pace",
+          "year": 2017
+        },
+        {
+          "model_name": "I-PACE",
+          "year": 2019
+        },
+        {
+          "model_name": "F-Type Coupe",
+          "year": 0
+        },
+        {
+          "model_name": "F-TYPE",
+          "year": 2014
+        },
+        {
+          "model_name": "XK",
+          "year": 2000
+        },
+        {
+          "model_name": "Vanden Plas",
+          "year": 1995
+        },
+        {
+          "model_name": "F-Type Convertible",
+          "year": 0
+        },
+        {
+          "model_name": "XJ6",
+          "year": 1995
+        }
       ]
     },
     {
       "name": "Jeep",
       "models": [
-        "Gladiator",
-        "Grand Wagoneer L",
-        "Grand Cherokee",
-        "Wagoneer L",
-        "CJ-6",
-        "Commander",
-        "Liberty",
-        "J-20",
-        "Patriot",
-        "CJ-8 Scrambler",
-        "Wagoneer S",
-        "Renegade",
-        "CJ-5",
-        "Grand Cherokee L",
-        "Compass",
-        "Wrangler",
-        "Comanche",
-        "Wrangler JK",
-        "CJ-7",
-        "J-10",
-        "Grand Wagoneer",
-        "Cherokee",
-        "Wagoneer"
+        {
+          "model_name": "Gladiator",
+          "year": 0
+        },
+        {
+          "model_name": "Grand Wagoneer L",
+          "year": 2024
+        },
+        {
+          "model_name": "Grand Cherokee",
+          "year": 1995
+        },
+        {
+          "model_name": "Wagoneer L",
+          "year": 2024
+        },
+        {
+          "model_name": "CJ-6",
+          "year": 0
+        },
+        {
+          "model_name": "Commander",
+          "year": 2006
+        },
+        {
+          "model_name": "Liberty",
+          "year": 1995
+        },
+        {
+          "model_name": "J-20",
+          "year": 0
+        },
+        {
+          "model_name": "Patriot",
+          "year": 2007
+        },
+        {
+          "model_name": "CJ-8 Scrambler",
+          "year": 0
+        },
+        {
+          "model_name": "Wagoneer S",
+          "year": 2024
+        },
+        {
+          "model_name": "Renegade",
+          "year": 2015
+        },
+        {
+          "model_name": "CJ-5",
+          "year": 0
+        },
+        {
+          "model_name": "Grand Cherokee L",
+          "year": 2021
+        },
+        {
+          "model_name": "Compass",
+          "year": 2006
+        },
+        {
+          "model_name": "Wrangler",
+          "year": 1995
+        },
+        {
+          "model_name": "Comanche",
+          "year": 0
+        },
+        {
+          "model_name": "Wrangler JK",
+          "year": 2018
+        },
+        {
+          "model_name": "CJ-7",
+          "year": 0
+        },
+        {
+          "model_name": "J-10",
+          "year": 0
+        },
+        {
+          "model_name": "Grand Wagoneer",
+          "year": 2022
+        },
+        {
+          "model_name": "Cherokee",
+          "year": 1995
+        },
+        {
+          "model_name": "Wagoneer",
+          "year": 2022
+        }
       ]
     },
     {
       "name": "JETOUR",
       "models": [
-        "T1 Lightning i-DM",
-        "X50",
-        "Dashing",
-        "Ice Cream",
-        "X70",
-        "Dashing Lightning i-DM",
-        "T2",
-        "T2 Lightning i-DM",
-        "X70 Plus",
-        "X70 Lightning i-DM"
+        {
+          "model_name": "T1 Lightning i-DM",
+          "year": 0
+        },
+        {
+          "model_name": "X50",
+          "year": 0
+        },
+        {
+          "model_name": "Dashing",
+          "year": 0
+        },
+        {
+          "model_name": "Ice Cream",
+          "year": 0
+        },
+        {
+          "model_name": "X70",
+          "year": 0
+        },
+        {
+          "model_name": "Dashing Lightning i-DM",
+          "year": 0
+        },
+        {
+          "model_name": "T2",
+          "year": 0
+        },
+        {
+          "model_name": "T2 Lightning i-DM",
+          "year": 0
+        },
+        {
+          "model_name": "X70 Plus",
+          "year": 0
+        },
+        {
+          "model_name": "X70 Lightning i-DM",
+          "year": 0
+        }
       ]
     },
     {
       "name": "JMC",
       "models": [
-        "Grand Avenue",
-        "Transporter",
-        "JIM",
-        "Touring",
-        "N730",
-        "N720",
-        "N710",
-        "N830",
-        "JMK6",
-        "Vigus",
-        "N820",
-        "N920",
-        "JMH",
-        "N700",
-        "N810"
+        {
+          "model_name": "Grand Avenue",
+          "year": 0
+        },
+        {
+          "model_name": "Transporter",
+          "year": 0
+        },
+        {
+          "model_name": "JIM",
+          "year": 0
+        },
+        {
+          "model_name": "Touring",
+          "year": 0
+        },
+        {
+          "model_name": "N730",
+          "year": 0
+        },
+        {
+          "model_name": "N720",
+          "year": 0
+        },
+        {
+          "model_name": "N710",
+          "year": 0
+        },
+        {
+          "model_name": "N830",
+          "year": 0
+        },
+        {
+          "model_name": "JMK6",
+          "year": 0
+        },
+        {
+          "model_name": "Vigus",
+          "year": 0
+        },
+        {
+          "model_name": "N820",
+          "year": 0
+        },
+        {
+          "model_name": "N920",
+          "year": 0
+        },
+        {
+          "model_name": "JMH",
+          "year": 0
+        },
+        {
+          "model_name": "N700",
+          "year": 0
+        },
+        {
+          "model_name": "N810",
+          "year": 0
+        }
       ]
     },
     {
       "name": "Kaicene",
-      "models": ["Star Truck", "CX70", "Honor S"]
+      "models": [
+        {
+          "model_name": "Star Truck",
+          "year": 0
+        },
+        {
+          "model_name": "CX70",
+          "year": 0
+        },
+        {
+          "model_name": "Honor S",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Kaiyi Auto",
-      "models": ["E5", "E-Qute 04", "X7"]
+      "models": [
+        {
+          "model_name": "E5",
+          "year": 0
+        },
+        {
+          "model_name": "E-Qute 04",
+          "year": 0
+        },
+        {
+          "model_name": "X7",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "KG Mobility",
-      "models": ["Rodius", "Tivoli", "Musso", "Rexton", "Tivoli XLV", "Korando"]
+      "models": [
+        {
+          "model_name": "Rodius",
+          "year": 0
+        },
+        {
+          "model_name": "Tivoli",
+          "year": 0
+        },
+        {
+          "model_name": "Musso",
+          "year": 0
+        },
+        {
+          "model_name": "Rexton",
+          "year": 0
+        },
+        {
+          "model_name": "Tivoli XLV",
+          "year": 0
+        },
+        {
+          "model_name": "Korando",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "KIA",
       "models": [
-        "Cadenza",
-        "Sephia",
-        "Soluto",
-        "Sedona",
-        "Rio",
-        "Forte Koup",
-        "K2500",
-        "Spectra",
-        "K5",
-        "Rondo",
-        "Optima",
-        "K900",
-        "Miami",
-        "EV6",
-        "K4",
-        "Sportage",
-        "Telluride",
-        "Sonet",
-        "Soul",
-        "EV9",
-        "Niro",
-        "Stinger",
-        "Carnival",
-        "Seltos",
-        "Borrego",
-        "Amanti",
-        "Forte",
-        "Sorento"
+        {
+          "model_name": "Cadenza",
+          "year": 2014
+        },
+        {
+          "model_name": "Sephia",
+          "year": 1995
+        },
+        {
+          "model_name": "Soluto",
+          "year": 0
+        },
+        {
+          "model_name": "Sedona",
+          "year": 2001
+        },
+        {
+          "model_name": "Rio",
+          "year": 2001
+        },
+        {
+          "model_name": "Forte Koup",
+          "year": 2016
+        },
+        {
+          "model_name": "K2500",
+          "year": 0
+        },
+        {
+          "model_name": "Spectra",
+          "year": 2000
+        },
+        {
+          "model_name": "K5",
+          "year": 2021
+        },
+        {
+          "model_name": "Rondo",
+          "year": 2007
+        },
+        {
+          "model_name": "Optima",
+          "year": 2001
+        },
+        {
+          "model_name": "K900",
+          "year": 2015
+        },
+        {
+          "model_name": "Miami",
+          "year": 1995
+        },
+        {
+          "model_name": "EV6",
+          "year": 2022
+        },
+        {
+          "model_name": "K4",
+          "year": 2025
+        },
+        {
+          "model_name": "Sportage",
+          "year": 1995
+        },
+        {
+          "model_name": "Telluride",
+          "year": 2020
+        },
+        {
+          "model_name": "Sonet",
+          "year": 0
+        },
+        {
+          "model_name": "Soul",
+          "year": 2010
+        },
+        {
+          "model_name": "EV9",
+          "year": 2024
+        },
+        {
+          "model_name": "Niro",
+          "year": 2017
+        },
+        {
+          "model_name": "Stinger",
+          "year": 2018
+        },
+        {
+          "model_name": "Carnival",
+          "year": 2022
+        },
+        {
+          "model_name": "Seltos",
+          "year": 2021
+        },
+        {
+          "model_name": "Borrego",
+          "year": 2009
+        },
+        {
+          "model_name": "Amanti",
+          "year": 2004
+        },
+        {
+          "model_name": "Forte",
+          "year": 2010
+        },
+        {
+          "model_name": "Sorento",
+          "year": 2001
+        }
       ]
     },
     {
       "name": "King Long",
-      "models": ["Univan", "Max"]
+      "models": [
+        {
+          "model_name": "Univan",
+          "year": 0
+        },
+        {
+          "model_name": "Max",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Lamborghini",
       "models": [
-        "147",
-        "Huracan",
-        "Aventador",
-        "Gallardo",
-        "Aventador Roadster",
-        "Roadster",
-        "URUS",
-        "Revuelto",
-        "Diablo",
-        "Murcielago"
+        {
+          "model_name": "147",
+          "year": 2002
+        },
+        {
+          "model_name": "Huracan",
+          "year": 2015
+        },
+        {
+          "model_name": "Aventador",
+          "year": 2011
+        },
+        {
+          "model_name": "Gallardo",
+          "year": 2004
+        },
+        {
+          "model_name": "Aventador Roadster",
+          "year": 0
+        },
+        {
+          "model_name": "Roadster",
+          "year": 1995
+        },
+        {
+          "model_name": "URUS",
+          "year": 2019
+        },
+        {
+          "model_name": "Revuelto",
+          "year": 2024
+        },
+        {
+          "model_name": "Diablo",
+          "year": 1995
+        },
+        {
+          "model_name": "Murcielago",
+          "year": 2004
+        }
       ]
     },
     {
       "name": "Land Rover",
       "models": [
-        "Range Rover Velar",
-        "Range Rover Sport",
-        "Defender",
-        "110\" WB",
-        "Range Rover",
-        "Range Rover Evoque",
-        "LR2",
-        "LR4",
-        "New Range Rover",
-        "90\" WB",
-        "LR3",
-        "Discovery 4",
-        "Freelander",
-        "Discovery Sport",
-        "Discovery"
+        {
+          "model_name": "Range Rover Velar",
+          "year": 2018
+        },
+        {
+          "model_name": "Range Rover Sport",
+          "year": 2006
+        },
+        {
+          "model_name": "Defender",
+          "year": 1995
+        },
+        {
+          "model_name": "110\" WB",
+          "year": 2025
+        },
+        {
+          "model_name": "Range Rover",
+          "year": 1995
+        },
+        {
+          "model_name": "Range Rover Evoque",
+          "year": 2012
+        },
+        {
+          "model_name": "LR2",
+          "year": 2008
+        },
+        {
+          "model_name": "LR4",
+          "year": 2010
+        },
+        {
+          "model_name": "New Range Rover",
+          "year": 2022
+        },
+        {
+          "model_name": "90\" WB",
+          "year": 2025
+        },
+        {
+          "model_name": "LR3",
+          "year": 2005
+        },
+        {
+          "model_name": "Discovery 4",
+          "year": 0
+        },
+        {
+          "model_name": "Freelander",
+          "year": 2002
+        },
+        {
+          "model_name": "Discovery Sport",
+          "year": 2015
+        },
+        {
+          "model_name": "Discovery",
+          "year": 1995
+        }
       ]
     },
     {
       "name": "Lexus",
       "models": [
-        "RZ",
-        "LFA",
-        "CT",
-        "LS",
-        "TX",
-        "LX",
-        "IS",
-        "ES",
-        "GX",
-        "RX",
-        "LM",
-        "SC",
-        "NX",
-        "HS",
-        "UX",
-        "GS",
-        "RC",
-        "LC"
+        {
+          "model_name": "RZ",
+          "year": 2023
+        },
+        {
+          "model_name": "LFA",
+          "year": 2012
+        },
+        {
+          "model_name": "CT",
+          "year": 2011
+        },
+        {
+          "model_name": "LS",
+          "year": 1995
+        },
+        {
+          "model_name": "TX",
+          "year": 2024
+        },
+        {
+          "model_name": "LX",
+          "year": 1996
+        },
+        {
+          "model_name": "IS",
+          "year": 2001
+        },
+        {
+          "model_name": "ES",
+          "year": 1995
+        },
+        {
+          "model_name": "GX",
+          "year": 2003
+        },
+        {
+          "model_name": "RX",
+          "year": 1999
+        },
+        {
+          "model_name": "LM",
+          "year": 0
+        },
+        {
+          "model_name": "SC",
+          "year": 1995
+        },
+        {
+          "model_name": "NX",
+          "year": 2015
+        },
+        {
+          "model_name": "HS",
+          "year": 2010
+        },
+        {
+          "model_name": "UX",
+          "year": 2019
+        },
+        {
+          "model_name": "GS",
+          "year": 1995
+        },
+        {
+          "model_name": "RC",
+          "year": 2015
+        },
+        {
+          "model_name": "LC",
+          "year": 2018
+        }
       ]
     },
     {
       "name": "Li Auto",
-      "models": ["L9", "Mega", "L7", "L6"]
+      "models": [
+        {
+          "model_name": "L9",
+          "year": 0
+        },
+        {
+          "model_name": "Mega",
+          "year": 0
+        },
+        {
+          "model_name": "L7",
+          "year": 0
+        },
+        {
+          "model_name": "L6",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Lifan",
-      "models": ["620"]
+      "models": [
+        {
+          "model_name": "620",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Lotus",
       "models": [
-        "Monza",
-        "2-Eleven",
-        "Eletre",
-        "Elise",
-        "Turbo Esprit",
-        "Elan",
-        "Eleven",
-        "Monaco",
-        "ELETRE",
-        "Eclat",
-        "340R",
-        "Esprit",
-        "Emira",
-        "Europa",
-        "Elite",
-        "Spa",
-        "Evora",
-        "Emeya",
-        "MEL",
-        "Exige",
-        "Eagle"
+        {
+          "model_name": "Monza",
+          "year": 2007
+        },
+        {
+          "model_name": "2-Eleven",
+          "year": 2008
+        },
+        {
+          "model_name": "Eletre",
+          "year": 2025
+        },
+        {
+          "model_name": "Elise",
+          "year": 2005
+        },
+        {
+          "model_name": "Turbo Esprit",
+          "year": 1995
+        },
+        {
+          "model_name": "Elan",
+          "year": 1995
+        },
+        {
+          "model_name": "Eleven",
+          "year": 2007
+        },
+        {
+          "model_name": "Monaco",
+          "year": 2007
+        },
+        {
+          "model_name": "ELETRE",
+          "year": 2025
+        },
+        {
+          "model_name": "Eclat",
+          "year": 1995
+        },
+        {
+          "model_name": "340R",
+          "year": 2007
+        },
+        {
+          "model_name": "Esprit",
+          "year": 1995
+        },
+        {
+          "model_name": "Emira",
+          "year": 2024
+        },
+        {
+          "model_name": "Europa",
+          "year": 2007
+        },
+        {
+          "model_name": "Elite",
+          "year": 1995
+        },
+        {
+          "model_name": "Spa",
+          "year": 2007
+        },
+        {
+          "model_name": "Evora",
+          "year": 2010
+        },
+        {
+          "model_name": "Emeya",
+          "year": 0
+        },
+        {
+          "model_name": "MEL",
+          "year": 2007
+        },
+        {
+          "model_name": "Exige",
+          "year": 2008
+        },
+        {
+          "model_name": "Eagle",
+          "year": 2008
+        }
       ]
     },
     {
       "name": "Lynk & Co",
-      "models": ["03+", "05", "08", "06", "01 PHEV", "02"]
+      "models": [
+        {
+          "model_name": "03+",
+          "year": 0
+        },
+        {
+          "model_name": "05",
+          "year": 0
+        },
+        {
+          "model_name": "08",
+          "year": 0
+        },
+        {
+          "model_name": "06",
+          "year": 0
+        },
+        {
+          "model_name": "01 PHEV",
+          "year": 0
+        },
+        {
+          "model_name": "02",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Mahindra",
       "models": [
-        "Mahindra TR20",
-        "Xylo",
-        "Scorpio",
-        "Mahindra MPV",
-        "Enforcer",
-        "Mahindra TR40"
+        {
+          "model_name": "Mahindra TR20",
+          "year": 2010
+        },
+        {
+          "model_name": "Xylo",
+          "year": 0
+        },
+        {
+          "model_name": "Scorpio",
+          "year": 0
+        },
+        {
+          "model_name": "Mahindra MPV",
+          "year": 2010
+        },
+        {
+          "model_name": "Enforcer",
+          "year": 0
+        },
+        {
+          "model_name": "Mahindra TR40",
+          "year": 2010
+        }
       ]
     },
     {
       "name": "Maserati",
       "models": [
-        "Ghibli",
-        "Coupe",
-        "GranTurismo",
-        "Quattroporte",
-        "MC20",
-        "Biturbo",
-        "Grecale",
-        "Granturismo",
-        "Merak",
-        "430",
-        "GranCabrio",
-        "Levante",
-        "Spyder",
-        "228",
-        "Grancabrio",
-        "TC"
+        {
+          "model_name": "Ghibli",
+          "year": 2014
+        },
+        {
+          "model_name": "Coupe",
+          "year": 2002
+        },
+        {
+          "model_name": "GranTurismo",
+          "year": 2008
+        },
+        {
+          "model_name": "Quattroporte",
+          "year": 2005
+        },
+        {
+          "model_name": "MC20",
+          "year": 2022
+        },
+        {
+          "model_name": "Biturbo",
+          "year": 0
+        },
+        {
+          "model_name": "Grecale",
+          "year": 2023
+        },
+        {
+          "model_name": "Granturismo",
+          "year": 2008
+        },
+        {
+          "model_name": "Merak",
+          "year": 0
+        },
+        {
+          "model_name": "430",
+          "year": 0
+        },
+        {
+          "model_name": "GranCabrio",
+          "year": 2024
+        },
+        {
+          "model_name": "Levante",
+          "year": 2017
+        },
+        {
+          "model_name": "Spyder",
+          "year": 2002
+        },
+        {
+          "model_name": "228",
+          "year": 0
+        },
+        {
+          "model_name": "Grancabrio",
+          "year": 2024
+        },
+        {
+          "model_name": "TC",
+          "year": 0
+        }
       ]
     },
     {
       "name": "Mazda",
       "models": [
-        "CX-3",
-        "GLC",
-        "RX-7",
-        "CX-8",
-        "CX-50",
-        "CX-7",
-        "323",
-        "MX-30",
-        "MX-5",
-        "CX-30",
-        "Mazda3",
-        "MX-3",
-        "3",
-        "Mazda6",
-        "CX-9",
-        "MX-6",
-        "3 Fastback",
-        "Mazda2",
-        "2 Hatchback",
-        "B-Series",
-        "MX-5 RF",
-        "6 Sports Wagon",
-        "MPV",
-        "CX-70",
-        "Navajo",
-        "BT-50",
-        "626",
-        "Tribute",
-        "CX-60",
-        "929",
-        "Protege",
-        "CX-90",
-        "RX-8",
-        "Millenia",
-        "CX-5",
-        "Mazda5"
+        {
+          "model_name": "CX-3",
+          "year": 2016
+        },
+        {
+          "model_name": "GLC",
+          "year": 0
+        },
+        {
+          "model_name": "RX-7",
+          "year": 1995
+        },
+        {
+          "model_name": "CX-8",
+          "year": 0
+        },
+        {
+          "model_name": "CX-50",
+          "year": 2023
+        },
+        {
+          "model_name": "CX-7",
+          "year": 2007
+        },
+        {
+          "model_name": "323",
+          "year": 0
+        },
+        {
+          "model_name": "MX-30",
+          "year": 2022
+        },
+        {
+          "model_name": "MX-5",
+          "year": 1995
+        },
+        {
+          "model_name": "CX-30",
+          "year": 2020
+        },
+        {
+          "model_name": "Mazda3",
+          "year": 2004
+        },
+        {
+          "model_name": "MX-3",
+          "year": 1995
+        },
+        {
+          "model_name": "3",
+          "year": 0
+        },
+        {
+          "model_name": "Mazda6",
+          "year": 2003
+        },
+        {
+          "model_name": "CX-9",
+          "year": 2007
+        },
+        {
+          "model_name": "MX-6",
+          "year": 1996
+        },
+        {
+          "model_name": "3 Fastback",
+          "year": 0
+        },
+        {
+          "model_name": "Mazda2",
+          "year": 2011
+        },
+        {
+          "model_name": "2 Hatchback",
+          "year": 0
+        },
+        {
+          "model_name": "B-Series",
+          "year": 2000
+        },
+        {
+          "model_name": "MX-5 RF",
+          "year": 0
+        },
+        {
+          "model_name": "6 Sports Wagon",
+          "year": 0
+        },
+        {
+          "model_name": "MPV",
+          "year": 1995
+        },
+        {
+          "model_name": "CX-70",
+          "year": 2025
+        },
+        {
+          "model_name": "Navajo",
+          "year": 0
+        },
+        {
+          "model_name": "BT-50",
+          "year": 0
+        },
+        {
+          "model_name": "626",
+          "year": 1995
+        },
+        {
+          "model_name": "Tribute",
+          "year": 2001
+        },
+        {
+          "model_name": "CX-60",
+          "year": 0
+        },
+        {
+          "model_name": "929",
+          "year": 1995
+        },
+        {
+          "model_name": "Protege",
+          "year": 1995
+        },
+        {
+          "model_name": "CX-90",
+          "year": 2024
+        },
+        {
+          "model_name": "RX-8",
+          "year": 2004
+        },
+        {
+          "model_name": "Millenia",
+          "year": 1995
+        },
+        {
+          "model_name": "CX-5",
+          "year": 2013
+        },
+        {
+          "model_name": "Mazda5",
+          "year": 2006
+        }
       ]
     },
     {
       "name": "Mercedes-Benz",
       "models": [
-        "500",
-        "EQS",
-        "GLC",
-        "GLS",
-        "350",
-        "CLA-Class",
-        "300",
-        "GLA",
-        "Sprinter",
-        "260",
-        "EQE-Class SUV",
-        "G-Class",
-        "GLK-Class",
-        "560",
-        "GLB",
-        "A-Class",
-        "C-Class",
-        "GLS-Class",
-        "GLA-Class",
-        "B-Class",
-        "190",
-        "EQS-Class Sedan",
-        "400",
-        "600",
-        "240",
-        "C-Class Sedan",
-        "EQE",
-        "CL-Class",
-        "ML-Class",
-        "EQS-Class SUV",
-        "SL-Class",
-        "M-Class",
-        "380",
-        "GLC-Class",
-        "V-Class",
-        "CLE",
-        "E-Class",
-        "EQB",
-        "GLE-Class",
-        "Maybach S-Class",
-        "SLS-Class",
-        "AMG",
-        "S-Class",
-        "AMG GT",
-        "GLB-Class",
-        "EQA",
-        "SLK-Class",
-        "R-Class",
-        "eSprinter",
-        "EQB-Class",
-        "CLK-Class",
-        "Maybach GLS",
-        "Metris",
-        "280",
-        "GL-Class",
-        "EQE-Class Sedan",
-        "CLS-Class",
-        "SLC-Class",
-        "SLR McLaren",
-        "420",
-        "GLE"
+        {
+          "model_name": "500",
+          "year": 0
+        },
+        {
+          "model_name": "EQS",
+          "year": 0
+        },
+        {
+          "model_name": "GLC",
+          "year": 0
+        },
+        {
+          "model_name": "GLS",
+          "year": 0
+        },
+        {
+          "model_name": "350",
+          "year": 0
+        },
+        {
+          "model_name": "CLA-Class",
+          "year": 2014
+        },
+        {
+          "model_name": "300",
+          "year": 0
+        },
+        {
+          "model_name": "GLA",
+          "year": 0
+        },
+        {
+          "model_name": "Sprinter",
+          "year": 2010
+        },
+        {
+          "model_name": "260",
+          "year": 0
+        },
+        {
+          "model_name": "EQE-Class SUV",
+          "year": 2023
+        },
+        {
+          "model_name": "G-Class",
+          "year": 1999
+        },
+        {
+          "model_name": "GLK-Class",
+          "year": 2010
+        },
+        {
+          "model_name": "560",
+          "year": 0
+        },
+        {
+          "model_name": "GLB",
+          "year": 0
+        },
+        {
+          "model_name": "A-Class",
+          "year": 2019
+        },
+        {
+          "model_name": "C-Class",
+          "year": 1995
+        },
+        {
+          "model_name": "GLS-Class",
+          "year": 2016
+        },
+        {
+          "model_name": "GLA-Class",
+          "year": 2015
+        },
+        {
+          "model_name": "B-Class",
+          "year": 2011
+        },
+        {
+          "model_name": "190",
+          "year": 0
+        },
+        {
+          "model_name": "EQS-Class Sedan",
+          "year": 2022
+        },
+        {
+          "model_name": "400",
+          "year": 0
+        },
+        {
+          "model_name": "600",
+          "year": 0
+        },
+        {
+          "model_name": "240",
+          "year": 0
+        },
+        {
+          "model_name": "C-Class Sedan",
+          "year": 0
+        },
+        {
+          "model_name": "EQE",
+          "year": 0
+        },
+        {
+          "model_name": "CL-Class",
+          "year": 1998
+        },
+        {
+          "model_name": "ML-Class",
+          "year": 2012
+        },
+        {
+          "model_name": "EQS-Class SUV",
+          "year": 2023
+        },
+        {
+          "model_name": "SL-Class",
+          "year": 1995
+        },
+        {
+          "model_name": "M-Class",
+          "year": 1995
+        },
+        {
+          "model_name": "380",
+          "year": 0
+        },
+        {
+          "model_name": "GLC-Class",
+          "year": 2016
+        },
+        {
+          "model_name": "V-Class",
+          "year": 0
+        },
+        {
+          "model_name": "CLE",
+          "year": 2024
+        },
+        {
+          "model_name": "E-Class",
+          "year": 1995
+        },
+        {
+          "model_name": "EQB",
+          "year": 0
+        },
+        {
+          "model_name": "GLE-Class",
+          "year": 2016
+        },
+        {
+          "model_name": "Maybach S-Class",
+          "year": 0
+        },
+        {
+          "model_name": "SLS-Class",
+          "year": 2011
+        },
+        {
+          "model_name": "AMG",
+          "year": 0
+        },
+        {
+          "model_name": "S-Class",
+          "year": 1995
+        },
+        {
+          "model_name": "AMG GT",
+          "year": 2016
+        },
+        {
+          "model_name": "GLB-Class",
+          "year": 2021
+        },
+        {
+          "model_name": "EQA",
+          "year": 0
+        },
+        {
+          "model_name": "SLK-Class",
+          "year": 1998
+        },
+        {
+          "model_name": "R-Class",
+          "year": 2006
+        },
+        {
+          "model_name": "eSprinter",
+          "year": 2024
+        },
+        {
+          "model_name": "EQB-Class",
+          "year": 2022
+        },
+        {
+          "model_name": "CLK-Class",
+          "year": 1998
+        },
+        {
+          "model_name": "Maybach GLS",
+          "year": 0
+        },
+        {
+          "model_name": "Metris",
+          "year": 2016
+        },
+        {
+          "model_name": "280",
+          "year": 0
+        },
+        {
+          "model_name": "GL-Class",
+          "year": 2006
+        },
+        {
+          "model_name": "EQE-Class Sedan",
+          "year": 2023
+        },
+        {
+          "model_name": "CLS-Class",
+          "year": 2005
+        },
+        {
+          "model_name": "SLC-Class",
+          "year": 2017
+        },
+        {
+          "model_name": "SLR McLaren",
+          "year": 2004
+        },
+        {
+          "model_name": "420",
+          "year": 0
+        },
+        {
+          "model_name": "GLE",
+          "year": 0
+        }
       ]
     },
     {
       "name": "MG",
       "models": [
-        "ZS EV",
-        "Cyberster",
-        "4 EV",
-        "ZS MCE",
-        "Marvel R",
-        "GT",
-        "ONE",
-        "M9",
-        "5",
-        "ZS",
-        "G50 Plus",
-        "Miami",
-        "4 Xpower",
-        "TRQ L",
-        "3",
-        "ZST"
+        {
+          "model_name": "ZS EV",
+          "year": 0
+        },
+        {
+          "model_name": "Cyberster",
+          "year": 0
+        },
+        {
+          "model_name": "4 EV",
+          "year": 0
+        },
+        {
+          "model_name": "ZS MCE",
+          "year": 0
+        },
+        {
+          "model_name": "Marvel R",
+          "year": 0
+        },
+        {
+          "model_name": "GT",
+          "year": 0
+        },
+        {
+          "model_name": "ONE",
+          "year": 0
+        },
+        {
+          "model_name": "M9",
+          "year": 0
+        },
+        {
+          "model_name": "5",
+          "year": 0
+        },
+        {
+          "model_name": "ZS",
+          "year": 0
+        },
+        {
+          "model_name": "G50 Plus",
+          "year": 0
+        },
+        {
+          "model_name": "Miami",
+          "year": 1995
+        },
+        {
+          "model_name": "4 Xpower",
+          "year": 0
+        },
+        {
+          "model_name": "TRQ L",
+          "year": 0
+        },
+        {
+          "model_name": "3",
+          "year": 0
+        },
+        {
+          "model_name": "ZST",
+          "year": 0
+        }
       ]
     },
     {
       "name": "MINI",
       "models": [
-        "Cooper Convertible",
-        "Cooper",
-        "Cooper Coupe",
-        "Hardtop",
-        "Paceman",
-        "Clubman",
-        "Aceman",
-        "Cooper Roadster",
-        "Countryman"
+        {
+          "model_name": "Cooper Convertible",
+          "year": 2004
+        },
+        {
+          "model_name": "Cooper",
+          "year": 2002
+        },
+        {
+          "model_name": "Cooper Coupe",
+          "year": 2012
+        },
+        {
+          "model_name": "Hardtop",
+          "year": 2009
+        },
+        {
+          "model_name": "Paceman",
+          "year": 2013
+        },
+        {
+          "model_name": "Clubman",
+          "year": 2008
+        },
+        {
+          "model_name": "Aceman",
+          "year": 0
+        },
+        {
+          "model_name": "Cooper Roadster",
+          "year": 2012
+        },
+        {
+          "model_name": "Countryman",
+          "year": 2011
+        }
       ]
     },
     {
       "name": "Mitsubishi",
       "models": [
-        "Raider",
-        "Sigma",
-        "SPX",
-        "Endeavor",
-        "Xpander Cross",
-        "Precis",
-        "Outlander PHEV",
-        "3000GT",
-        "XForce",
-        "Mirage",
-        "Eclipse",
-        "Space Wagon",
-        "SP",
-        "Starion",
-        "Diamante",
-        "RVR",
-        "Mighty Max",
-        "Outlander",
-        "Montero Sport",
-        "Galant",
-        "Lancer SportBack",
-        "Eclipse Cross",
-        "Montero",
-        "Cordia",
-        "Triton",
-        "L300",
-        "Mirage G4",
-        "Outlander Sport",
-        "Tredia",
-        "Lancer",
-        "Expo",
-        "Lancer Evolution",
-        "Xpander",
-        "Wagon",
-        "Van",
-        "i-MiEV"
+        {
+          "model_name": "Raider",
+          "year": 2010
+        },
+        {
+          "model_name": "Sigma",
+          "year": 0
+        },
+        {
+          "model_name": "SPX",
+          "year": 0
+        },
+        {
+          "model_name": "Endeavor",
+          "year": 2004
+        },
+        {
+          "model_name": "Xpander Cross",
+          "year": 0
+        },
+        {
+          "model_name": "Precis",
+          "year": 0
+        },
+        {
+          "model_name": "Outlander PHEV",
+          "year": 0
+        },
+        {
+          "model_name": "3000GT",
+          "year": 1995
+        },
+        {
+          "model_name": "XForce",
+          "year": 0
+        },
+        {
+          "model_name": "Mirage",
+          "year": 1995
+        },
+        {
+          "model_name": "Eclipse",
+          "year": 1995
+        },
+        {
+          "model_name": "Space Wagon",
+          "year": 0
+        },
+        {
+          "model_name": "SP",
+          "year": 0
+        },
+        {
+          "model_name": "Starion",
+          "year": 0
+        },
+        {
+          "model_name": "Diamante",
+          "year": 1995
+        },
+        {
+          "model_name": "RVR",
+          "year": 2011
+        },
+        {
+          "model_name": "Mighty Max",
+          "year": 0
+        },
+        {
+          "model_name": "Outlander",
+          "year": 2003
+        },
+        {
+          "model_name": "Montero Sport",
+          "year": 1997
+        },
+        {
+          "model_name": "Galant",
+          "year": 1995
+        },
+        {
+          "model_name": "Lancer SportBack",
+          "year": 2004
+        },
+        {
+          "model_name": "Eclipse Cross",
+          "year": 2018
+        },
+        {
+          "model_name": "Montero",
+          "year": 1995
+        },
+        {
+          "model_name": "Cordia",
+          "year": 0
+        },
+        {
+          "model_name": "Triton",
+          "year": 0
+        },
+        {
+          "model_name": "L300",
+          "year": 0
+        },
+        {
+          "model_name": "Mirage G4",
+          "year": 2017
+        },
+        {
+          "model_name": "Outlander Sport",
+          "year": 2011
+        },
+        {
+          "model_name": "Tredia",
+          "year": 0
+        },
+        {
+          "model_name": "Lancer",
+          "year": 2002
+        },
+        {
+          "model_name": "Expo",
+          "year": 1995
+        },
+        {
+          "model_name": "Lancer Evolution",
+          "year": 2003
+        },
+        {
+          "model_name": "Xpander",
+          "year": 0
+        },
+        {
+          "model_name": "Wagon",
+          "year": 0
+        },
+        {
+          "model_name": "Van",
+          "year": 0
+        },
+        {
+          "model_name": "i-MiEV",
+          "year": 2012
+        }
       ]
     },
     {
       "name": "Nissan",
       "models": [
-        "Quest",
-        "Murano",
-        "Altra",
-        "Leaf",
-        "NX",
-        "Xterra",
-        "Versa",
-        "Versa Note",
-        "Rogue",
-        "Kicks MPV",
-        "Patrol",
-        "Cube",
-        "Sentra",
-        "GT-R",
-        "PULSAR",
-        "Almera",
-        "Rogue Select",
-        "Stanza",
-        "Kicks Play",
-        "Maxima",
-        "Altra-EV",
-        "Micra",
-        "Rogue Sport",
-        "NV350 Urvan",
-        "200SX",
-        "NV200",
-        "Pickup",
-        "240SX",
-        "Axxess",
-        "300ZX",
-        "Frontier",
-        "Titan",
-        "Z",
-        "350Z",
-        "Altima",
-        "370Z",
-        "X-Trail",
-        "Juke",
-        "Sentra Classic",
-        "Ariya Hatchback",
-        "Armada",
-        "Kicks",
-        "Nissan Z",
-        "Terra",
-        "Stanza Wagon",
-        "Livina",
-        "LEAF",
-        "Pathfinder",
-        "Van",
-        "Navara",
-        "Ariya MPV"
+        {
+          "model_name": "Quest",
+          "year": 1995
+        },
+        {
+          "model_name": "Murano",
+          "year": 2002
+        },
+        {
+          "model_name": "Altra",
+          "year": 1998
+        },
+        {
+          "model_name": "Leaf",
+          "year": 2011
+        },
+        {
+          "model_name": "NX",
+          "year": 0
+        },
+        {
+          "model_name": "Xterra",
+          "year": 2000
+        },
+        {
+          "model_name": "Versa",
+          "year": 2007
+        },
+        {
+          "model_name": "Versa Note",
+          "year": 2014
+        },
+        {
+          "model_name": "Rogue",
+          "year": 2008
+        },
+        {
+          "model_name": "Kicks MPV",
+          "year": 2025
+        },
+        {
+          "model_name": "Patrol",
+          "year": 0
+        },
+        {
+          "model_name": "Cube",
+          "year": 2009
+        },
+        {
+          "model_name": "Sentra",
+          "year": 1995
+        },
+        {
+          "model_name": "GT-R",
+          "year": 2009
+        },
+        {
+          "model_name": "PULSAR",
+          "year": 0
+        },
+        {
+          "model_name": "Almera",
+          "year": 0
+        },
+        {
+          "model_name": "Rogue Select",
+          "year": 2014
+        },
+        {
+          "model_name": "Stanza",
+          "year": 0
+        },
+        {
+          "model_name": "Kicks Play",
+          "year": 2025
+        },
+        {
+          "model_name": "Maxima",
+          "year": 1995
+        },
+        {
+          "model_name": "Altra-EV",
+          "year": 1999
+        },
+        {
+          "model_name": "Micra",
+          "year": 0
+        },
+        {
+          "model_name": "Rogue Sport",
+          "year": 2017
+        },
+        {
+          "model_name": "NV350 Urvan",
+          "year": 0
+        },
+        {
+          "model_name": "200SX",
+          "year": 1995
+        },
+        {
+          "model_name": "NV200",
+          "year": 2014
+        },
+        {
+          "model_name": "Pickup",
+          "year": 1995
+        },
+        {
+          "model_name": "240SX",
+          "year": 1995
+        },
+        {
+          "model_name": "Axxess",
+          "year": 0
+        },
+        {
+          "model_name": "300ZX",
+          "year": 1995
+        },
+        {
+          "model_name": "Frontier",
+          "year": 2002
+        },
+        {
+          "model_name": "Titan",
+          "year": 2002
+        },
+        {
+          "model_name": "Z",
+          "year": 0
+        },
+        {
+          "model_name": "350Z",
+          "year": 2003
+        },
+        {
+          "model_name": "Altima",
+          "year": 1995
+        },
+        {
+          "model_name": "370Z",
+          "year": 2009
+        },
+        {
+          "model_name": "X-Trail",
+          "year": 2005
+        },
+        {
+          "model_name": "Juke",
+          "year": 2011
+        },
+        {
+          "model_name": "Sentra Classic",
+          "year": 1995
+        },
+        {
+          "model_name": "Ariya Hatchback",
+          "year": 2023
+        },
+        {
+          "model_name": "Armada",
+          "year": 2002
+        },
+        {
+          "model_name": "Kicks",
+          "year": 2018
+        },
+        {
+          "model_name": "Nissan Z",
+          "year": 2023
+        },
+        {
+          "model_name": "Terra",
+          "year": 0
+        },
+        {
+          "model_name": "Stanza Wagon",
+          "year": 0
+        },
+        {
+          "model_name": "Livina",
+          "year": 0
+        },
+        {
+          "model_name": "LEAF",
+          "year": 2011
+        },
+        {
+          "model_name": "Pathfinder",
+          "year": 1995
+        },
+        {
+          "model_name": "Van",
+          "year": 0
+        },
+        {
+          "model_name": "Navara",
+          "year": 0
+        },
+        {
+          "model_name": "Ariya MPV",
+          "year": 2025
+        }
       ]
     },
     {
       "name": "Omoda",
-      "models": ["E5", "C5"]
+      "models": [
+        {
+          "model_name": "E5",
+          "year": 0
+        },
+        {
+          "model_name": "C5",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Peugeot",
       "models": [
-        "Traveller Premium",
-        "504",
-        "604",
-        "3008",
-        "5008",
-        "505",
-        "405",
-        "2008"
+        {
+          "model_name": "Traveller Premium",
+          "year": 0
+        },
+        {
+          "model_name": "504",
+          "year": 0
+        },
+        {
+          "model_name": "604",
+          "year": 0
+        },
+        {
+          "model_name": "3008",
+          "year": 0
+        },
+        {
+          "model_name": "5008",
+          "year": 0
+        },
+        {
+          "model_name": "505",
+          "year": 1995
+        },
+        {
+          "model_name": "405",
+          "year": 1995
+        },
+        {
+          "model_name": "2008",
+          "year": 0
+        }
       ]
     },
     {
       "name": "Porsche",
       "models": [
-        "928",
-        "Macan Electric",
-        "718 Cayman",
-        "Panamera",
-        "Cayenne Coupe",
-        "Macan",
-        "924",
-        "Cayenne",
-        "918",
-        "Boxster",
-        "944",
-        "718 Boxster",
-        "718 Spyder",
-        "968",
-        "Taycan",
-        "911",
-        "Cayman"
+        {
+          "model_name": "928",
+          "year": 0
+        },
+        {
+          "model_name": "Macan Electric",
+          "year": 0
+        },
+        {
+          "model_name": "718 Cayman",
+          "year": 2017
+        },
+        {
+          "model_name": "Panamera",
+          "year": 2010
+        },
+        {
+          "model_name": "Cayenne Coupe",
+          "year": 0
+        },
+        {
+          "model_name": "Macan",
+          "year": 2015
+        },
+        {
+          "model_name": "924",
+          "year": 0
+        },
+        {
+          "model_name": "Cayenne",
+          "year": 2003
+        },
+        {
+          "model_name": "918",
+          "year": 2015
+        },
+        {
+          "model_name": "Boxster",
+          "year": 1997
+        },
+        {
+          "model_name": "944",
+          "year": 0
+        },
+        {
+          "model_name": "718 Boxster",
+          "year": 2017
+        },
+        {
+          "model_name": "718 Spyder",
+          "year": 2020
+        },
+        {
+          "model_name": "968",
+          "year": 0
+        },
+        {
+          "model_name": "Taycan",
+          "year": 2020
+        },
+        {
+          "model_name": "911",
+          "year": 1995
+        },
+        {
+          "model_name": "Cayman",
+          "year": 2006
+        }
       ]
     },
     {
       "name": "RADAR",
-      "models": ["RD6 Econ", "RD6 EM-P"]
+      "models": [
+        {
+          "model_name": "RD6 Econ",
+          "year": 0
+        },
+        {
+          "model_name": "RD6 EM-P",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "RAM",
       "models": [
-        "4000",
-        "ProMaster 2500",
-        "Promaster City",
-        "4500",
-        "5500",
-        "Cargo Van",
-        "2500",
-        "3500",
-        "1500",
-        "ProMaster 1500",
-        "ProMaster 3500"
+        {
+          "model_name": "4000",
+          "year": 2013
+        },
+        {
+          "model_name": "ProMaster 2500",
+          "year": 2014
+        },
+        {
+          "model_name": "Promaster City",
+          "year": 2015
+        },
+        {
+          "model_name": "4500",
+          "year": 2013
+        },
+        {
+          "model_name": "5500",
+          "year": 2013
+        },
+        {
+          "model_name": "Cargo Van",
+          "year": 2013
+        },
+        {
+          "model_name": "2500",
+          "year": 2013
+        },
+        {
+          "model_name": "3500",
+          "year": 2012
+        },
+        {
+          "model_name": "1500",
+          "year": 2013
+        },
+        {
+          "model_name": "ProMaster 1500",
+          "year": 2014
+        },
+        {
+          "model_name": "ProMaster 3500",
+          "year": 2014
+        }
       ]
     },
     {
       "name": "Rolls-Royce",
       "models": [
-        "Park Ward",
-        "Flying Spur",
-        "Cullinan",
-        "Camargue",
-        "Phantom Coupe",
-        "Phantom",
-        "Silver Dawn",
-        "Touring Limousine",
-        "Spectre",
-        "Silver Spirit",
-        "Ghost",
-        "Silver Spur",
-        "Wraith",
-        "Corniche",
-        "Silver Seraph",
-        "Dawn"
+        {
+          "model_name": "Park Ward",
+          "year": 1998
+        },
+        {
+          "model_name": "Flying Spur",
+          "year": 1995
+        },
+        {
+          "model_name": "Cullinan",
+          "year": 2019
+        },
+        {
+          "model_name": "Camargue",
+          "year": 0
+        },
+        {
+          "model_name": "Phantom Coupe",
+          "year": 0
+        },
+        {
+          "model_name": "Phantom",
+          "year": 2004
+        },
+        {
+          "model_name": "Silver Dawn",
+          "year": 1995
+        },
+        {
+          "model_name": "Touring Limousine",
+          "year": 1995
+        },
+        {
+          "model_name": "Spectre",
+          "year": 2024
+        },
+        {
+          "model_name": "Silver Spirit",
+          "year": 1995
+        },
+        {
+          "model_name": "Ghost",
+          "year": 2010
+        },
+        {
+          "model_name": "Silver Spur",
+          "year": 1995
+        },
+        {
+          "model_name": "Wraith",
+          "year": 2014
+        },
+        {
+          "model_name": "Corniche",
+          "year": 1995
+        },
+        {
+          "model_name": "Silver Seraph",
+          "year": 1999
+        },
+        {
+          "model_name": "Dawn",
+          "year": 2016
+        }
       ]
     },
     {
       "name": "Subaru",
       "models": [
-        "Solterra",
-        "DL",
-        "RX",
-        "Brat",
-        "Legacy",
-        "BRZ",
-        "Ascent",
-        "Justy",
-        "GL",
-        "Forester",
-        "Baja",
-        "XV CrossTrek",
-        "WRX",
-        "XT",
-        "WRX Wagon",
-        "SVX",
-        "Loyale",
-        "Crosstrek",
-        "GL-10",
-        "Standard",
-        "B9 Tribeca",
-        "GLF",
-        "Outback",
-        "Evoltis",
-        "Impreza",
-        "XT6"
+        {
+          "model_name": "Solterra",
+          "year": 2023
+        },
+        {
+          "model_name": "DL",
+          "year": 0
+        },
+        {
+          "model_name": "RX",
+          "year": 0
+        },
+        {
+          "model_name": "Brat",
+          "year": 0
+        },
+        {
+          "model_name": "Legacy",
+          "year": 1995
+        },
+        {
+          "model_name": "BRZ",
+          "year": 2013
+        },
+        {
+          "model_name": "Ascent",
+          "year": 2019
+        },
+        {
+          "model_name": "Justy",
+          "year": 0
+        },
+        {
+          "model_name": "GL",
+          "year": 0
+        },
+        {
+          "model_name": "Forester",
+          "year": 1998
+        },
+        {
+          "model_name": "Baja",
+          "year": 2003
+        },
+        {
+          "model_name": "XV CrossTrek",
+          "year": 2012
+        },
+        {
+          "model_name": "WRX",
+          "year": 2015
+        },
+        {
+          "model_name": "XT",
+          "year": 0
+        },
+        {
+          "model_name": "WRX Wagon",
+          "year": 0
+        },
+        {
+          "model_name": "SVX",
+          "year": 1995
+        },
+        {
+          "model_name": "Loyale",
+          "year": 0
+        },
+        {
+          "model_name": "Crosstrek",
+          "year": 2016
+        },
+        {
+          "model_name": "GL-10",
+          "year": 0
+        },
+        {
+          "model_name": "Standard",
+          "year": 0
+        },
+        {
+          "model_name": "B9 Tribeca",
+          "year": 2006
+        },
+        {
+          "model_name": "GLF",
+          "year": 0
+        },
+        {
+          "model_name": "Outback",
+          "year": 2005
+        },
+        {
+          "model_name": "Evoltis",
+          "year": 0
+        },
+        {
+          "model_name": "Impreza",
+          "year": 1995
+        },
+        {
+          "model_name": "XT6",
+          "year": 0
+        }
       ]
     },
     {
       "name": "Suzuki",
       "models": [
-        "Jimny",
-        "Esteem",
-        "Forenza",
-        "Reno",
-        "XL7",
-        "Samurai",
-        "Grand Vitara",
-        "Grand Vitara XL-7",
-        "APV",
-        "X-90",
-        "Jimny 5-Door",
-        "S-Presso",
-        "Fronx",
-        "Celerio",
-        "Vitara",
-        "Swift",
-        "Forsa",
-        "XL7 Hybrid Black Upgrade",
-        "Aerio",
-        "Ertiga",
-        "SX4",
-        "Verona",
-        "Carry",
-        "Sidekick Sport",
-        "Dzire",
-        "Sidekick",
-        "Kizashi"
+        {
+          "model_name": "Jimny",
+          "year": 0
+        },
+        {
+          "model_name": "Esteem",
+          "year": 1995
+        },
+        {
+          "model_name": "Forenza",
+          "year": 2004
+        },
+        {
+          "model_name": "Reno",
+          "year": 2005
+        },
+        {
+          "model_name": "XL7",
+          "year": 2003
+        },
+        {
+          "model_name": "Samurai",
+          "year": 1995
+        },
+        {
+          "model_name": "Grand Vitara",
+          "year": 1999
+        },
+        {
+          "model_name": "Grand Vitara XL-7",
+          "year": 2002
+        },
+        {
+          "model_name": "APV",
+          "year": 0
+        },
+        {
+          "model_name": "X-90",
+          "year": 1996
+        },
+        {
+          "model_name": "Jimny 5-Door",
+          "year": 0
+        },
+        {
+          "model_name": "S-Presso",
+          "year": 0
+        },
+        {
+          "model_name": "Fronx",
+          "year": 0
+        },
+        {
+          "model_name": "Celerio",
+          "year": 0
+        },
+        {
+          "model_name": "Vitara",
+          "year": 1999
+        },
+        {
+          "model_name": "Swift",
+          "year": 1995
+        },
+        {
+          "model_name": "Forsa",
+          "year": 0
+        },
+        {
+          "model_name": "XL7 Hybrid Black Upgrade",
+          "year": 0
+        },
+        {
+          "model_name": "Aerio",
+          "year": 2002
+        },
+        {
+          "model_name": "Ertiga",
+          "year": 0
+        },
+        {
+          "model_name": "SX4",
+          "year": 2007
+        },
+        {
+          "model_name": "Verona",
+          "year": 2004
+        },
+        {
+          "model_name": "Carry",
+          "year": 0
+        },
+        {
+          "model_name": "Sidekick Sport",
+          "year": 1995
+        },
+        {
+          "model_name": "Dzire",
+          "year": 0
+        },
+        {
+          "model_name": "Sidekick",
+          "year": 1995
+        },
+        {
+          "model_name": "Kizashi",
+          "year": 2010
+        }
       ]
     },
     {
       "name": "Tata",
-      "models": ["Super Ace Mint", "Manza"]
+      "models": [
+        {
+          "model_name": "Super Ace Mint",
+          "year": 0
+        },
+        {
+          "model_name": "Manza",
+          "year": 0
+        }
+      ]
     },
     {
       "name": "Tesla",
-      "models": ["Model S", "Model 3", "Model Y", "Model X", "Roadster"]
+      "models": [
+        {
+          "model_name": "Model S",
+          "year": 2012
+        },
+        {
+          "model_name": "Model 3",
+          "year": 2017
+        },
+        {
+          "model_name": "Model Y",
+          "year": 2020
+        },
+        {
+          "model_name": "Model X",
+          "year": 2016
+        },
+        {
+          "model_name": "Roadster",
+          "year": 2008
+        }
+      ]
     },
     {
       "name": "Toyota",
       "models": [
-        "C-HR",
-        "Corolla Cross",
-        "Prius C",
-        "Pick-Up",
-        "Vios",
-        "Land Cruiser Prado",
-        "Scion xA",
-        "GR Yaris",
-        "Scion tC",
-        "Alphard",
-        "Corona",
-        "RAV4 Prime (PHEV)",
-        "Tamaraw",
-        "Hilux",
-        "Van",
-        "Corolla Matrix",
-        "Zenix",
-        "Avalon",
-        "Tercel",
-        "Innova",
-        "Camry",
-        "Corolla",
-        "Wigo",
-        "Scion FR-S",
-        "4Runner",
-        "Previa",
-        "Corolla Altis",
-        "Ativ",
-        "Crown Signia",
-        "Hiace",
-        "COROLLA iM",
-        "Yaris",
-        "FCHV-adv",
-        "Sienna",
-        "RAV4",
-        "Scion iM",
-        "86",
-        "Avanza",
-        "Cressida",
-        "Sequoia",
-        "Scion iA",
-        "GR86",
-        "bZ4X",
-        "Raize",
-        "Prius Prime (PHEV)",
-        "Prius",
-        "Echo",
-        "Highlander",
-        "Land Cruiser",
-        "Starlet",
-        "Prius V",
-        "Rush",
-        "Veloz",
-        "Supra",
-        "Scion iQ",
-        "Yaris iA",
-        "Scion xB",
-        "FJ Cruiser",
-        "Yaris Cross",
-        "MR2",
-        "Hiace Super Grandia",
-        "Venza",
-        "GR Supra",
-        "Crown",
-        "Fortuner",
-        "Camry Solara",
-        "Scion xD",
-        "Celica",
-        "Lite Ace",
-        "Paseo",
-        "Mirai",
-        "GR Corolla",
-        "Grand Highlander"
+        {
+          "model_name": "C-HR",
+          "year": 2018
+        },
+        {
+          "model_name": "Corolla Cross",
+          "year": 2022
+        },
+        {
+          "model_name": "Prius C",
+          "year": 2012
+        },
+        {
+          "model_name": "Pick-Up",
+          "year": 0
+        },
+        {
+          "model_name": "Vios",
+          "year": 0
+        },
+        {
+          "model_name": "Land Cruiser Prado",
+          "year": 0
+        },
+        {
+          "model_name": "Scion xA",
+          "year": 2004
+        },
+        {
+          "model_name": "GR Yaris",
+          "year": 0
+        },
+        {
+          "model_name": "Scion tC",
+          "year": 2005
+        },
+        {
+          "model_name": "Alphard",
+          "year": 0
+        },
+        {
+          "model_name": "Corona",
+          "year": 0
+        },
+        {
+          "model_name": "RAV4 Prime (PHEV)",
+          "year": 2021
+        },
+        {
+          "model_name": "Tamaraw",
+          "year": 0
+        },
+        {
+          "model_name": "Hilux",
+          "year": 0
+        },
+        {
+          "model_name": "Van",
+          "year": 0
+        },
+        {
+          "model_name": "Corolla Matrix",
+          "year": 2003
+        },
+        {
+          "model_name": "Zenix",
+          "year": 0
+        },
+        {
+          "model_name": "Avalon",
+          "year": 1995
+        },
+        {
+          "model_name": "Tercel",
+          "year": 1995
+        },
+        {
+          "model_name": "Innova",
+          "year": 0
+        },
+        {
+          "model_name": "Camry",
+          "year": 1995
+        },
+        {
+          "model_name": "Corolla",
+          "year": 1995
+        },
+        {
+          "model_name": "Wigo",
+          "year": 0
+        },
+        {
+          "model_name": "Scion FR-S",
+          "year": 2013
+        },
+        {
+          "model_name": "4Runner",
+          "year": 1995
+        },
+        {
+          "model_name": "Previa",
+          "year": 1995
+        },
+        {
+          "model_name": "Corolla Altis",
+          "year": 0
+        },
+        {
+          "model_name": "Ativ",
+          "year": 0
+        },
+        {
+          "model_name": "Crown Signia",
+          "year": 2025
+        },
+        {
+          "model_name": "Hiace",
+          "year": 0
+        },
+        {
+          "model_name": "COROLLA iM",
+          "year": 2017
+        },
+        {
+          "model_name": "Yaris",
+          "year": 2007
+        },
+        {
+          "model_name": "FCHV-adv",
+          "year": 2009
+        },
+        {
+          "model_name": "Sienna",
+          "year": 1995
+        },
+        {
+          "model_name": "RAV4",
+          "year": 1996
+        },
+        {
+          "model_name": "Scion iM",
+          "year": 2016
+        },
+        {
+          "model_name": "86",
+          "year": 2017
+        },
+        {
+          "model_name": "Avanza",
+          "year": 0
+        },
+        {
+          "model_name": "Cressida",
+          "year": 0
+        },
+        {
+          "model_name": "Sequoia",
+          "year": 2000
+        },
+        {
+          "model_name": "Scion iA",
+          "year": 2016
+        },
+        {
+          "model_name": "GR86",
+          "year": 2022
+        },
+        {
+          "model_name": "bZ4X",
+          "year": 2023
+        },
+        {
+          "model_name": "Raize",
+          "year": 0
+        },
+        {
+          "model_name": "Prius Prime (PHEV)",
+          "year": 2017
+        },
+        {
+          "model_name": "Prius",
+          "year": 2001
+        },
+        {
+          "model_name": "Echo",
+          "year": 2000
+        },
+        {
+          "model_name": "Highlander",
+          "year": 2001
+        },
+        {
+          "model_name": "Land Cruiser",
+          "year": 1995
+        },
+        {
+          "model_name": "Starlet",
+          "year": 0
+        },
+        {
+          "model_name": "Prius V",
+          "year": 2012
+        },
+        {
+          "model_name": "Rush",
+          "year": 0
+        },
+        {
+          "model_name": "Veloz",
+          "year": 0
+        },
+        {
+          "model_name": "Supra",
+          "year": 1995
+        },
+        {
+          "model_name": "Scion iQ",
+          "year": 2011
+        },
+        {
+          "model_name": "Yaris iA",
+          "year": 2017
+        },
+        {
+          "model_name": "Scion xB",
+          "year": 2004
+        },
+        {
+          "model_name": "FJ Cruiser",
+          "year": 2007
+        },
+        {
+          "model_name": "Yaris Cross",
+          "year": 0
+        },
+        {
+          "model_name": "MR2",
+          "year": 1995
+        },
+        {
+          "model_name": "Hiace Super Grandia",
+          "year": 0
+        },
+        {
+          "model_name": "Venza",
+          "year": 2009
+        },
+        {
+          "model_name": "GR Supra",
+          "year": 0
+        },
+        {
+          "model_name": "Crown",
+          "year": 2023
+        },
+        {
+          "model_name": "Fortuner",
+          "year": 0
+        },
+        {
+          "model_name": "Camry Solara",
+          "year": 1999
+        },
+        {
+          "model_name": "Scion xD",
+          "year": 2008
+        },
+        {
+          "model_name": "Celica",
+          "year": 1995
+        },
+        {
+          "model_name": "Lite Ace",
+          "year": 0
+        },
+        {
+          "model_name": "Paseo",
+          "year": 1995
+        },
+        {
+          "model_name": "Mirai",
+          "year": 2016
+        },
+        {
+          "model_name": "GR Corolla",
+          "year": 2023
+        },
+        {
+          "model_name": "Grand Highlander",
+          "year": 2024
+        }
       ]
     },
     {
       "name": "VinFast",
-      "models": ["VF e34", "VF 3", "VF 5", "VF 6", "VF 8", "VF 9", "VF 7"]
+      "models": [
+        {
+          "model_name": "VF e34",
+          "year": 0
+        },
+        {
+          "model_name": "VF 3",
+          "year": 0
+        },
+        {
+          "model_name": "VF 5",
+          "year": 0
+        },
+        {
+          "model_name": "VF 6",
+          "year": 2023
+        },
+        {
+          "model_name": "VF 8",
+          "year": 2022
+        },
+        {
+          "model_name": "VF 9",
+          "year": 2022
+        },
+        {
+          "model_name": "VF 7",
+          "year": 2023
+        }
+      ]
     },
     {
       "name": "Volvo",
       "models": [
-        "S80",
-        "EC40",
-        "940 Series",
-        "780 Series",
-        "V60",
-        "960 Series",
-        "EX40",
-        "XC60",
-        "EX30",
-        "S40",
-        "S90",
-        "760 Series",
-        "S70",
-        "V90",
-        "V60CC",
-        "260 Series",
-        "XC40",
-        "EX30 CC",
-        "C40",
-        "240 Series",
-        "C70 / C30",
-        "V70",
-        "XC70",
-        "EX90",
-        "XC40 Recharge",
-        "V40",
-        "850 Series",
-        "C70",
-        "S60 Cross Country",
-        "C30",
-        "740 Series",
-        "S60",
-        "V90CC",
-        "XC90",
-        "V50"
+        {
+          "model_name": "S80",
+          "year": 1999
+        },
+        {
+          "model_name": "EC40",
+          "year": 2025
+        },
+        {
+          "model_name": "940 Series",
+          "year": 1995
+        },
+        {
+          "model_name": "780 Series",
+          "year": 0
+        },
+        {
+          "model_name": "V60",
+          "year": 2015
+        },
+        {
+          "model_name": "960 Series",
+          "year": 1995
+        },
+        {
+          "model_name": "EX40",
+          "year": 2025
+        },
+        {
+          "model_name": "XC60",
+          "year": 2010
+        },
+        {
+          "model_name": "EX30",
+          "year": 2025
+        },
+        {
+          "model_name": "S40",
+          "year": 1999
+        },
+        {
+          "model_name": "S90",
+          "year": 1998
+        },
+        {
+          "model_name": "760 Series",
+          "year": 0
+        },
+        {
+          "model_name": "S70",
+          "year": 1998
+        },
+        {
+          "model_name": "V90",
+          "year": 1998
+        },
+        {
+          "model_name": "V60CC",
+          "year": 2015
+        },
+        {
+          "model_name": "260 Series",
+          "year": 0
+        },
+        {
+          "model_name": "XC40",
+          "year": 2019
+        },
+        {
+          "model_name": "EX30 CC",
+          "year": 0
+        },
+        {
+          "model_name": "C40",
+          "year": 2022
+        },
+        {
+          "model_name": "240 Series",
+          "year": 0
+        },
+        {
+          "model_name": "C70 / C30",
+          "year": 2012
+        },
+        {
+          "model_name": "V70",
+          "year": 1998
+        },
+        {
+          "model_name": "XC70",
+          "year": 2004
+        },
+        {
+          "model_name": "EX90",
+          "year": 2025
+        },
+        {
+          "model_name": "XC40 Recharge",
+          "year": 0
+        },
+        {
+          "model_name": "V40",
+          "year": 2000
+        },
+        {
+          "model_name": "850 Series",
+          "year": 1995
+        },
+        {
+          "model_name": "C70",
+          "year": 1998
+        },
+        {
+          "model_name": "S60 Cross Country",
+          "year": 2016
+        },
+        {
+          "model_name": "C30",
+          "year": 2007
+        },
+        {
+          "model_name": "740 Series",
+          "year": 0
+        },
+        {
+          "model_name": "S60",
+          "year": 2001
+        },
+        {
+          "model_name": "V90CC",
+          "year": 2017
+        },
+        {
+          "model_name": "XC90",
+          "year": 2003
+        },
+        {
+          "model_name": "V50",
+          "year": 2005
+        }
       ]
     },
     {
       "name": "Voyah",
-      "models": ["Dreamer"]
+      "models": [
+        {
+          "model_name": "Dreamer",
+          "year": 0
+        }
+      ]
     }
   ]
 }
