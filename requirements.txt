@@ -1,4 +1,1 @@
 appwrite
-Flask
-Flask-CORS
-gunicorn
