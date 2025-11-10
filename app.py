@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from flask_cors import CORS
 import json
 import os
@@ -8,6 +8,8 @@ CORS(app)  # Enable CORS for all routes
 
 # Load data from JSON file
 def load_data():
+    # IMPORTANT: This assumes 'data.json' is in the same directory as app.py
+    # Make sure you've included data.json in your GitHub repo.
     try:
         with open('data.json', 'r', encoding='utf-8') as f:
             return json.load(f)
@@ -53,8 +55,6 @@ def get_brand_models(brand_name):
 @app.route('/api/brands/search', methods=['GET'])
 def search_models():
     """Search for models by name or year"""
-    from flask import request
-    
     data = load_data()
     
     if "error" in data:
@@ -126,5 +126,9 @@ def internal_error(error):
     return jsonify({"error": "Internal server error"}), 500
 
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5000))
+    #
+    # --- THIS IS THE FIX FOR PROBLEM #2 ---
+    # Appwrite requires your server to listen on port 3000
+    #
+    port = 3000
     app.run(host='0.0.0.0', port=port, debug=True)

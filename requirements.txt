@@ -1,1 +1,3 @@
 appwrite
+Flask
+Flask-CORS
