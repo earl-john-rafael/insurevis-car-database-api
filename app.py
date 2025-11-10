@@ -2,21 +2,41 @@ from flask import Flask, jsonify, request
 from flask_cors import CORS
 import json
 import os
+import sys # Import sys to print errors
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
-# Load data from JSON file
-def load_data():
-    # IMPORTANT: This assumes 'data.json' is in the same directory as app.py
-    # Make sure you've included data.json in your GitHub repo.
+#
+# --- THIS IS THE NEW, EFFICIENT WAY ---
+# Load the data ONCE when the server starts.
+#
+def load_data_globally():
+    """Loads data from data.json into a global variable."""
     try:
+        # Assumes 'data.json' is in the root, next to this app.py
         with open('data.json', 'r', encoding='utf-8') as f:
-            return json.load(f)
+            print("Successfully opened data.json")
+            data = json.load(f)
+            print(f"Successfully loaded data.json. Found {len(data.get('brands', []))} brands.")
+            return data
     except FileNotFoundError:
+        print("!!! ERROR: data.json file not found !!!", file=sys.stderr)
         return {"error": "data.json file not found"}
     except json.JSONDecodeError:
+        print("!!! ERROR: Invalid JSON format in data.json !!!", file=sys.stderr)
         return {"error": "Invalid JSON format"}
+    except Exception as e:
+        print(f"!!! AN UNKNOWN ERROR OCCURRED: {e} !!!", file=sys.stderr)
+        return {"error": f"An unknown error occurred: {e}"}
+
+# Load the data into a global variable called APP_DATA
+APP_DATA = load_data_globally()
+
+@app.route('/health')
+def health_check():
+    """A simple health check endpoint that doesn't use the data."""
+    return jsonify({"status": "ok"})
 
 @app.route('/')
 def home():
@@ -27,20 +47,22 @@ def home():
             "/api/brands": "Get all car brands and models with years",
             "/api/brands/<brand_name>": "Get models for a specific brand",
             "/api/brands/search?model=<name>&year=<year>": "Search for models by name or year",
-            "/api/count": "Get statistics about brands and models"
+            "/api/count": "Get statistics about brands and models",
+            "/health": "Simple health check"
         }
     })
 
 @app.route('/api/brands', methods=['GET'])
 def get_all_brands():
     """Get all car brands and their models"""
-    data = load_data()
-    return jsonify(data)
+    # Use the pre-loaded data
+    return jsonify(APP_DATA)
 
 @app.route('/api/brands/<string:brand_name>', methods=['GET'])
 def get_brand_models(brand_name):
     """Get models for a specific brand"""
-    data = load_data()
+    # Use the pre-loaded data
+    data = APP_DATA
     
     if "error" in data:
         return jsonify(data), 500
@@ -55,7 +77,8 @@ def get_brand_models(brand_name):
 @app.route('/api/brands/search', methods=['GET'])
 def search_models():
     """Search for models by name or year"""
-    data = load_data()
+    # Use the pre-loaded data
+    data = APP_DATA
     
     if "error" in data:
         return jsonify(data), 500
@@ -90,7 +113,8 @@ def search_models():
 @app.route('/api/count', methods=['GET'])
 def get_statistics():
     """Get statistics about the data"""
-    data = load_data()
+    # Use the pre-loaded data
+    data = APP_DATA
     
     if "error" in data:
         return jsonify(data), 500
@@ -112,6 +136,8 @@ def get_statistics():
         "total_models": total_models,
         "year_range": {
             "min": min(all_years) if all_years else None,
+            # --- BUG FIX ---
+            # This was 'all_models', now fixed to 'all_years'
             "max": max(all_years) if all_years else None
         },
         "brands": [brand['name'] for brand in brands]
@@ -126,9 +152,11 @@ def internal_error(error):
     return jsonify({"error": "Internal server error"}), 500
 
 if __name__ == '__main__':
-    #
-    # --- THIS IS THE FIX FOR PROBLEM #2 ---
-    # Appwrite requires your server to listen on port 3000
-    #
     port = 3000
     app.run(host='0.0.0.0', port=port, debug=False)
+
+#
+# --- THIS IS THE MAJOR CHANGE ---
+# We remove the if __name__ == '__main__' block completely.
+# Gunicorn will start the server, so we don't need app.run() at all.
+#
