@@ -35,7 +35,7 @@ APP_DATA = load_data_globally()
 
 @app.route('/health')
 def health_check():
-    """A simple health check endpoint that doesn't use the data."""
+    """A simple health check endpoint."""
     return jsonify({"status": "ok"})
 
 @app.route('/')
@@ -47,21 +47,18 @@ def home():
             "/api/brands": "Get all car brands and models with years",
             "/api/brands/<brand_name>": "Get models for a specific brand",
             "/api/brands/search?model=<name>&year=<year>": "Search for models by name or year",
-            "/api/count": "Get statistics about brands and models",
-            "/health": "Simple health check"
+            "/api/count": "Get statistics about brands and models"
         }
     })
 
 @app.route('/api/brands', methods=['GET'])
 def get_all_brands():
     """Get all car brands and their models"""
-    # Use the pre-loaded data
     return jsonify(APP_DATA)
 
 @app.route('/api/brands/<string:brand_name>', methods=['GET'])
 def get_brand_models(brand_name):
     """Get models for a specific brand"""
-    # Use the pre-loaded data
     data = APP_DATA
     
     if "error" in data:
@@ -77,7 +74,6 @@ def get_brand_models(brand_name):
 @app.route('/api/brands/search', methods=['GET'])
 def search_models():
     """Search for models by name or year"""
-    # Use the pre-loaded data
     data = APP_DATA
     
     if "error" in data:
@@ -113,7 +109,6 @@ def search_models():
 @app.route('/api/count', methods=['GET'])
 def get_statistics():
     """Get statistics about the data"""
-    # Use the pre-loaded data
     data = APP_DATA
     
     if "error" in data:
@@ -136,8 +131,6 @@ def get_statistics():
         "total_models": total_models,
         "year_range": {
             "min": min(all_years) if all_years else None,
-            # --- BUG FIX ---
-            # This was 'all_models', now fixed to 'all_years'
             "max": max(all_years) if all_years else None
         },
         "brands": [brand['name'] for brand in brands]
@@ -151,12 +144,7 @@ def not_found(error):
 def internal_error(error):
     return jsonify({"error": "Internal server error"}), 500
 
-if __name__ == '__main__':
-    port = 3000
-    app.run(host='0.0.0.0', port=port, debug=False)
-
 #
-# --- THIS IS THE MAJOR CHANGE ---
-# We remove the if __name__ == '__main__' block completely.
-# Gunicorn will start the server, so we don't need app.run() at all.
+# The 'if __name__ == "__main__":' block is GONE.
+# Gunicorn will be responsible for running the app.
 #
